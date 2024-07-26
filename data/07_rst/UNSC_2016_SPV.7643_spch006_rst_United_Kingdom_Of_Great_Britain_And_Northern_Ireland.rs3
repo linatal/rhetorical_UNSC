@@ -1,0 +1,144 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="conjunction" type="multinuc"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="e-elaboration" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation-N" type="rst"/>
+			<rel name="evaluation-S" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="interpretation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="list" type="multinuc"/>
+			<rel name="means" type="rst"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="otherwise" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="reason-N" type="rst"/>
+			<rel name="reason-S" type="rst"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sameunit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+			<rel name="summary" type="rst"/>
+			<rel name="textual-organization" type="multinuc"/>
+			<rel name="textual-organization" type="rst"/>
+			<rel name="topic-comment" type="rst"/>
+			<rel name="unless" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="51" relname="span">The United Kingdom welcomes the adoption of resolution 2272</segment>
+		<segment id="2" parent="1" relname="e-elaboration">(2016)</segment>
+		<segment id="3" parent="52" relname="sameunit">today.</segment>
+		<segment id="4" parent="53" relname="joint">I pay tribute to Samantha for her determination and courage in bringing this difficult issue to the Security Council.</segment>
+		<segment id="5" parent="54" relname="span">Like so many in the chamber yesterday, I was appalled by the sickening crimes detailed in our meeting</segment>
+		<segment id="6" parent="5" relname="evidence">(see S/PV.7642)</segment>
+		<segment id="7" parent="55" relname="span">on the report of the Secretary-General</segment>
+		<segment id="8" parent="7" relname="evidence">(S/2016/729).</segment>
+		<segment id="9" parent="10" relname="concession">Alhough I was shocked,</segment>
+		<segment id="10" parent="57" relname="span">sadly I cannot say that I was surprised.</segment>
+		<segment id="11" parent="58" relname="elaboration">Horrific allegations against peacekeepers have surfaced almost every year for over two decades - in Bosnia and Herzegovina, in C6te d'Ivoire, in Haiti, in the Democratic Republic of the Congo and now inthe Central African Republic.</segment>
+		<segment id="12" parent="59" relname="evaluation-S">The most harrowing abuse demands the most steadfast response.</segment>
+		<segment id="13" parent="14" relname="attribution">Each and every victim could tell us</segment>
+		<segment id="14" parent="102" relname="span">that for too long our response has fallen short.</segment>
+		<segment id="15" parent="16" relname="attribution">Today I hope</segment>
+		<segment id="16" parent="62" relname="span">that finally we have turned the page and begun to make amends.</segment>
+		<segment id="17" parent="66" relname="evaluation-S">We cannot be having this discussion again - not in 20 years' time, not in one year's time.</segment>
+		<segment id="18" parent="66" relname="span">What we need now is swift and systematic implementation of this resolution,</segment>
+		<segment id="19" parent="18" relname="elaboration">implementation that brings justice for the victims and ends the sickening cycle of impunity.</segment>
+		<segment id="20" parent="69" relname="conjunction">This is not about collective punishment,</segment>
+		<segment id="21" parent="69" relname="conjunction">nor about penalizing the many for the sick acts of the few.</segment>
+		<segment id="22" parent="68" relname="span">This is about taking serious action in the face of serious allegations,</segment>
+		<segment id="23" parent="22" relname="restatement">about acting decisively against any pattern of abuse in any part of the world.</segment>
+		<segment id="24" parent="72" relname="conjunction">It is deeply regrettable that there was no unanimity</segment>
+		<segment id="25" parent="72" relname="conjunction">and that there was an attempt to weaken the resolution through a draft amendment.</segment>
+		<segment id="26" parent="73" relname="span">What does that say to the victims,</segment>
+		<segment id="27" parent="26" relname="e-elaboration">the women and girls whom we heard so poignantly about yesterday,</segment>
+		<segment id="28" parent="74" relname="span">that some members of this Council would seek to weaken our response,</segment>
+		<segment id="29" parent="28" relname="concession">rather than endorse meaningful action?</segment>
+		<segment id="30" parent="77" relname="span">The United Kingdom voted against the draft amendment</segment>
+		<segment id="31" parent="30" relname="reason-S">because not holding perpetrators accountable is unacceptable.</segment>
+		<segment id="32" parent="78" relname="span">Had the draft amendment succeeded,</segment>
+		<segment id="33" parent="32" relname="result">the Secretary-General would not have had a lever to apply pressure for accountability.</segment>
+		<segment id="34" parent="83" relname="background">I want to conclude with the words of a teenage girl from Bangui.</segment>
+		<segment id="35" parent="82" relname="background">Speaking to ajournalist earlier this year,</segment>
+		<segment id="36" parent="85" relname="attribution">she said:</segment>
+		<segment id="37" parent="81" relname="span">"Sometimes when I am alone with my baby I think about killing him.</segment>
+		<segment id="38" parent="37" relname="e-elaboration">He reminds me of the man who raped me."</segment>
+		<segment id="39" parent="103" relname="sameunit">(The Washington Post,</segment>
+		<segment id="40" parent="103" relname="sameunit">27 February 2016)</segment>
+		<segment id="41" parent="42" relname="concession">Those are difficult words to read in the Council,</segment>
+		<segment id="42" parent="87" relname="span">but this is the reality of sexual exploitation and abuse.</segment>
+		<segment id="43" parent="90" relname="span">It is a reality created by a peacekeeper</segment>
+		<segment id="44" parent="88" relname="span">who was entrusted to help,</segment>
+		<segment id="45" parent="44" relname="antithesis">not harm,</segment>
+		<segment id="46" parent="89" relname="sameunit">that teenage girl.</segment>
+		<segment id="47" parent="91" relname="list">It is a reality that we simply cannot shy away from.</segment>
+		<segment id="48" parent="94" relname="conjunction">We must confront it</segment>
+		<segment id="49" parent="94" relname="conjunction">and we must end it.</segment>
+		<segment id="50" parent="95" relname="means">This resolution today is a vital step towards doing so.</segment>
+		<group id="51" type="span" parent="52" relname="sameunit"/>
+		<group id="52" type="multinuc" parent="53" relname="joint"/>
+		<group id="53" type="multinuc" parent="64" relname="preparation"/>
+		<group id="54" type="span" parent="56" relname="sameunit"/>
+		<group id="55" type="span" parent="56" relname="sameunit"/>
+		<group id="56" type="multinuc" parent="57" relname="background"/>
+		<group id="57" type="span" parent="58" relname="span"/>
+		<group id="58" type="span" parent="59" relname="span"/>
+		<group id="59" type="span" parent="60" relname="span"/>
+		<group id="60" type="span" parent="63" relname="background"/>
+		<group id="62" type="span" parent="63" relname="span"/>
+		<group id="63" type="span" parent="64" relname="span"/>
+		<group id="64" type="span" parent="65" relname="span"/>
+		<group id="65" type="span" parent="71" relname="background"/>
+		<group id="66" type="span" parent="67" relname="span"/>
+		<group id="67" type="span" parent="71" relname="span"/>
+		<group id="68" type="span" parent="70" relname="span"/>
+		<group id="69" type="multinuc" parent="68" relname="antithesis"/>
+		<group id="70" type="span" parent="67" relname="elaboration"/>
+		<group id="71" type="span" parent="100" relname="span"/>
+		<group id="72" type="multinuc" parent="75" relname="background"/>
+		<group id="73" type="span" parent="75" relname="span"/>
+		<group id="74" type="span" parent="73" relname="background"/>
+		<group id="75" type="span" parent="76" relname="span"/>
+		<group id="76" type="span" parent="79" relname="background"/>
+		<group id="77" type="span" parent="79" relname="span"/>
+		<group id="78" type="span" parent="77" relname="elaboration"/>
+		<group id="79" type="span" parent="80" relname="span"/>
+		<group id="80" type="span" parent="98" relname="joint"/>
+		<group id="81" type="span" parent="85" relname="span"/>
+		<group id="82" type="span" parent="83" relname="span"/>
+		<group id="83" type="span" parent="86" relname="span"/>
+		<group id="85" type="span" parent="82" relname="span"/>
+		<group id="86" type="span" parent="92" relname="background"/>
+		<group id="87" type="span" parent="92" relname="span"/>
+		<group id="88" type="span" parent="89" relname="sameunit"/>
+		<group id="89" type="multinuc" parent="43" relname="e-elaboration"/>
+		<group id="90" type="span" parent="91" relname="list"/>
+		<group id="91" type="multinuc" parent="87" relname="elaboration"/>
+		<group id="92" type="span" parent="93" relname="span"/>
+		<group id="93" type="span" parent="96" relname="motivation"/>
+		<group id="94" type="multinuc" parent="95" relname="span"/>
+		<group id="95" type="span" parent="96" relname="span"/>
+		<group id="96" type="span" parent="97" relname="span"/>
+		<group id="97" type="span" parent="98" relname="joint"/>
+		<group id="98" type="multinuc" parent="99" relname="span"/>
+		<group id="99" type="span" parent="100" relname="motivation"/>
+		<group id="100" type="span" parent="101" relname="span"/>
+		<group id="101" type="span" />
+		<group id="102" type="span" parent="62" relname="motivation"/>
+		<group id="103" type="multinuc" parent="81" relname="evidence"/>
+	</body>
+</rst>

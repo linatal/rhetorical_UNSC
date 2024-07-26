@@ -1,0 +1,314 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="conjunction" type="multinuc"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="e-elaboration" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation-N" type="rst"/>
+			<rel name="evaluation-S" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="interpretation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="list" type="multinuc"/>
+			<rel name="means" type="rst"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="otherwise" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="reason-N" type="rst"/>
+			<rel name="reason-S" type="rst"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sameunit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+			<rel name="summary" type="rst"/>
+			<rel name="textual-organization" type="multinuc"/>
+			<rel name="textual-organization" type="rst"/>
+			<rel name="topic-comment" type="rst"/>
+			<rel name="unless" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="135" relname="span">On behalf of the United States, I should like sincerely to thank those countries</segment>
+		<segment id="2" parent="134" relname="span">that voted in favour of resolution 2272</segment>
+		<segment id="3" parent="2" relname="e-elaboration">(2016),</segment>
+		<segment id="4" parent="134" relname="e-elaboration">which was adopted today.</segment>
+		<segment id="5" parent="137" relname="span">The resolution underscores the Security Council's responsibility</segment>
+		<segment id="6" parent="5" relname="e-elaboration">- our responsibility -</segment>
+		<segment id="7" parent="138" relname="span">to address the scourge of sexual exploitation and abuse in United Nations peacekeeping,</segment>
+		<segment id="8" parent="7" relname="evaluation-S">which has been allowed to persist for far too long.</segment>
+		<segment id="9" parent="139" relname="evaluation-S">Impunity for such abuses clearly undermines our efforts to promote international peace and security.</segment>
+		<segment id="10" parent="141" relname="attribution">The resolution makes clear</segment>
+		<segment id="11" parent="141" relname="span">that it is our job to ensure</segment>
+		<segment id="12" parent="142" relname="span">that there is accountability</segment>
+		<segment id="13" parent="143" relname="span">when men, women and children are abused by the Blue Helmets</segment>
+		<segment id="14" parent="13" relname="e-elaboration">whom the Council has sent to protect them.</segment>
+		<segment id="15" parent="258" relname="conjunction">The resolution signals the Security Council's strong support for the zero-tolerance policy of the United Nations</segment>
+		<segment id="16" parent="257" relname="span">and for the ongoing efforts by the Secretary-General to strengthen this institution's response, reporting and remedial measures</segment>
+		<segment id="17" parent="16" relname="purpose">to prevent and combat sexual exploitation and abuse among United Nations peacekeepers.</segment>
+		<segment id="18" parent="146" relname="span">The resolution underscores the fact that peacekeepers found guilty</segment>
+		<segment id="19" parent="18" relname="elaboration">- not those accused, those found guilty -</segment>
+		<segment id="20" parent="147" relname="sameunit">of committing sexual exploitation and abuse</segment>
+		<segment id="21" parent="148" relname="span">do not deserve to serve in United Nations peacekeeping missions,</segment>
+		<segment id="22" parent="149" relname="span">and sends a clear message to troop- and police-contributing countries</segment>
+		<segment id="23" parent="22" relname="e-elaboration">that fail to take action to prevent or punish credible allegations of sexual abuse and exploitation,</segment>
+		<segment id="24" parent="150" relname="conjunction">as well as to all States Members of the United Nations and to United Nations bodies,</segment>
+		<segment id="25" parent="151" relname="elaboration">to ensure that these investigations are carried out thoroughly, promptly and impartially.</segment>
+		<segment id="26" parent="154" relname="span">I should also like to echo my French colleague's comment</segment>
+		<segment id="27" parent="26" relname="elaboration">that the colour of the helmet means little to the victim.</segment>
+		<segment id="28" parent="156" relname="span">All of us,</segment>
+		<segment id="29" parent="155" relname="list">wherever we serve,</segment>
+		<segment id="30" parent="155" relname="list">whether we wear a blue or a green or some other colour helmet,</segment>
+		<segment id="31" parent="158" relname="span">have a responsibility to live up to the standards</segment>
+		<segment id="32" parent="31" relname="e-elaboration">that this resolution tries to enshrine.</segment>
+		<segment id="33" parent="161" relname="concession">All of us have a responsibility with respect to individuals who serve us overseas,</segment>
+		<segment id="34" parent="160" relname="conjunction">in the same way that we have a responsibility within our own borders to ensure that these kinds of crimes are never carried out</segment>
+		<segment id="35" parent="36" relname="condition">and that when they are carried out</segment>
+		<segment id="36" parent="159" relname="span">the perpetrators are held accountable.</segment>
+		<segment id="37" parent="166" relname="span">The resolution adopted today endorses the decision of the Secretary-General to repatriate United Nations peacekeeping units</segment>
+		<segment id="38" parent="37" relname="e-elaboration">that demonstrate widespread or systemic sexual abuse and exploitation,</segment>
+		<segment id="39" parent="168" relname="span">and it requests that the Secretary-General repatriate all uniformed personnel from a contributing country in a given mission</segment>
+		<segment id="40" parent="167" relname="conjunction">if that country fails to take appropriate steps to address credible allegations of sexual exploitation and abuse,</segment>
+		<segment id="41" parent="167" relname="conjunction">fails to hold the perpetrators accountable</segment>
+		<segment id="42" parent="167" relname="conjunction">or fails to inform the Secretary-General of the status of such efforts.</segment>
+		<segment id="43" parent="189" relname="background">I should like, if I could, to respond to Egypt's intervention.</segment>
+		<segment id="44" parent="172" relname="background">We were accused, implicitly, politely, of having an ulterior motive.</segment>
+		<segment id="45" parent="172" relname="span">I confess that I do have an ulterior motive.</segment>
+		<segment id="46" parent="171" relname="span">My ulterior motive is actually, finally, to do something about a cancer:</segment>
+		<segment id="47" parent="174" relname="span">the cancer of sexual exploitation and abuse against people</segment>
+		<segment id="48" parent="47" relname="e-elaboration">who trust the United Nations flag.</segment>
+		<segment id="49" parent="176" relname="sequence">They see a peacekeeper coming their way</segment>
+		<segment id="50" parent="51" relname="attribution">and they think,</segment>
+		<segment id="51" parent="175" relname="span">this is someone who is going to help me;</segment>
+		<segment id="52" parent="177" relname="attribution">they do not think,</segment>
+		<segment id="53" parent="177" relname="span">I have to run,</segment>
+		<segment id="54" parent="53" relname="reason-S">this is someone who is going to rape me.</segment>
+		<segment id="55" parent="180" relname="restatement">That is not what they think.</segment>
+		<segment id="56" parent="184" relname="antithesis">That is not what they should ever think;</segment>
+		<segment id="57" parent="182" relname="conjunction">but that is what they are going to think,</segment>
+		<segment id="58" parent="182" relname="conjunction">and that is with some of them do think,</segment>
+		<segment id="59" parent="183" relname="span">because there is not accountability for the crimes committed</segment>
+		<segment id="60" parent="59" relname="elaboration">that is in any way commensurate with what appears to be the scale of this problem.</segment>
+		<segment id="61" parent="188" relname="span">So that is my ulterior motive, I confess.</segment>
+		<segment id="62" parent="61" relname="topic-comment">Sue me.</segment>
+		<segment id="63" parent="262" relname="span">I also take note of the very important comment</segment>
+		<segment id="64" parent="63" relname="e-elaboration">that Egypt made,</segment>
+		<segment id="65" parent="191" relname="span">of the admission that the measures contained in the resolution</segment>
+		<segment id="66" parent="65" relname="e-elaboration">- measures requiring accountability -</segment>
+		<segment id="67" parent="192" relname="sameunit">would not have been passed by the General Assembly.</segment>
+		<segment id="68" parent="69" relname="evaluation-S">We agree;</segment>
+		<segment id="69" parent="195" relname="span">the General Assembly has been totally paralysed.</segment>
+		<segment id="70" parent="196" relname="span">There are countries within the negotiations that are going on</segment>
+		<segment id="71" parent="70" relname="circumstance">as we speak</segment>
+		<segment id="72" parent="200" relname="span">that have tried to water down the recommendations</segment>
+		<segment id="73" parent="72" relname="e-elaboration">that the Secretary-General has made.</segment>
+		<segment id="74" parent="202" relname="span">It would be one thing</segment>
+		<segment id="75" parent="201" relname="conjunction">if we were succeeding,</segment>
+		<segment id="76" parent="201" relname="conjunction">if the system was working.</segment>
+		<segment id="77" parent="204" relname="conjunction">We come in here every day;</segment>
+		<segment id="78" parent="204" relname="conjunction">we lament,</segment>
+		<segment id="79" parent="204" relname="conjunction">we condemn.</segment>
+		<segment id="80" parent="206" relname="conjunction">We condemn the abuse</segment>
+		<segment id="81" parent="206" relname="conjunction">and we condemn the lack of accountability,</segment>
+		<segment id="82" parent="207" relname="conjunction">and then we go to the General Assembly</segment>
+		<segment id="83" parent="263" relname="span">and some of us try to water down provisions</segment>
+		<segment id="84" parent="83" relname="purpose">to try to strengthen the system.</segment>
+		<segment id="85" parent="213" relname="preparation">What is up with that?</segment>
+		<segment id="86" parent="211" relname="sequence">One cannot simultaneously try to water something down in the General Assembly</segment>
+		<segment id="87" parent="210" relname="sameunit">and then complain</segment>
+		<segment id="88" parent="89" relname="circumstance">when the body that sends peacekeepers out to try to protect people actually takes responsibility for the fact</segment>
+		<segment id="89" parent="209" relname="span">that some of those who were supposed to do the protecting are committing sexual abuse.</segment>
+		<segment id="90" parent="212" relname="evaluation-S">We cannot have it both ways.</segment>
+		<segment id="91" parent="219" relname="list">If the General Assembly had been able to actually put in place methods for accountability,</segment>
+		<segment id="92" parent="216" relname="span">if the system were working for girls like the ones Matthew just quoted,</segment>
+		<segment id="93" parent="217" relname="span">who are now left with the children of the people</segment>
+		<segment id="94" parent="218" relname="sequence">who have come and raped them</segment>
+		<segment id="95" parent="218" relname="sequence">and then gone back to their countries never having been held accountable</segment>
+		<segment id="96" parent="219" relname="list">- if the system had prevented these kinds of acts,</segment>
+		<segment id="97" parent="219" relname="list">or least had some kind of accountability,</segment>
+		<segment id="98" parent="220" relname="span">we would not be having this conversation.</segment>
+		<segment id="99" parent="221" relname="span">We are here</segment>
+		<segment id="100" parent="99" relname="reason-S">only because it just keeps happening.</segment>
+		<segment id="101" parent="230" relname="attribution">So I think</segment>
+		<segment id="102" parent="228" relname="contrast">that it is very, very strange to hear Member States call on the one hand for more aggressive action or more accountability</segment>
+		<segment id="103" parent="224" relname="span">and then try to punt the issue to a body</segment>
+		<segment id="104" parent="103" relname="e-elaboration">that for years has been unable to come to a consensus;</segment>
+		<segment id="105" parent="225" relname="span">and with several countries,</segment>
+		<segment id="106" parent="105" relname="e-elaboration">again including countries on the Council,</segment>
+		<segment id="107" parent="226" relname="sameunit">trying to water down what happens in the General Assembly,</segment>
+		<segment id="108" parent="229" relname="evaluation-S">no reasonable person could expect a different result.</segment>
+		<segment id="109" parent="247" relname="preparation">Let me conclude with two messages.</segment>
+		<segment id="110" parent="233" relname="background">To the tens of thousands of troops and police who serve honourably in United Nations peacekeeping operations,</segment>
+		<segment id="111" parent="232" relname="span">we salute them unequivocally for putting their lives on the line,</segment>
+		<segment id="112" parent="111" relname="elaboration">with little fanfare or recognition,</segment>
+		<segment id="113" parent="232" relname="elaboration">for people who live in countries far from their own.</segment>
+		<segment id="114" parent="235" relname="span">We and the civilians</segment>
+		<segment id="115" parent="114" relname="elaboration">that they protect with their bravery</segment>
+		<segment id="116" parent="236" relname="sameunit">are completely indebted to them for their service.</segment>
+		<segment id="117" parent="238" relname="span">As I did yesterday</segment>
+		<segment id="118" parent="117" relname="evidence">(see S/PV.7642),</segment>
+		<segment id="119" parent="240" relname="span">I would single out those members of the Council</segment>
+		<segment id="120" parent="239" relname="span">that have contributed so many peacekeepers, including Egypt, Senegal, China, Uruguay and, of course, the United Kingdom,</segment>
+		<segment id="121" parent="120" relname="e-elaboration">which is becoming involved again.</segment>
+		<segment id="122" parent="242" relname="span">As a country</segment>
+		<segment id="123" parent="122" relname="e-elaboration">that does not contribute a lot of troops,</segment>
+		<segment id="124" parent="243" relname="span">we are in awe of their service.</segment>
+		<segment id="125" parent="126" relname="attribution">To the victims of sexual exploitation and abuse by United Nations peacekeepers, we pledge</segment>
+		<segment id="126" parent="267" relname="span">that we will do better.</segment>
+		<segment id="127" parent="266" relname="span">We will do better to ensure that the Blue Helmets we send as their protectors will not become perpetrators.</segment>
+		<segment id="128" parent="127" relname="elaboration">That is what we are striving for.</segment>
+		<segment id="129" parent="252" relname="condition">But if they do,</segment>
+		<segment id="130" parent="250" relname="span">this resolution demands that we, the Council, ensure that the people</segment>
+		<segment id="131" parent="249" relname="list">who commit such violations,</segment>
+		<segment id="132" parent="249" relname="list">who violate the good name of the United Nations and the good names of their countries,</segment>
+		<segment id="133" parent="251" relname="sameunit">be held accountable.</segment>
+		<group id="134" type="span" parent="136" relname="span"/>
+		<group id="135" type="span" parent="260" relname="preparation"/>
+		<group id="136" type="span" parent="1" relname="e-elaboration"/>
+		<group id="137" type="span" parent="139" relname="span"/>
+		<group id="138" type="span" parent="137" relname="e-elaboration"/>
+		<group id="139" type="span" parent="140" relname="span"/>
+		<group id="140" type="span" parent="145" relname="list"/>
+		<group id="141" type="span" parent="144" relname="span"/>
+		<group id="142" type="span" parent="11" relname="elaboration"/>
+		<group id="143" type="span" parent="12" relname="circumstance"/>
+		<group id="144" type="span" parent="145" relname="list"/>
+		<group id="145" type="multinuc" parent="259" relname="list"/>
+		<group id="146" type="span" parent="147" relname="sameunit"/>
+		<group id="147" type="multinuc" parent="21" relname="background"/>
+		<group id="148" type="span" parent="153" relname="list"/>
+		<group id="149" type="span" parent="150" relname="conjunction"/>
+		<group id="150" type="multinuc" parent="151" relname="span"/>
+		<group id="151" type="span" parent="152" relname="span"/>
+		<group id="152" type="span" parent="153" relname="list"/>
+		<group id="153" type="multinuc" parent="259" relname="list"/>
+		<group id="154" type="span" parent="164" relname="background"/>
+		<group id="155" type="multinuc" parent="28" relname="e-elaboration"/>
+		<group id="156" type="span" parent="157" relname="sameunit"/>
+		<group id="157" type="multinuc" parent="163" relname="list"/>
+		<group id="158" type="span" parent="157" relname="sameunit"/>
+		<group id="159" type="span" parent="160" relname="conjunction"/>
+		<group id="160" type="multinuc" parent="161" relname="span"/>
+		<group id="161" type="span" parent="162" relname="span"/>
+		<group id="162" type="span" parent="163" relname="list"/>
+		<group id="163" type="multinuc" parent="164" relname="span"/>
+		<group id="164" type="span" parent="165" relname="span"/>
+		<group id="165" type="span" parent="170" relname="joint"/>
+		<group id="166" type="span" parent="169" relname="conjunction"/>
+		<group id="167" type="multinuc" parent="39" relname="condition"/>
+		<group id="168" type="span" parent="169" relname="conjunction"/>
+		<group id="169" type="multinuc" parent="170" relname="joint"/>
+		<group id="170" type="multinuc" parent="268" relname="list"/>
+		<group id="171" type="span" parent="45" relname="e-elaboration"/>
+		<group id="172" type="span" parent="173" relname="span"/>
+		<group id="173" type="span" parent="187" relname="span"/>
+		<group id="174" type="span" parent="46" relname="e-elaboration"/>
+		<group id="175" type="span" parent="176" relname="sequence"/>
+		<group id="176" type="multinuc" parent="179" relname="contrast"/>
+		<group id="177" type="span" parent="178" relname="span"/>
+		<group id="178" type="span" parent="179" relname="contrast"/>
+		<group id="179" type="multinuc" parent="180" relname="span"/>
+		<group id="180" type="span" parent="181" relname="span"/>
+		<group id="181" type="span" parent="185" relname="background"/>
+		<group id="182" type="multinuc" parent="183" relname="reason-N"/>
+		<group id="183" type="span" parent="184" relname="span"/>
+		<group id="184" type="span" parent="185" relname="span"/>
+		<group id="185" type="span" parent="186" relname="span"/>
+		<group id="186" type="span" parent="173" relname="background"/>
+		<group id="187" type="span" parent="189" relname="span"/>
+		<group id="188" type="span" parent="187" relname="motivation"/>
+		<group id="189" type="span" parent="190" relname="span"/>
+		<group id="190" type="span" parent="268" relname="list"/>
+		<group id="191" type="span" parent="192" relname="sameunit"/>
+		<group id="192" type="multinuc" parent="193" relname="span"/>
+		<group id="193" type="span" parent="194" relname="span"/>
+		<group id="194" type="span" parent="198" relname="background"/>
+		<group id="195" type="span" parent="198" relname="span"/>
+		<group id="196" type="span" parent="197" relname="span"/>
+		<group id="197" type="span" parent="195" relname="background"/>
+		<group id="198" type="span" parent="199" relname="span"/>
+		<group id="199" type="span" parent="203" relname="span"/>
+		<group id="200" type="span" parent="196" relname="elaboration"/>
+		<group id="201" type="multinuc" parent="74" relname="condition"/>
+		<group id="202" type="span" parent="199" relname="elaboration"/>
+		<group id="203" type="span" parent="205" relname="span"/>
+		<group id="204" type="multinuc" parent="203" relname="elaboration"/>
+		<group id="205" type="span" parent="268" relname="list"/>
+		<group id="206" type="multinuc" parent="208" relname="contrast"/>
+		<group id="207" type="multinuc" parent="208" relname="contrast"/>
+		<group id="208" type="multinuc" parent="214" relname="background"/>
+		<group id="209" type="span" parent="210" relname="sameunit"/>
+		<group id="210" type="multinuc" parent="211" relname="sequence"/>
+		<group id="211" type="multinuc" parent="212" relname="span"/>
+		<group id="212" type="span" parent="213" relname="span"/>
+		<group id="213" type="span" parent="214" relname="span"/>
+		<group id="214" type="span" parent="215" relname="span"/>
+		<group id="215" type="span" parent="223" relname="joint"/>
+		<group id="216" type="span" parent="219" relname="list"/>
+		<group id="217" type="span" parent="92" relname="e-elaboration"/>
+		<group id="218" type="multinuc" parent="93" relname="e-elaboration"/>
+		<group id="219" type="multinuc" parent="98" relname="concession"/>
+		<group id="220" type="span" parent="221" relname="summary"/>
+		<group id="221" type="span" parent="222" relname="span"/>
+		<group id="222" type="span" parent="223" relname="joint"/>
+		<group id="223" type="multinuc" parent="270" relname="span"/>
+		<group id="224" type="span" parent="227" relname="span"/>
+		<group id="225" type="span" parent="226" relname="sameunit"/>
+		<group id="226" type="multinuc" parent="224" relname="evaluation-S"/>
+		<group id="227" type="span" parent="228" relname="contrast"/>
+		<group id="228" type="multinuc" parent="229" relname="span"/>
+		<group id="229" type="span" parent="230" relname="span"/>
+		<group id="230" type="span" parent="231" relname="span"/>
+		<group id="231" type="span" parent="256" relname="joint"/>
+		<group id="232" type="span" parent="233" relname="span"/>
+		<group id="233" type="span" parent="234" relname="span"/>
+		<group id="234" type="span" parent="237" relname="span"/>
+		<group id="235" type="span" parent="236" relname="sameunit"/>
+		<group id="236" type="multinuc" parent="234" relname="elaboration"/>
+		<group id="237" type="span" parent="245" relname="span"/>
+		<group id="238" type="span" parent="240" relname="attribution"/>
+		<group id="239" type="span" parent="119" relname="e-elaboration"/>
+		<group id="240" type="span" parent="241" relname="span"/>
+		<group id="241" type="span" parent="244" relname="span"/>
+		<group id="242" type="span" parent="124" relname="circumstance"/>
+		<group id="243" type="span" parent="241" relname="background"/>
+		<group id="244" type="span" parent="237" relname="elaboration"/>
+		<group id="245" type="span" parent="246" relname="list"/>
+		<group id="246" type="multinuc" parent="247" relname="span"/>
+		<group id="247" type="span" parent="248" relname="span"/>
+		<group id="248" type="span" parent="256" relname="joint"/>
+		<group id="249" type="multinuc" parent="130" relname="e-elaboration"/>
+		<group id="250" type="span" parent="251" relname="sameunit"/>
+		<group id="251" type="multinuc" parent="252" relname="span"/>
+		<group id="252" type="span" parent="253" relname="span"/>
+		<group id="253" type="span" parent="255" relname="contrast"/>
+		<group id="255" type="multinuc" parent="273" relname="summary"/>
+		<group id="256" type="multinuc" parent="272" relname="background"/>
+		<group id="257" type="span" parent="258" relname="conjunction"/>
+		<group id="258" type="multinuc" parent="153" relname="list"/>
+		<group id="259" type="multinuc" parent="260" relname="span"/>
+		<group id="260" type="span" parent="261" relname="span"/>
+		<group id="261" type="span" parent="271" relname="span"/>
+		<group id="262" type="span" parent="193" relname="background"/>
+		<group id="263" type="span" parent="207" relname="conjunction"/>
+		<group id="266" type="span" parent="255" relname="contrast"/>
+		<group id="267" type="span" parent="246" relname="list"/>
+		<group id="268" type="multinuc" parent="269" relname="span"/>
+		<group id="269" type="span" parent="261" relname="background"/>
+		<group id="270" type="span" parent="271" relname="reason-S"/>
+		<group id="271" type="span" parent="272" relname="span"/>
+		<group id="272" type="span" parent="273" relname="span"/>
+		<group id="273" type="span" parent="274" relname="span"/>
+		<group id="274" type="span" />
+	</body>
+</rst>

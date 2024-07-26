@@ -1,0 +1,233 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="conjunction" type="multinuc"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="e-elaboration" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation-N" type="rst"/>
+			<rel name="evaluation-S" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="interpretation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="list" type="multinuc"/>
+			<rel name="means" type="rst"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="otherwise" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="reason-N" type="rst"/>
+			<rel name="reason-S" type="rst"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sameunit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+			<rel name="summary" type="rst"/>
+			<rel name="textual-organization" type="multinuc"/>
+			<rel name="textual-organization" type="rst"/>
+			<rel name="topic-comment" type="rst"/>
+			<rel name="unless" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="95" relname="list">Allow me to thank the briefers for their insights.</segment>
+		<segment id="2" parent="93" relname="span">I wish to thank you, Madam President, and your country, Angola, the President of the Security Council for the month of March, for organizing this open debate on the role of women in the prevention and resolution of conflict in Africa,</segment>
+		<segment id="3" parent="2" relname="e-elaboration">a subject that is close to our hearts in Africa.</segment>
+		<segment id="4" parent="94" relname="span">I wish also to extend Namibia's appreciation to you for focusing your presidency on issues that are important to the African continent, the Middle East and other parts of the world</segment>
+		<segment id="5" parent="4" relname="elaboration">- issues that need the Council's renewed attention.</segment>
+		<segment id="6" parent="96" relname="joint">Namibia associates itself with the statement delivered by the representative of the Islamic Republic of Iran on behalf of the Non-Aligned Movement.</segment>
+		<segment id="7" parent="97" relname="circumstance">As we focus on this subject matter,</segment>
+		<segment id="8" parent="97" relname="span">it is important to recognize that more must be done</segment>
+		<segment id="9" parent="8" relname="purpose">to fully engage women in conflict resolution and mediation.</segment>
+		<segment id="10" parent="99" relname="span">Women's full participation in peacemaking is fundamental to building peace and security.</segment>
+		<segment id="11" parent="101" relname="conjunction">The Charter of the United Nations not only committed its members to save succeeding generations from the scourge of war,</segment>
+		<segment id="12" parent="101" relname="conjunction">but also unequivocally reaffirmed fundamental human rights and the equal rights of men and women.</segment>
+		<segment id="13" parent="102" relname="restatement">Despite this strong commitment,</segment>
+		<segment id="14" parent="104" relname="span">the understanding of the impact of armed conflict on women and girls and the role of women in conflict resolution and peacebuilding developed slowly within the United Nations.</segment>
+		<segment id="15" parent="105" relname="span">Under the presidency of Namibia, the Security Council adopted resolution 1325</segment>
+		<segment id="16" parent="15" relname="e-elaboration">(2000)</segment>
+		<segment id="17" parent="107" relname="sameunit">on women and peace and security on 31 October 2000.</segment>
+		<segment id="18" parent="108" relname="conjunction">The adoption of that resolution marked another milestone in the process of elevating women's role in peace and security to a high political agenda</segment>
+		<segment id="19" parent="108" relname="conjunction">and urged an enhanced role for women in preventing conflict, promoting peace and assisting in post-conflict reconstruction and the incorporation of a gender perspective into United Nations operations.</segment>
+		<segment id="20" parent="106" relname="span">Through resolution 1325</segment>
+		<segment id="21" parent="20" relname="e-elaboration">(2000),</segment>
+		<segment id="22" parent="109" relname="sameunit">the increased participation ofwomen in peace processes was recognized as a goal for the first time in the United Nations history.</segment>
+		<segment id="23" parent="116" relname="span">It is important to note that through the adoption of resolution 1325</segment>
+		<segment id="24" parent="23" relname="e-elaboration">(2000),</segment>
+		<segment id="25" parent="117" relname="span">the conventional impression of women as helpless victims of war was replaced by an understanding of the important role women play in fostering peace and security.</segment>
+		<segment id="26" parent="118" relname="attribution">We believe</segment>
+		<segment id="27" parent="28" relname="condition">that when women are involved as agents of peace,</segment>
+		<segment id="28" parent="118" relname="span">sexual violence against women and children in war and conflict situations can be addressed.</segment>
+		<segment id="29" parent="121" relname="span">Resolution 1325</segment>
+		<segment id="30" parent="29" relname="e-elaboration">(2000)</segment>
+		<segment id="31" parent="122" relname="sameunit">is the first-ever resolution adopted by the Security Council</segment>
+		<segment id="32" parent="123" relname="e-elaboration">that specifically addresses the disproportionate impact of war on women</segment>
+		<segment id="33" parent="125" relname="conjunction">and stresses the significance of women's equal participation and full involvement in all efforts to maintain and promote sustainable peace and security.</segment>
+		<segment id="34" parent="127" relname="span">Namibia attaches great importance to the implementation of resolution 1325</segment>
+		<segment id="35" parent="34" relname="e-elaboration">(2000).</segment>
+		<segment id="36" parent="128" relname="span">In the region of the Southern African Development Community</segment>
+		<segment id="37" parent="36" relname="restatement">(SADC),</segment>
+		<segment id="38" parent="129" relname="sameunit">Namibia was the first country to ratify the SADC Protocol on Gender and Development in October 2009.</segment>
+		<segment id="39" parent="130" relname="span">The Protocol calls upon members States to put in place measures</segment>
+		<segment id="40" parent="39" relname="purpose">to ensure that women have equal representation and participation in key decision-making positions and peacebuilding processes.</segment>
+		<segment id="41" parent="133" relname="span">This explains why Namibia contributes one of the largest female contingents to the African Union-United Nations Hybrid Operation in Darfur.</segment>
+		<segment id="42" parent="140" relname="span">Namibian women in peacekeeping missions have demonstrated remarkable commitment, high competencies and aptitudes for innovation.</segment>
+		<segment id="43" parent="135" relname="conjunction">Today, Namibian women are also steadily rising through the ranks</segment>
+		<segment id="44" parent="135" relname="conjunction">and expanding their influence at an ever-increasing rate,</segment>
+		<segment id="45" parent="136" relname="evaluation-S">serving bravely at national, regional and global levels in many different ways.</segment>
+		<segment id="46" parent="139" relname="span">More critically, they serve and sacrifice as courageously as any man out there,</segment>
+		<segment id="47" parent="46" relname="evidence">as they did during our struggle for liberation.</segment>
+		<segment id="48" parent="147" relname="conjunction">At the global level, it is high time that we establish and implement an ambitious but achievable agenda for action on women in armed conflict</segment>
+		<segment id="49" parent="147" relname="conjunction">and allow an increased role for women in the peace process.</segment>
+		<segment id="50" parent="148" relname="span">The provisions of resolution 1325</segment>
+		<segment id="51" parent="50" relname="e-elaboration">(2000)</segment>
+		<segment id="52" parent="149" relname="sameunit">must be framed in State obligations</segment>
+		<segment id="53" parent="150" relname="reason-S">to address structural and systemic gender inequality and discrimination through comprehensive legislation, policies and institutional reforms.</segment>
+		<segment id="54" parent="152" relname="conjunction">Our work and advocacy should now be aimed at the everyday</segment>
+		<segment id="55" parent="152" relname="conjunction">and we should never give up.</segment>
+		<segment id="56" parent="57" relname="reason-N">We must succeed,</segment>
+		<segment id="57" parent="154" relname="span">as we cannot afford to fail our next generation of women.</segment>
+		<segment id="58" parent="156" relname="span">History has clearly demonstrated that those women</segment>
+		<segment id="59" parent="58" relname="e-elaboration">who have been afforded the opportunity to participate in peacekeeping missions</segment>
+		<segment id="60" parent="157" relname="sameunit">have shown that courage and leadership recognize no gender,</segment>
+		<segment id="61" parent="158" relname="span">as women</segment>
+		<segment id="62" parent="61" relname="e-elaboration">who participate in peacekeeping missions</segment>
+		<segment id="63" parent="159" relname="sameunit">do so facing the same risks and are prepared to die, live and lose limbs just like their male counterparts.</segment>
+		<segment id="64" parent="163" relname="span">We must constantly bear in mind that resolution 1325</segment>
+		<segment id="65" parent="64" relname="e-elaboration">(2000)</segment>
+		<segment id="66" parent="166" relname="span">and subsequent resolutions,</segment>
+		<segment id="67" parent="165" relname="span">especially resolution 2242</segment>
+		<segment id="68" parent="67" relname="e-elaboration">(2015),</segment>
+		<segment id="69" parent="168" relname="span">require us to take robust action at the national level</segment>
+		<segment id="70" parent="167" relname="span">to put policies in place</segment>
+		<segment id="71" parent="70" relname="e-elaboration">that will pave the way for international deployment of female peacekeepers.</segment>
+		<segment id="72" parent="169" relname="span">Equal to the same task, it is our obligation to implement the recommendations of the global study on resolution 1325</segment>
+		<segment id="73" parent="72" relname="e-elaboration">(2000).</segment>
+		<segment id="74" parent="171" relname="span">We have just adopted the new 2030 Agenda for Sustainable Development</segment>
+		<segment id="75" parent="74" relname="evidence">(General Assembly resolution 70/1),</segment>
+		<segment id="76" parent="172" relname="span">which encompasses our collective targets</segment>
+		<segment id="77" parent="76" relname="e-elaboration">that will not only have a life-changing impact on hundreds of millions of women,</segment>
+		<segment id="78" parent="173" relname="span">but will also help to create a better world</segment>
+		<segment id="79" parent="78" relname="e-elaboration">that is more equitable.</segment>
+		<segment id="80" parent="176" relname="conjunction">However, its effective implementation will depend on its simplicity</segment>
+		<segment id="81" parent="192" relname="span">and its transformational power to sanction, within its life span,</segment>
+		<segment id="82" parent="81" relname="elaboration">an immense global response to the most pressing issues of women empowerment</segment>
+		<segment id="83" parent="177" relname="span">and,</segment>
+		<segment id="84" parent="83" relname="evaluation-S">more importantly,</segment>
+		<segment id="85" parent="178" relname="sameunit">the full participation of women in peace and security.</segment>
+		<segment id="86" parent="183" relname="span">Resolution 1325</segment>
+		<segment id="87" parent="86" relname="e-elaboration">(2000)</segment>
+		<segment id="88" parent="184" relname="sameunit">is for the benefit of the whole human race,</segment>
+		<segment id="89" parent="185" relname="conjunction">and has been intended to be so since its adoption in October 2000.</segment>
+		<segment id="90" parent="186" relname="span">It should be regarded as a global objective</segment>
+		<segment id="91" parent="90" relname="e-elaboration">that reflects peace, equality and development.</segment>
+		<segment id="92" parent="187" relname="joint">Its effective implementation in good faith should not be half-hearted.</segment>
+		<group id="93" type="span" parent="95" relname="list"/>
+		<group id="94" type="span" parent="95" relname="list"/>
+		<group id="95" type="multinuc" parent="96" relname="joint"/>
+		<group id="96" type="multinuc" parent="114" relname="preparation"/>
+		<group id="97" type="span" parent="98" relname="span"/>
+		<group id="98" type="span" parent="99" relname="background"/>
+		<group id="99" type="span" parent="100" relname="span"/>
+		<group id="100" type="span" parent="113" relname="joint"/>
+		<group id="101" type="multinuc" parent="102" relname="span"/>
+		<group id="102" type="span" parent="103" relname="span"/>
+		<group id="103" type="span" parent="14" relname="concession"/>
+		<group id="104" type="span" parent="10" relname="reason-S"/>
+		<group id="105" type="span" parent="107" relname="sameunit"/>
+		<group id="106" type="span" parent="109" relname="sameunit"/>
+		<group id="107" type="multinuc" parent="111" relname="span"/>
+		<group id="108" type="multinuc" parent="110" relname="list"/>
+		<group id="109" type="multinuc" parent="110" relname="list"/>
+		<group id="110" type="multinuc" parent="111" relname="evaluation-S"/>
+		<group id="111" type="span" parent="112" relname="span"/>
+		<group id="112" type="span" parent="113" relname="joint"/>
+		<group id="113" type="multinuc" parent="114" relname="span"/>
+		<group id="114" type="span" parent="115" relname="span"/>
+		<group id="115" type="span" parent="145" relname="background"/>
+		<group id="116" type="span" parent="25" relname="cause"/>
+		<group id="117" type="span" parent="120" relname="span"/>
+		<group id="118" type="span" parent="119" relname="span"/>
+		<group id="119" type="span" parent="117" relname="evaluation-S"/>
+		<group id="120" type="span" parent="126" relname="span"/>
+		<group id="121" type="span" parent="122" relname="sameunit"/>
+		<group id="122" type="multinuc" parent="123" relname="span"/>
+		<group id="123" type="span" parent="124" relname="span"/>
+		<group id="124" type="span" parent="125" relname="conjunction"/>
+		<group id="125" type="multinuc" parent="120" relname="elaboration"/>
+		<group id="126" type="span" parent="142" relname="joint"/>
+		<group id="127" type="span" parent="134" relname="span"/>
+		<group id="128" type="span" parent="129" relname="sameunit"/>
+		<group id="129" type="multinuc" parent="131" relname="span"/>
+		<group id="130" type="span" parent="131" relname="e-elaboration"/>
+		<group id="131" type="span" parent="132" relname="span"/>
+		<group id="132" type="span" parent="41" relname="circumstance"/>
+		<group id="133" type="span" parent="127" relname="evidence"/>
+		<group id="134" type="span" parent="141" relname="joint"/>
+		<group id="135" type="multinuc" parent="136" relname="span"/>
+		<group id="136" type="span" parent="137" relname="span"/>
+		<group id="137" type="span" parent="138" relname="conjunction"/>
+		<group id="138" type="multinuc" parent="42" relname="result"/>
+		<group id="139" type="span" parent="138" relname="conjunction"/>
+		<group id="140" type="span" parent="141" relname="joint"/>
+		<group id="141" type="multinuc" parent="142" relname="joint"/>
+		<group id="142" type="multinuc" parent="143" relname="span"/>
+		<group id="143" type="span" parent="144" relname="span"/>
+		<group id="144" type="span" parent="145" relname="span"/>
+		<group id="145" type="span" parent="146" relname="span"/>
+		<group id="146" type="span" />
+		<group id="147" type="multinuc" parent="143" relname="e-elaboration"/>
+		<group id="148" type="span" parent="149" relname="sameunit"/>
+		<group id="149" type="multinuc" parent="150" relname="span"/>
+		<group id="150" type="span" parent="151" relname="span"/>
+		<group id="151" type="span" parent="155" relname="span"/>
+		<group id="152" type="multinuc" parent="153" relname="list"/>
+		<group id="153" type="multinuc" parent="151" relname="reason-S"/>
+		<group id="154" type="span" parent="153" relname="list"/>
+		<group id="155" type="span" parent="191" relname="span"/>
+		<group id="156" type="span" parent="157" relname="sameunit"/>
+		<group id="157" type="multinuc" parent="160" relname="span"/>
+		<group id="158" type="span" parent="159" relname="sameunit"/>
+		<group id="159" type="multinuc" parent="160" relname="evidence"/>
+		<group id="160" type="span" parent="161" relname="span"/>
+		<group id="161" type="span" parent="162" relname="joint"/>
+		<group id="162" type="multinuc" parent="170" relname="joint"/>
+		<group id="163" type="span" parent="164" relname="sameunit"/>
+		<group id="164" type="multinuc" parent="162" relname="joint"/>
+		<group id="165" type="span" parent="66" relname="e-elaboration"/>
+		<group id="166" type="span" parent="164" relname="sameunit"/>
+		<group id="167" type="span" parent="69" relname="purpose"/>
+		<group id="168" type="span" parent="164" relname="sameunit"/>
+		<group id="169" type="span" parent="170" relname="joint"/>
+		<group id="170" type="multinuc" parent="155" relname="background"/>
+		<group id="171" type="span" parent="175" relname="span"/>
+		<group id="172" type="span" parent="174" relname="conjunction"/>
+		<group id="173" type="span" parent="174" relname="conjunction"/>
+		<group id="174" type="multinuc" parent="171" relname="elaboration"/>
+		<group id="175" type="span" parent="180" relname="concession"/>
+		<group id="176" type="multinuc" parent="180" relname="span"/>
+		<group id="177" type="span" parent="178" relname="sameunit"/>
+		<group id="178" type="multinuc" parent="176" relname="conjunction"/>
+		<group id="180" type="span" parent="182" relname="span"/>
+		<group id="182" type="span" parent="190" relname="span"/>
+		<group id="183" type="span" parent="184" relname="sameunit"/>
+		<group id="184" type="multinuc" parent="185" relname="conjunction"/>
+		<group id="185" type="multinuc" parent="188" relname="span"/>
+		<group id="186" type="span" parent="187" relname="joint"/>
+		<group id="187" type="multinuc" parent="188" relname="elaboration"/>
+		<group id="188" type="span" parent="189" relname="span"/>
+		<group id="189" type="span" parent="182" relname="elaboration"/>
+		<group id="190" type="span" parent="170" relname="joint"/>
+		<group id="191" type="span" parent="144" relname="elaboration"/>
+		<group id="192" type="span" parent="176" relname="conjunction"/>
+	</body>
+</rst>

@@ -40,7 +40,7 @@ def align(csvf, rst_dir):
     df_f = df[~df['fileid'].isin(temp)]
 
     for rstf in listi:
-        list_rootpath = []
+
         name = rstf.name[:26]
         # get rows in df for file
         df_file = df_f[df_f.fileid == name]
@@ -81,7 +81,6 @@ def align(csvf, rst_dir):
         #if len(debug_list3) != df_file.shape[0]:
         #    print("Error: ", len(debug_list3), df_file.shape[0], name)
 
-    # df_files = df[(df.fileid == 'UNSC_2014_SPV.7138_spch002') | (df.fileid == 'UNSC_2014_SPV.7138_spch004') | (df.fileid == 'UNSC_2014_SPV.7138_spch005')]
     assert len(big_list_id) == len(big_list_id_chain) == len(big_list_relation_chain)
 
     df_f['rstree_nodeid'] = big_list_id
@@ -111,10 +110,10 @@ def get_tokens(df_aligned):
 
 def main():
     config = ConfigParser()
-    config.read("config.ini") # adjust path
-    rst_dir = '../data/07_rst_selected' # adjust path
-    csvf = '../data/main_conflicts.csv'
-    output_file = "../data/main_conflicts_aligned.csv"
+    config.read("config.ini") 
+    rst_dir = config['CORPORA']['UNSCRST']
+    csvf = config['CORPORA']['TABLE_CONFLICTS']
+    output_file = config['CORPORA']['ALIGNED_CONFL_RST']
     df_aligned = align(csvf, rst_dir)
     df = get_tokens(df_aligned)
     df.to_csv(output_file)

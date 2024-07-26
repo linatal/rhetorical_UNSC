@@ -1,0 +1,264 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="conjunction" type="multinuc"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="e-elaboration" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation-N" type="rst"/>
+			<rel name="evaluation-S" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="interpretation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="list" type="multinuc"/>
+			<rel name="means" type="rst"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="otherwise" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="reason-N" type="rst"/>
+			<rel name="reason-S" type="rst"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sameunit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+			<rel name="summary" type="rst"/>
+			<rel name="textual-organization" type="multinuc"/>
+			<rel name="textual-organization" type="rst"/>
+			<rel name="topic-comment" type="rst"/>
+			<rel name="unless" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="112" relname="span">It is with a sense of disbelief that we find ourselves here today</segment>
+		<segment id="2" parent="1" relname="e-elaboration">- disbelief at the situation that developed before our eyes with the Russian Federation's determination to annex Crimea.</segment>
+		<segment id="3" parent="118" relname="span">Nothing is lacking from those things that we hoped were relegated to the vaults of history:</segment>
+		<segment id="4" parent="114" relname="list">the military maneuvres at the borders,</segment>
+		<segment id="5" parent="113" relname="span">the henchman who yesterday was no one</segment>
+		<segment id="6" parent="5" relname="e-elaboration">and today has suddenly been designated President of the Crimea,</segment>
+		<segment id="7" parent="114" relname="list">the occupation denied against all evidence,</segment>
+		<segment id="8" parent="114" relname="list">the torrents of propaganda,</segment>
+		<segment id="9" parent="115" relname="span">and now the charade of a referendum</segment>
+		<segment id="10" parent="116" relname="concession">that is not only illegal, rushed and without electoral campaigns</segment>
+		<segment id="11" parent="116" relname="span">but is reduced to a choice between two ways of saying yes.</segment>
+		<segment id="12" parent="11" relname="restatement">Crimeans will not even be able to express their will.</segment>
+		<segment id="13" parent="122" relname="span">The violation of international law is so obvious at this point</segment>
+		<segment id="14" parent="120" relname="span">that one almost feels pity at seeing Russian diplomacy</segment>
+		<segment id="15" parent="14" relname="reason-S">- so formalistic, so finicky in its respect for proprieties and its invocation of texts -</segment>
+		<segment id="16" parent="212" relname="span">struggling to find a legal basis for the coup.</segment>
+		<segment id="17" parent="123" relname="span">One day, they brandish an alleged letter from the Head of State</segment>
+		<segment id="18" parent="17" relname="e-elaboration">who is on the run,</segment>
+		<segment id="19" parent="124" relname="sequence">and only an unsigned version of that letter is released,</segment>
+		<segment id="20" parent="124" relname="sequence">disappearing as quickly as it appeared.</segment>
+		<segment id="21" parent="126" relname="sequence">The next day, they recall the issue of Kosovo.</segment>
+		<segment id="22" parent="128" relname="span">Finally,</segment>
+		<segment id="23" parent="22" relname="circumstance">after what was probably a feverish search through the archives,</segment>
+		<segment id="24" parent="127" relname="span">they even exhume a decolonization case from 1976:</segment>
+		<segment id="25" parent="24" relname="e-elaboration">the question of Mayotte.</segment>
+		<segment id="26" parent="137" relname="span">They are trying so hard to use all available means in Moscow</segment>
+		<segment id="27" parent="136" relname="sameunit">that they do not want to see that in the latter example,</segment>
+		<segment id="28" parent="134" relname="circumstance">Russia having taken the opposite position from the one it is taking today,</segment>
+		<segment id="29" parent="132" relname="span">that shaky comparison</segment>
+		<segment id="30" parent="29" relname="elaboration">- even if one accepts it -</segment>
+		<segment id="31" parent="133" relname="sameunit">proves that Russia was wrong in 1976 or is wrong now, in 2014.</segment>
+		<segment id="32" parent="213" relname="span">It must choose.</segment>
+		<segment id="33" parent="211" relname="attribution">I think,</segment>
+		<segment id="34" parent="211" relname="span">however, that my Russian colleague and I will find common ground in a key sentence from the speech of the Soviet Permanent Representative in 1976 on the question of Mayotte,</segment>
+		<segment id="35" parent="36" relname="attribution">who said:</segment>
+		<segment id="36" parent="140" relname="span">"Any attempt aimed at the partial or total disruption of the national unity and the integrity territory of a country is incompatible with the purposes and principles of the Charter of the United Nations."</segment>
+		<segment id="37" parent="140" relname="evidence">(S/PVI888, p. 8).</segment>
+		<segment id="38" parent="141" relname="span">In reality, nothing will come of those pathetic efforts</segment>
+		<segment id="39" parent="38" relname="elaboration">- certainly not the basis for any legal reasoning.</segment>
+		<segment id="40" parent="142" relname="span">The vetoing of a text</segment>
+		<segment id="41" parent="40" relname="e-elaboration">that is nothing more than a reminder of the basic principles of international law and the Charter of the United Nations</segment>
+		<segment id="42" parent="143" relname="sameunit">is clear proof of that.</segment>
+		<segment id="43" parent="144" relname="span">The headlines can be simple:</segment>
+		<segment id="44" parent="43" relname="elaboration">Russia has vetoed the Charter of the United Nations.</segment>
+		<segment id="45" parent="148" relname="span">In desperation, therefore, Moscow invokes the pretext of protecting Russians</segment>
+		<segment id="46" parent="45" relname="e-elaboration">who are supposedly threatened in Crimea.</segment>
+		<segment id="47" parent="152" relname="attribution">I am sure</segment>
+		<segment id="48" parent="149" relname="span">that neighbouring countries</segment>
+		<segment id="49" parent="48" relname="e-elaboration">that host Russian minorities</segment>
+		<segment id="50" parent="150" relname="sameunit">appreciate this right to interfere</segment>
+		<segment id="51" parent="151" relname="e-elaboration">that Russia has suddenly claimed for itself .</segment>
+		<segment id="52" parent="161" relname="span">But again, they are out of luck.</segment>
+		<segment id="53" parent="156" relname="span">There has been no violence,</segment>
+		<segment id="54" parent="157" relname="conjunction">as confirmed by journalists</segment>
+		<segment id="55" parent="157" relname="conjunction">and noted by the High Commissioner on National Minorities of the Organization for Security and Cooperation in Europe,</segment>
+		<segment id="56" parent="158" relname="span">and no trace,</segment>
+		<segment id="57" parent="56" relname="attribution">as confirmed by the Office of the United Nations High Commissioner for Refugees,</segment>
+		<segment id="58" parent="164" relname="span">of the hundreds of thousands of refugees that were predicted.</segment>
+		<segment id="59" parent="162" relname="topic-comment">Where have they gone?</segment>
+		<segment id="60" parent="162" relname="span">Do not worry;</segment>
+		<segment id="61" parent="60" relname="reason-S">they never existed.</segment>
+		<segment id="62" parent="166" relname="conjunction">The supposed right does not exist,</segment>
+		<segment id="63" parent="166" relname="conjunction">and there is no violence taking place.</segment>
+		<segment id="64" parent="167" relname="span">We therefore look to history.</segment>
+		<segment id="65" parent="172" relname="span">Crimea was Russian from 1783 to 1954.</segment>
+		<segment id="66" parent="170" relname="topic-comment">What does that mean?</segment>
+		<segment id="67" parent="221" relname="span">Will we take out our history books</segment>
+		<segment id="68" parent="67" relname="purpose">to review our borders or challenge or defend them?</segment>
+		<segment id="69" parent="169" relname="sequence">What date will we go back to?</segment>
+		<segment id="70" parent="71" relname="concession">After all, Crimea was Russian for 170 years</segment>
+		<segment id="71" parent="173" relname="span">but a vassal of Turkey for three centuries.</segment>
+		<segment id="72" parent="175" relname="span">We know only too well that anything can be justified by history,</segment>
+		<segment id="73" parent="72" relname="e-elaboration">particularly the unjustifiable.</segment>
+		<segment id="74" parent="180" relname="span">Out of all ofthis</segment>
+		<segment id="75" parent="177" relname="conjunction">- their confused flurry of activity,</segment>
+		<segment id="76" parent="178" relname="span">the speeches that are denied</segment>
+		<segment id="77" parent="76" relname="circumstance">as soon as they are given</segment>
+		<segment id="78" parent="179" relname="span">and the arguments that are forgotten</segment>
+		<segment id="79" parent="78" relname="circumstance">as soon as they are made i</segment>
+		<segment id="80" parent="181" relname="sameunit">only force remains.</segment>
+		<segment id="81" parent="183" relname="preparation">Basically, it is simple:</segment>
+		<segment id="82" parent="83" relname="attribution">the Russian veto today is telling us</segment>
+		<segment id="83" parent="183" relname="span">that might is right.</segment>
+		<segment id="84" parent="85" relname="topic-comment">Well, no.</segment>
+		<segment id="85" parent="187" relname="span">Force cannot override the law.</segment>
+		<segment id="86" parent="187" relname="evaluation-S">That would be too serious and too dangerous for every Member State.</segment>
+		<segment id="87" parent="192" relname="span">Our duty is to raise the fragile barrier of law against the brutal nature of international relations,</segment>
+		<segment id="88" parent="191" relname="conjunction">which has led us into two world wars</segment>
+		<segment id="89" parent="189" relname="span">and has cost,</segment>
+		<segment id="90" parent="89" relname="circumstance">as of this very moment,</segment>
+		<segment id="91" parent="190" relname="conjunction">thousands of innocent lives in Syria and elsewhere.</segment>
+		<segment id="92" parent="93" relname="condition">To accept the annexation of Crimea</segment>
+		<segment id="93" parent="222" relname="span">would be to give up everything that we are trying to build in this Organization.</segment>
+		<segment id="94" parent="194" relname="list">It would make a mockery of the Charter of the United Nations.</segment>
+		<segment id="95" parent="194" relname="list">It would once again make the sword the supreme arbiter of disputes.</segment>
+		<segment id="96" parent="197" relname="span">The vast majority of Member States will prove,</segment>
+		<segment id="97" parent="96" relname="enablement">by their refusal to recognize the annexation of the Crimea,</segment>
+		<segment id="98" parent="99" relname="attribution">that they know</segment>
+		<segment id="99" parent="198" relname="span">that the territorial integrity of one of them is the guarantor of the territorial integrity of all.</segment>
+		<segment id="100" parent="200" relname="circumstance">There are minorities all over the world.</segment>
+		<segment id="101" parent="200" relname="span">What would become of us</segment>
+		<segment id="102" parent="101" relname="condition">if they became the pretext for any kind of adventure to be undertaken by an ambitious and enterprising neighbour?</segment>
+		<segment id="103" parent="202" relname="list">What will be the next Crimea?</segment>
+		<segment id="104" parent="202" relname="list">The annexation goes beyond Ukraine.</segment>
+		<segment id="105" parent="202" relname="list">It affects us all.</segment>
+		<segment id="106" parent="210" relname="span">The veto should be a defeat for Russia alone.</segment>
+		<segment id="107" parent="209" relname="span">It should not take us with it.</segment>
+		<segment id="108" parent="208" relname="span">We must remain steadfast in our commitment to the principles it embodies,</segment>
+		<segment id="109" parent="207" relname="list">which are at the heart of the Charter of the United Nations,</segment>
+		<segment id="110" parent="206" relname="span">are our best defence against the return of a past</segment>
+		<segment id="111" parent="110" relname="e-elaboration">in which Russian aggression against Ukraine emerges.</segment>
+		<group id="112" type="span" parent="119" relname="span"/>
+		<group id="113" type="span" parent="114" relname="list"/>
+		<group id="114" type="multinuc" parent="3" relname="e-elaboration"/>
+		<group id="115" type="span" parent="114" relname="list"/>
+		<group id="116" type="span" parent="117" relname="span"/>
+		<group id="117" type="span" parent="9" relname="e-elaboration"/>
+		<group id="118" type="span" parent="112" relname="reason-S"/>
+		<group id="119" type="span" parent="219" relname="circumstance"/>
+		<group id="120" type="span" parent="121" relname="sameunit"/>
+		<group id="121" type="multinuc" parent="13" relname="result"/>
+		<group id="122" type="span" parent="32" relname="reason-S"/>
+		<group id="123" type="span" parent="125" relname="span"/>
+		<group id="124" type="multinuc" parent="123" relname="concession"/>
+		<group id="125" type="span" parent="126" relname="sequence"/>
+		<group id="126" type="multinuc" parent="16" relname="elaboration"/>
+		<group id="127" type="span" parent="129" relname="sameunit"/>
+		<group id="128" type="span" parent="129" relname="sameunit"/>
+		<group id="129" type="multinuc" parent="130" relname="span"/>
+		<group id="130" type="span" parent="131" relname="span"/>
+		<group id="131" type="span" parent="126" relname="sequence"/>
+		<group id="132" type="span" parent="133" relname="sameunit"/>
+		<group id="133" type="multinuc" parent="134" relname="span"/>
+		<group id="134" type="span" parent="135" relname="span"/>
+		<group id="135" type="span" parent="136" relname="sameunit"/>
+		<group id="136" type="multinuc" parent="26" relname="result"/>
+		<group id="137" type="span" parent="130" relname="elaboration"/>
+		<group id="138" type="span" parent="213" relname="enablement"/>
+		<group id="139" type="span" parent="34" relname="e-elaboration"/>
+		<group id="140" type="span" parent="139" relname="span"/>
+		<group id="141" type="span" parent="147" relname="span"/>
+		<group id="142" type="span" parent="143" relname="sameunit"/>
+		<group id="143" type="multinuc" parent="145" relname="span"/>
+		<group id="144" type="span" parent="145" relname="summary"/>
+		<group id="145" type="span" parent="146" relname="span"/>
+		<group id="146" type="span" parent="141" relname="reason-S"/>
+		<group id="147" type="span" parent="155" relname="span"/>
+		<group id="148" type="span" parent="154" relname="span"/>
+		<group id="149" type="span" parent="150" relname="sameunit"/>
+		<group id="150" type="multinuc" parent="151" relname="span"/>
+		<group id="151" type="span" parent="152" relname="span"/>
+		<group id="152" type="span" parent="153" relname="span"/>
+		<group id="153" type="span" parent="165" relname="span"/>
+		<group id="154" type="span" parent="147" relname="result"/>
+		<group id="155" type="span" parent="217" relname="span"/>
+		<group id="156" type="span" parent="160" relname="conjunction"/>
+		<group id="157" type="multinuc" parent="53" relname="attribution"/>
+		<group id="158" type="span" parent="159" relname="sameunit"/>
+		<group id="159" type="multinuc" parent="160" relname="conjunction"/>
+		<group id="160" type="multinuc" parent="52" relname="reason-S"/>
+		<group id="161" type="span" parent="153" relname="evaluation-S"/>
+		<group id="162" type="span" parent="163" relname="span"/>
+		<group id="163" type="span" parent="58" relname="e-elaboration"/>
+		<group id="164" type="span" parent="159" relname="sameunit"/>
+		<group id="165" type="span" parent="148" relname="result"/>
+		<group id="166" type="multinuc" parent="167" relname="circumstance"/>
+		<group id="167" type="span" parent="168" relname="span"/>
+		<group id="168" type="span" parent="185" relname="circumstance"/>
+		<group id="169" type="multinuc" parent="170" relname="span"/>
+		<group id="170" type="span" parent="171" relname="span"/>
+		<group id="171" type="span" parent="65" relname="interpretation"/>
+		<group id="172" type="span" parent="174" relname="contrast"/>
+		<group id="173" type="span" parent="174" relname="contrast"/>
+		<group id="174" type="multinuc" parent="175" relname="evidence"/>
+		<group id="175" type="span" parent="176" relname="span"/>
+		<group id="176" type="span" parent="64" relname="reason-S"/>
+		<group id="177" type="multinuc" parent="74" relname="e-elaboration"/>
+		<group id="178" type="span" parent="177" relname="conjunction"/>
+		<group id="179" type="span" parent="177" relname="conjunction"/>
+		<group id="180" type="span" parent="181" relname="sameunit"/>
+		<group id="181" type="multinuc" parent="182" relname="span"/>
+		<group id="182" type="span" parent="185" relname="span"/>
+		<group id="183" type="span" parent="184" relname="span"/>
+		<group id="184" type="span" parent="182" relname="summary"/>
+		<group id="185" type="span" parent="186" relname="span"/>
+		<group id="186" type="span" parent="216" relname="joint"/>
+		<group id="187" type="span" parent="188" relname="span"/>
+		<group id="188" type="span" parent="193" relname="span"/>
+		<group id="189" type="span" parent="190" relname="conjunction"/>
+		<group id="190" type="multinuc" parent="191" relname="conjunction"/>
+		<group id="191" type="multinuc" parent="87" relname="e-elaboration"/>
+		<group id="192" type="span" parent="188" relname="reason-S"/>
+		<group id="193" type="span" parent="196" relname="span"/>
+		<group id="194" type="multinuc" parent="193" relname="otherwise"/>
+		<group id="196" type="span" parent="205" relname="span"/>
+		<group id="197" type="span" parent="199" relname="sameunit"/>
+		<group id="198" type="span" parent="199" relname="sameunit"/>
+		<group id="199" type="multinuc" parent="203" relname="span"/>
+		<group id="200" type="span" parent="201" relname="span"/>
+		<group id="201" type="span" parent="202" relname="list"/>
+		<group id="202" type="multinuc" parent="203" relname="reason-S"/>
+		<group id="203" type="span" parent="204" relname="span"/>
+		<group id="204" type="span" parent="196" relname="motivation"/>
+		<group id="205" type="span" parent="216" relname="joint"/>
+		<group id="206" type="span" parent="207" relname="list"/>
+		<group id="207" type="multinuc" parent="108" relname="e-elaboration"/>
+		<group id="208" type="span" parent="107" relname="motivation"/>
+		<group id="209" type="span" parent="106" relname="reason-S"/>
+		<group id="210" type="span" parent="218" relname="joint"/>
+		<group id="211" type="span" parent="138" relname="span"/>
+		<group id="212" type="span" parent="121" relname="sameunit"/>
+		<group id="213" type="span" parent="214" relname="span"/>
+		<group id="214" type="span" parent="215" relname="span"/>
+		<group id="215" type="span" parent="218" relname="joint"/>
+		<group id="216" type="multinuc" parent="155" relname="reason-S"/>
+		<group id="217" type="span" parent="214" relname="reason-S"/>
+		<group id="218" type="multinuc" parent="219" relname="span"/>
+		<group id="219" type="span" parent="220" relname="span"/>
+		<group id="220" type="span" />
+		<group id="221" type="span" parent="169" relname="sequence"/>
+		<group id="222" type="span" parent="194" relname="list"/>
+	</body>
+</rst>

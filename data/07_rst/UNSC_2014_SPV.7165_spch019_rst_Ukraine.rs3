@@ -1,0 +1,429 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="conjunction" type="multinuc"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="e-elaboration" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation-N" type="rst"/>
+			<rel name="evaluation-S" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="interpretation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="list" type="multinuc"/>
+			<rel name="means" type="rst"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="otherwise" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="reason-N" type="rst"/>
+			<rel name="reason-S" type="rst"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sameunit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+			<rel name="summary" type="rst"/>
+			<rel name="textual-organization" type="multinuc"/>
+			<rel name="textual-organization" type="rst"/>
+			<rel name="topic-comment" type="rst"/>
+			<rel name="unless" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="195" relname="conjunction">I thank you for convening this meeting, Madam President,</segment>
+		<segment id="2" parent="195" relname="conjunction">and for the opportunity to address the Security Council.</segment>
+		<segment id="3" parent="196" relname="conjunction">I would also like to thank Under-Secretary-General Feltman for his briefing,</segment>
+		<segment id="4" parent="196" relname="conjunction">and all the members of the Council for their statement.</segment>
+		<segment id="5" parent="199" relname="span">It has been a month since Russia illegally occupied and annexed Crimea,</segment>
+		<segment id="6" parent="198" relname="conjunction">using its military forces</segment>
+		<segment id="7" parent="198" relname="conjunction">and brutally violating international law.</segment>
+		<segment id="8" parent="200" relname="conjunction">Unfortunately, Russia has not stopped there,</segment>
+		<segment id="9" parent="200" relname="conjunction">and apparently its leaders are now targeting other parts of Ukraine</segment>
+		<segment id="10" parent="200" relname="conjunction">and brazenly interfering in its internal affairs.</segment>
+		<segment id="11" parent="202" relname="span">The agreements</segment>
+		<segment id="12" parent="11" relname="e-elaboration">reached at the Geneva meeting of the Foreign Ministers of Ukraine, the Russian Federation, the United States and the European Union on 17 April</segment>
+		<segment id="13" parent="203" relname="sameunit">provided a faint beam of hope for a diplomatic solution.</segment>
+		<segment id="14" parent="15" relname="purpose">In order to implement the Geneva statement for the de-escalation of the situation in the eastern regions of Ukraine,</segment>
+		<segment id="15" parent="207" relname="span">the Government of Ukraine immediately took the necessary practical steps.</segment>
+		<segment id="16" parent="208" relname="span">Within just one week, the Government suspended the active phase of its anti-terrorist operation,</segment>
+		<segment id="17" parent="16" relname="e-elaboration">whose main objective was the restoration of law and order and the protection of civilians.</segment>
+		<segment id="18" parent="209" relname="list">It initiated constitutional reform.</segment>
+		<segment id="19" parent="211" relname="span">It approved the concept of local administrative reform,</segment>
+		<segment id="20" parent="210" relname="span">whose main principles are decentralizing power in the country,</segment>
+		<segment id="21" parent="20" relname="result">significantly empowering local communities and improving management at the regional and district levels.</segment>
+		<segment id="22" parent="214" relname="conjunction">A draft law on amnesty for participants in the uprisings in the eastern regions has been prepared</segment>
+		<segment id="23" parent="212" relname="span">and would apply to those protesters</segment>
+		<segment id="24" parent="213" relname="span">who surrender their weapons and evacuate illegally seized administrative buildings,</segment>
+		<segment id="25" parent="24" relname="condition">except for those suspected of committing serious crimes.</segment>
+		<segment id="26" parent="215" relname="span">The parliamentary coalition has invited all political parties</segment>
+		<segment id="27" parent="26" relname="e-elaboration">represented in the Ukrainian Parliament</segment>
+		<segment id="28" parent="215" relname="purpose">to sign a memorandum of understanding on ways to resolve the situation in eastern Ukraine.</segment>
+		<segment id="29" parent="217" relname="span">The Minister of Internal Affairs and Security Services has continued implementing a nationwide campaign</segment>
+		<segment id="30" parent="29" relname="purpose">to seize illegal arms from the population,</segment>
+		<segment id="31" parent="217" relname="result">and more than 6,000 weapons have been handed over recently.</segment>
+		<segment id="32" parent="220" relname="span">Ukraine is demonstrating its commitment to constructive cooperation with human-rights institutions and international organizations.</segment>
+		<segment id="33" parent="34" relname="evaluation-N">What has Russia done for its part of the Geneva document?</segment>
+		<segment id="34" parent="221" relname="span">It has done nothing.</segment>
+		<segment id="35" parent="222" relname="reason-S">Because of the lack of support for the separatists among the population of eastern Ukraine,</segment>
+		<segment id="36" parent="222" relname="span">Russia is seeking new ways to destabilize the situation in the region,</segment>
+		<segment id="37" parent="36" relname="elaboration">preparing and carrying out numerous armed provocations through its agents.</segment>
+		<segment id="38" parent="224" relname="span">Russian-sponsored illegal paramilitary units have continued to destabilize the situation in eastern Ukraine,</segment>
+		<segment id="39" parent="38" relname="elaboration">preparing the ground for a new stage of military aggression.</segment>
+		<segment id="40" parent="226" relname="list">The Russian leadership has done nothing to publicly dissociate itself from the armed separatists and provocateurs</segment>
+		<segment id="41" parent="226" relname="list">or to urge them to immediately lay down their arms and release captured administrative buildings.</segment>
+		<segment id="42" parent="225" relname="list">Russia has not even condemned the seizure of hostages, including journalists, or separatists' open acts of xenophobia and anti-Semitism.</segment>
+		<segment id="43" parent="228" relname="joint">Any attempts by Russia to show that the Ukrainian Government is trying to use force against the peaceful Ukrainian population are lies.</segment>
+		<segment id="44" parent="229" relname="span">Our Government respects freedom of expression and the right to peaceful assembly,</segment>
+		<segment id="45" parent="44" relname="e-elaboration">which are guaranteed by the Constitution of Ukraine.</segment>
+		<segment id="46" parent="230" relname="span">However, when heavily armed, professionally trained groups</segment>
+		<segment id="47" parent="46" relname="e-elaboration">led by Russian military seize law-enforcement facilities and administrative offices,</segment>
+		<segment id="48" parent="231" relname="sameunit">kill Ukrainian police officers and take hostages,</segment>
+		<segment id="49" parent="232" relname="conjunction">they are operating like terrorists</segment>
+		<segment id="50" parent="232" relname="conjunction">and must be treated accordingly.</segment>
+		<segment id="51" parent="383" relname="span">Ukrainian counter-terrorism operations are targeted exclusively at illegal armed groups threatening civilians.</segment>
+		<segment id="52" parent="237" relname="span">Meanwhile, the Russian-controlled army groups are in fact holding the entire civilian population of several towns in the eastern region hostage</segment>
+		<segment id="53" parent="52" relname="result">and have thus transgressed the bounds of humanity.</segment>
+		<segment id="54" parent="248" relname="preparation">I will list some facts.</segment>
+		<segment id="55" parent="239" relname="list">Three Ukrainian law-enforcement officers were abducted, brutally beaten, tortured and later presented to the Russian media as Ukrainian spies, blindfolded and with their hands tied.</segment>
+		<segment id="56" parent="238" relname="contrast">Ukrainian and foreign journalists are being systematically kidnapped,</segment>
+		<segment id="57" parent="238" relname="contrast">while Russian journalists are allowed to operate in the areas controlled by the illegal armed groups.</segment>
+		<segment id="58" parent="240" relname="span">A military helicopter was destroyed with a man-portable air defence</segment>
+		<segment id="59" parent="58" relname="restatement">(MANPAD)</segment>
+		<segment id="60" parent="241" relname="sameunit">guided missile.</segment>
+		<segment id="61" parent="242" relname="elaboration">It should be understood that peaceful protesters cannot buy MANPADs in shops.</segment>
+		<segment id="62" parent="244" relname="span">Representatives of the military verification mission of the Organization for Security and Cooperation in Europe</segment>
+		<segment id="63" parent="62" relname="restatement">(OSCE)</segment>
+		<segment id="64" parent="245" relname="sameunit">were taken hostage in Sloviansk.</segment>
+		<segment id="65" parent="246" relname="evaluation-S">The detention by force of international observers is yet another testament to the criminal and terrorist nature of the separatist armed groups.</segment>
+		<segment id="66" parent="253" relname="contrast">In contrast to the demand voiced in many of the statements in the Council today that those hostages be released,</segment>
+		<segment id="67" parent="250" relname="span">the Russian Federation,</segment>
+		<segment id="68" parent="67" relname="evaluation-S">as might be expected,</segment>
+		<segment id="69" parent="251" relname="sameunit">made no such demand;</segment>
+		<segment id="70" parent="252" relname="conjunction">nor have its leaders in Moscow.</segment>
+		<segment id="71" parent="256" relname="span">What is important is that the leaders of the illegal armed groups have publicly admitted responsibility for all the aforementioned crimes * even on television.</segment>
+		<segment id="72" parent="255" relname="span">Many members of the illegal militant groups are citizens of the Russian Federation,</segment>
+		<segment id="73" parent="254" relname="span">and they are not even trying to hide it,</segment>
+		<segment id="74" parent="73" relname="elaboration">publicly displaying their identification.</segment>
+		<segment id="75" parent="257" relname="background">We recently read an article in The New York Times</segment>
+		<segment id="76" parent="257" relname="span">in which the Kuban Cossack Mozhaev declared his presence and that of an armed group from his region,</segment>
+		<segment id="77" parent="76" relname="elaboration">which we had noticed in Crimea as well.</segment>
+		<segment id="78" parent="281" relname="span">Ukrainian law-enforcement agencies have credible evidence of these persons' involvement in serious crimes.</segment>
+		<segment id="79" parent="279" relname="preparation">Today, some ofthose crimes have been described.</segment>
+		<segment id="80" parent="261" relname="span">Among them was the brutal story of Volodymyr Rybak,</segment>
+		<segment id="81" parent="80" relname="e-elaboration">a member of Horlivka's City Council,</segment>
+		<segment id="82" parent="262" relname="span">and Yuriy Popravko,</segment>
+		<segment id="83" parent="82" relname="e-elaboration">a l9-year-old activist from Kyiv,</segment>
+		<segment id="84" parent="264" relname="e-elaboration">who were martyred by members of terrorist groups.</segment>
+		<segment id="85" parent="266" relname="span">Their bodies,</segment>
+		<segment id="86" parent="85" relname="e-elaboration">mutilated by torture,</segment>
+		<segment id="87" parent="267" relname="sameunit">were found in the Torets River in the vicinity of Sloviansk.</segment>
+		<segment id="88" parent="268" relname="sequence">Volodymyr Rybak disappeared on 17 April in Horlivka</segment>
+		<segment id="89" parent="268" relname="sequence">after he tried to remove the separatists' flag from the building of Horlivka City Council.</segment>
+		<segment id="90" parent="271" relname="conjunction">A video of the kidnapping,</segment>
+		<segment id="91" parent="270" relname="span">as well as audio recordings of phone conversations</segment>
+		<segment id="92" parent="91" relname="e-elaboration">intercepted by Ukraine's Security Service,</segment>
+		<segment id="93" parent="275" relname="span">provided sufficient proof</segment>
+		<segment id="94" parent="273" relname="span">that terrorist leaders,</segment>
+		<segment id="95" parent="94" relname="e-elaboration">notably the self-proclaimed mayor of Sloviansk, Vyacheslav Ponomaryov, and the military commander of the terrorists, the Russian agent Igor Strelkov,</segment>
+		<segment id="96" parent="274" relname="sameunit">were involved in the murder.</segment>
+		<segment id="97" parent="276" relname="span">The true identity of the Russian agent has been established as Colonel Igor Girkin of Russian military intelligence,</segment>
+		<segment id="98" parent="97" relname="e-elaboration">who is registered as a permanent resident of Moscow.</segment>
+		<segment id="99" parent="282" relname="span">The Government of Ukraine strongly condemns the aforementioned acts of terror and violence,</segment>
+		<segment id="100" parent="283" relname="span">including yesterday's attempt to assassinate the Mayor of Kharkiv, Hennadiy Kernes,</segment>
+		<segment id="101" parent="100" relname="e-elaboration">who publicly supported the unity and territorial integrity of Ukraine.</segment>
+		<segment id="102" parent="286" relname="span">Unfortunately, Russia has not even publicly condemned or dissociated itself from those acts of terror and violence</segment>
+		<segment id="103" parent="102" relname="elaboration">perpetrated by illegal militants since the Geneva agreement.</segment>
+		<segment id="104" parent="293" relname="attribution">would like to remind the Council</segment>
+		<segment id="105" parent="106" relname="attribution">that Russia used to deny</segment>
+		<segment id="106" parent="378" relname="span">that its armed forces participated in the occupation of Crimea.</segment>
+		<segment id="107" parent="287" relname="conjunction">However, President Putin now openly admits the use of Russian military forces</segment>
+		<segment id="108" parent="288" relname="span">and praises them for their heroism and the successful completion of the operation</segment>
+		<segment id="109" parent="108" relname="purpose">aimed at the reunification of Crimea with Russia.</segment>
+		<segment id="110" parent="289" relname="list">They have even issued a special medal of honour.</segment>
+		<segment id="111" parent="291" relname="sameunit">And now,</segment>
+		<segment id="112" parent="113" relname="concession">in spite of numerous irrefutable facts concerning Russian military involvement in organizing and guiding illegal armed groups in eastern Ukraine,</segment>
+		<segment id="113" parent="290" relname="span">Moscow denies any Russian military participation just as hard.</segment>
+		<segment id="114" parent="295" relname="span">Furthermore, Russia is now threatenting to use force,</segment>
+		<segment id="115" parent="114" relname="elaboration">as demonstrated by its concentration of armed forces directly on the eastern border of our country.</segment>
+		<segment id="116" parent="295" relname="evidence">The number of units along Ukraine's borders has increased.</segment>
+		<segment id="117" parent="297" relname="span">Last week, we all heard intensified militaristic rhetoric from senior Russian officials,</segment>
+		<segment id="118" parent="117" relname="e-elaboration">including President Putin, Minister Lavrov and Minister Shoigu,</segment>
+		<segment id="119" parent="297" relname="e-elaboration">threatening to send Russian troops into the territory of Ukrain under various pretexts.</segment>
+		<segment id="120" parent="301" relname="evidence">Defence Minister Shoigu reported the start of new military exercises by battalion tactical groups from the southern and western military districts of the Russian armed forces in connection with "the deteriorating situation in southeastern Ukraine".</segment>
+		<segment id="121" parent="122" relname="attribution">With that the Russian side has in fact confirmed</segment>
+		<segment id="122" parent="300" relname="span">that its military activity near the Ukrainian border in the past month has not been routine in nature,</segment>
+		<segment id="123" parent="301" relname="span">but directly related to the developments in Ukraine.</segment>
+		<segment id="124" parent="385" relname="span">Unfortunately, the withdrawal of troops</segment>
+		<segment id="125" parent="124" relname="attribution">announced by Minister Shoigu yesterday</segment>
+		<segment id="126" parent="384" relname="conjunction">has not come true.</segment>
+		<segment id="127" parent="386" relname="evidence">We still observe those troops near our borders.</segment>
+		<segment id="128" parent="308" relname="evaluation-S">My British colleague has given us information about the strange statement by our Russian partner here,</segment>
+		<segment id="129" parent="380" relname="attribution">who said</segment>
+		<segment id="130" parent="379" relname="sameunit">that,</segment>
+		<segment id="131" parent="306" relname="condition">in case of events taking a bad turn in Ukraine's south-east,</segment>
+		<segment id="132" parent="306" relname="span">Russia would remember the provision to use armed forces in Ukraine</segment>
+		<segment id="133" parent="132" relname="e-elaboration">given to President Vladimir Putin by the Federation Council.</segment>
+		<segment id="134" parent="310" relname="attribution">He also said</segment>
+		<segment id="135" parent="310" relname="span">that Russia had an international legal basis</segment>
+		<segment id="136" parent="135" relname="purpose">for sending its peacekeeping troops into Ukraine.</segment>
+		<segment id="137" parent="313" relname="span">And he referred to the right to self-defence under Article 51 of the Charter of the United Nations,</segment>
+		<segment id="138" parent="137" relname="e-elaboration">which Russia used during the conflict in the Caucasus in 2008.</segment>
+		<segment id="139" parent="316" relname="evaluation-N">The right to self-defence on the territory of another country?</segment>
+		<segment id="140" parent="315" relname="attribution">Let me remind him</segment>
+		<segment id="141" parent="314" relname="conjunction">that Ukraine has never threatened Russia,</segment>
+		<segment id="142" parent="314" relname="conjunction">and never will.</segment>
+		<segment id="143" parent="317" relname="reason-S">Ukrainians want to live in peace and to be left alone.</segment>
+		<segment id="144" parent="323" relname="span">The highest level of cynicism is the Russian reference to the right of self-defence</segment>
+		<segment id="145" parent="320" relname="span">in a situation in which it is Russia that is acting as aggressor,</segment>
+		<segment id="146" parent="145" relname="elaboration">having occupied Crimea,</segment>
+		<segment id="147" parent="322" relname="conjunction">as is brutally interfering in the internal affairs of Ukraine,</segment>
+		<segment id="148" parent="322" relname="conjunction">destabilizing it</segment>
+		<segment id="149" parent="322" relname="conjunction">and trying to create an explosive situation in the eastern regions.</segment>
+		<segment id="150" parent="151" relname="attribution">Unfortunately, we are deeply concerned</segment>
+		<segment id="151" parent="325" relname="span">that the scenario that is prepared for eastern Ukraine might be similar to the one implemented by Russia in Abkhazia.</segment>
+		<segment id="152" parent="325" relname="e-elaboration">That scenario might include several steps.</segment>
+		<segment id="153" parent="331" relname="preparation">Step one:</segment>
+		<segment id="154" parent="327" relname="span">a small group of local separatists,</segment>
+		<segment id="155" parent="154" relname="e-elaboration">supported by Russian-controlled armed groups,</segment>
+		<segment id="156" parent="381" relname="conjunction">would seize control over regional councils</segment>
+		<segment id="157" parent="381" relname="conjunction">and make them illegally proclaim the creation ofa so-called independent Novorossiya within the boundaries</segment>
+		<segment id="158" parent="382" relname="e-elaboration">described by President Putin at his recent press interview.</segment>
+		<segment id="159" parent="330" relname="interpretation">We have already seen that step taken in Donetsk, Slovansk and Kharkiv, against the will of the vast majority of the local population and against the Ukrainian Constitution.</segment>
+		<segment id="160" parent="161" relname="preparation">Step two:</segment>
+		<segment id="161" parent="333" relname="span">the Russian Federation would immediately recognize such a regional unit as an independent State.</segment>
+		<segment id="162" parent="341" relname="preparation">Step three:</segment>
+		<segment id="163" parent="336" relname="span">upon a request from the newly self-proclaimed authorities, the Russian Federation would send its troops to Ukraine under the guise of peacekeepers or collective self-defence.</segment>
+		<segment id="164" parent="339" relname="attribution">Unfortunately, I must say</segment>
+		<segment id="165" parent="339" relname="span">that such a scenario is realistic,</segment>
+		<segment id="166" parent="337" relname="span">as it has been reported that some Russian heavy military vehicles had been spotted near Ukraine's borders</segment>
+		<segment id="167" parent="166" relname="e-elaboration">bearing signs indicating "Peacekeeping Mission" in the Russian and Ukrainian languages,</segment>
+		<segment id="168" parent="337" relname="interpretation">exactly as happened in Abkhazia.</segment>
+		<segment id="169" parent="340" relname="span">One of the main purposes of that scenario is to disrupt the presidential elections scheduled for 25 May,</segment>
+		<segment id="170" parent="169" relname="e-elaboration">which are a top priority for the Government and for the people of Ukraine.</segment>
+		<segment id="171" parent="172" relname="purpose">Let me sum up my statement</segment>
+		<segment id="172" parent="345" relname="span">by making some short conclusions.</segment>
+		<segment id="173" parent="347" relname="circumstance">Twelve days have already passed since the Geneva meeting.</segment>
+		<segment id="174" parent="346" relname="span">Ukraine has done its utmost to de-escalate the situation.</segment>
+		<segment id="175" parent="174" relname="evidence">Our steps have been acknowledged and supported by the Organization for Security and Cooperation in Europe and other parties involved.</segment>
+		<segment id="176" parent="347" relname="span">Russia has done nothing.</segment>
+		<segment id="177" parent="178" relname="preparation">How should the problem be solved?</segment>
+		<segment id="178" parent="349" relname="span">The answer is simple:</segment>
+		<segment id="179" parent="350" relname="span">Russia has to implement the Geneva agreements.</segment>
+		<segment id="180" parent="355" relname="list">First, Russia should withdraw its army from Ukraine's borders.</segment>
+		<segment id="181" parent="354" relname="span">Secondly, it should make a high-level statement</segment>
+		<segment id="182" parent="181" relname="e-elaboration">calling on its prote'ges to free all hostages, to disarm and to vacate all seized administrative premises.</segment>
+		<segment id="183" parent="356" relname="span">It also has to condemn all terror and violence</segment>
+		<segment id="184" parent="183" relname="elaboration">committed by those groups</segment>
+		<segment id="185" parent="357" relname="conjunction">and to disassociate itself from such activities.</segment>
+		<segment id="186" parent="358" relname="conjunction">Thirdly, it should stop its war-like rhetoric</segment>
+		<segment id="187" parent="358" relname="conjunction">and start to act in a constructive and civilized manner.</segment>
+		<segment id="188" parent="359" relname="span">Last, but not least, Russia must refrain from any actions</segment>
+		<segment id="189" parent="188" relname="purpose">aimed at undermining the 25 May presidential elections in Ukraine.</segment>
+		<segment id="190" parent="360" relname="conjunction">We call on the Security Council to give the most serious assessment of the actions and statements by Russia regarding Ukraine,</segment>
+		<segment id="191" parent="361" relname="span">and to take the most decisive steps</segment>
+		<segment id="192" parent="191" relname="purpose">to stop its aggressive appetite</segment>
+		<segment id="193" parent="362" relname="span">and to protect Ukrainian territorial integrity,</segment>
+		<segment id="194" parent="193" relname="e-elaboration">which has been challenged once again.</segment>
+		<group id="195" type="multinuc" parent="197" relname="conjunction"/>
+		<group id="196" type="multinuc" parent="197" relname="conjunction"/>
+		<group id="197" type="multinuc" parent="205" relname="preparation"/>
+		<group id="198" type="multinuc" parent="5" relname="elaboration"/>
+		<group id="199" type="span" parent="201" relname="sequence"/>
+		<group id="200" type="multinuc" parent="201" relname="sequence"/>
+		<group id="201" type="multinuc" parent="204" relname="contrast"/>
+		<group id="202" type="span" parent="203" relname="sameunit"/>
+		<group id="203" type="multinuc" parent="204" relname="contrast"/>
+		<group id="204" type="multinuc" parent="205" relname="span"/>
+		<group id="205" type="span" parent="206" relname="span"/>
+		<group id="206" type="span" parent="375" relname="background"/>
+		<group id="207" type="span" parent="219" relname="span"/>
+		<group id="208" type="span" parent="209" relname="list"/>
+		<group id="209" type="multinuc" parent="207" relname="evidence"/>
+		<group id="210" type="span" parent="19" relname="e-elaboration"/>
+		<group id="211" type="span" parent="209" relname="list"/>
+		<group id="212" type="span" parent="214" relname="conjunction"/>
+		<group id="213" type="span" parent="23" relname="e-elaboration"/>
+		<group id="214" type="multinuc" parent="209" relname="list"/>
+		<group id="215" type="span" parent="216" relname="span"/>
+		<group id="216" type="span" parent="209" relname="list"/>
+		<group id="217" type="span" parent="218" relname="span"/>
+		<group id="218" type="span" parent="209" relname="list"/>
+		<group id="219" type="span" parent="32" relname="evidence"/>
+		<group id="220" type="span" parent="373" relname="contrast"/>
+		<group id="221" type="span" parent="227" relname="span"/>
+		<group id="222" type="span" parent="223" relname="span"/>
+		<group id="223" type="span" parent="225" relname="list"/>
+		<group id="224" type="span" parent="225" relname="list"/>
+		<group id="225" type="multinuc" parent="221" relname="evidence"/>
+		<group id="226" type="multinuc" parent="225" relname="list"/>
+		<group id="227" type="span" parent="228" relname="joint"/>
+		<group id="228" type="multinuc" parent="364" relname="span"/>
+		<group id="229" type="span" parent="235" relname="concession"/>
+		<group id="230" type="span" parent="231" relname="sameunit"/>
+		<group id="231" type="multinuc" parent="233" relname="circumstance"/>
+		<group id="232" type="multinuc" parent="233" relname="span"/>
+		<group id="233" type="span" parent="234" relname="span"/>
+		<group id="234" type="span" parent="235" relname="span"/>
+		<group id="235" type="span" parent="236" relname="span"/>
+		<group id="236" type="span" parent="364" relname="elaboration"/>
+		<group id="237" type="span" parent="51" relname="circumstance"/>
+		<group id="238" type="multinuc" parent="239" relname="list"/>
+		<group id="239" type="multinuc" parent="248" relname="span"/>
+		<group id="240" type="span" parent="241" relname="sameunit"/>
+		<group id="241" type="multinuc" parent="242" relname="span"/>
+		<group id="242" type="span" parent="243" relname="span"/>
+		<group id="243" type="span" parent="239" relname="list"/>
+		<group id="244" type="span" parent="245" relname="sameunit"/>
+		<group id="245" type="multinuc" parent="246" relname="span"/>
+		<group id="246" type="span" parent="247" relname="span"/>
+		<group id="247" type="span" parent="239" relname="list"/>
+		<group id="248" type="span" parent="249" relname="span"/>
+		<group id="249" type="span" parent="259" relname="background"/>
+		<group id="250" type="span" parent="251" relname="sameunit"/>
+		<group id="251" type="multinuc" parent="252" relname="conjunction"/>
+		<group id="252" type="multinuc" parent="253" relname="contrast"/>
+		<group id="253" type="multinuc" parent="239" relname="list"/>
+		<group id="254" type="span" parent="72" relname="evidence"/>
+		<group id="255" type="span" parent="71" relname="elaboration"/>
+		<group id="256" type="span" parent="259" relname="span"/>
+		<group id="257" type="span" parent="258" relname="span"/>
+		<group id="258" type="span" parent="256" relname="interpretation"/>
+		<group id="259" type="span" parent="260" relname="span"/>
+		<group id="260" type="span" parent="365" relname="evidence"/>
+		<group id="261" type="span" parent="263" relname="sameunit"/>
+		<group id="262" type="span" parent="263" relname="sameunit"/>
+		<group id="263" type="multinuc" parent="264" relname="span"/>
+		<group id="264" type="span" parent="265" relname="span"/>
+		<group id="265" type="span" parent="279" relname="span"/>
+		<group id="266" type="span" parent="267" relname="sameunit"/>
+		<group id="267" type="multinuc" parent="269" relname="list"/>
+		<group id="268" type="multinuc" parent="269" relname="list"/>
+		<group id="269" type="multinuc" parent="265" relname="elaboration"/>
+		<group id="270" type="span" parent="271" relname="conjunction"/>
+		<group id="271" type="multinuc" parent="272" relname="sameunit"/>
+		<group id="272" type="multinuc" parent="277" relname="span"/>
+		<group id="273" type="span" parent="274" relname="sameunit"/>
+		<group id="274" type="multinuc" parent="93" relname="e-elaboration"/>
+		<group id="275" type="span" parent="272" relname="sameunit"/>
+		<group id="276" type="span" parent="277" relname="elaboration"/>
+		<group id="277" type="span" parent="278" relname="span"/>
+		<group id="278" type="span" parent="269" relname="list"/>
+		<group id="279" type="span" parent="280" relname="span"/>
+		<group id="280" type="span" parent="78" relname="evidence"/>
+		<group id="281" type="span" parent="366" relname="evidence"/>
+		<group id="282" type="span" parent="284" relname="concession"/>
+		<group id="283" type="span" parent="99" relname="elaboration"/>
+		<group id="284" type="span" parent="285" relname="span"/>
+		<group id="285" type="span" parent="367" relname="elaboration"/>
+		<group id="286" type="span" parent="284" relname="span"/>
+		<group id="287" type="multinuc" parent="289" relname="list"/>
+		<group id="288" type="span" parent="287" relname="conjunction"/>
+		<group id="289" type="multinuc" parent="292" relname="contrast"/>
+		<group id="290" type="span" parent="291" relname="sameunit"/>
+		<group id="291" type="multinuc" parent="289" relname="list"/>
+		<group id="292" type="multinuc" parent="293" relname="span"/>
+		<group id="293" type="span" parent="294" relname="span"/>
+		<group id="294" type="span" parent="286" relname="elaboration"/>
+		<group id="295" type="span" parent="296" relname="span"/>
+		<group id="296" type="span" parent="299" relname="span"/>
+		<group id="297" type="span" parent="298" relname="span"/>
+		<group id="298" type="span" parent="296" relname="evidence"/>
+		<group id="299" type="span" parent="303" relname="span"/>
+		<group id="300" type="span" parent="123" relname="antithesis"/>
+		<group id="301" type="span" parent="302" relname="span"/>
+		<group id="302" type="span" parent="299" relname="evidence"/>
+		<group id="303" type="span" parent="305" relname="span"/>
+		<group id="304" type="span" parent="303" relname="evidence"/>
+		<group id="305" type="span" parent="369" relname="contrast"/>
+		<group id="306" type="span" parent="307" relname="span"/>
+		<group id="307" type="span" parent="379" relname="sameunit"/>
+		<group id="308" type="span" parent="309" relname="span"/>
+		<group id="309" type="span" parent="312" relname="list"/>
+		<group id="310" type="span" parent="311" relname="span"/>
+		<group id="311" type="span" parent="312" relname="list"/>
+		<group id="312" type="multinuc" parent="318" relname="evaluation-N"/>
+		<group id="313" type="span" parent="312" relname="list"/>
+		<group id="314" type="multinuc" parent="315" relname="span"/>
+		<group id="315" type="span" parent="316" relname="span"/>
+		<group id="316" type="span" parent="317" relname="span"/>
+		<group id="317" type="span" parent="318" relname="span"/>
+		<group id="318" type="span" parent="319" relname="span"/>
+		<group id="319" type="span" parent="324" relname="span"/>
+		<group id="320" type="span" parent="321" relname="span"/>
+		<group id="321" type="span" parent="144" relname="evaluation-N"/>
+		<group id="322" type="multinuc" parent="320" relname="elaboration"/>
+		<group id="323" type="span" parent="319" relname="interpretation"/>
+		<group id="324" type="span" parent="369" relname="contrast"/>
+		<group id="325" type="span" parent="326" relname="span"/>
+		<group id="326" type="span" parent="343" relname="background"/>
+		<group id="327" type="span" parent="328" relname="sameunit"/>
+		<group id="328" type="multinuc" parent="330" relname="span"/>
+		<group id="329" type="span" parent="328" relname="sameunit"/>
+		<group id="330" type="span" parent="331" relname="span"/>
+		<group id="331" type="span" parent="332" relname="span"/>
+		<group id="332" type="span" parent="334" relname="list"/>
+		<group id="333" type="span" parent="334" relname="list"/>
+		<group id="334" type="multinuc" parent="343" relname="span"/>
+		<group id="335" type="span" parent="163" relname="evaluation-S"/>
+		<group id="336" type="span" parent="341" relname="span"/>
+		<group id="337" type="span" parent="338" relname="span"/>
+		<group id="338" type="span" parent="165" relname="evidence"/>
+		<group id="339" type="span" parent="335" relname="span"/>
+		<group id="340" type="span" parent="336" relname="purpose"/>
+		<group id="341" type="span" parent="342" relname="span"/>
+		<group id="342" type="span" parent="334" relname="list"/>
+		<group id="343" type="span" parent="344" relname="span"/>
+		<group id="344" type="span" parent="370" relname="elaboration"/>
+		<group id="345" type="span" parent="352" relname="preparation"/>
+		<group id="346" type="span" parent="176" relname="concession"/>
+		<group id="347" type="span" parent="348" relname="span"/>
+		<group id="348" type="span" parent="351" relname="solutionhood"/>
+		<group id="349" type="span" parent="350" relname="preparation"/>
+		<group id="350" type="span" parent="351" relname="span"/>
+		<group id="351" type="span" parent="352" relname="span"/>
+		<group id="352" type="span" parent="353" relname="span"/>
+		<group id="353" type="span" parent="363" relname="joint"/>
+		<group id="354" type="span" parent="355" relname="list"/>
+		<group id="355" type="multinuc" parent="179" relname="antithesis"/>
+		<group id="356" type="span" parent="357" relname="conjunction"/>
+		<group id="357" type="multinuc" parent="355" relname="list"/>
+		<group id="358" type="multinuc" parent="355" relname="list"/>
+		<group id="359" type="span" parent="355" relname="list"/>
+		<group id="360" type="multinuc" parent="363" relname="joint"/>
+		<group id="361" type="span" parent="360" relname="conjunction"/>
+		<group id="362" type="span" parent="360" relname="conjunction"/>
+		<group id="363" type="multinuc" parent="374" relname="span"/>
+		<group id="364" type="span" parent="365" relname="span"/>
+		<group id="365" type="span" parent="366" relname="span"/>
+		<group id="366" type="span" parent="367" relname="span"/>
+		<group id="367" type="span" parent="368" relname="span"/>
+		<group id="368" type="span" parent="372" relname="span"/>
+		<group id="369" type="multinuc" parent="370" relname="span"/>
+		<group id="370" type="span" parent="371" relname="span"/>
+		<group id="371" type="span" parent="368" relname="elaboration"/>
+		<group id="372" type="span" parent="373" relname="contrast"/>
+		<group id="373" type="multinuc" parent="375" relname="span"/>
+		<group id="374" type="span" parent="377" relname="span"/>
+		<group id="375" type="span" parent="376" relname="span"/>
+		<group id="376" type="span" parent="374" relname="solutionhood"/>
+		<group id="377" type="span" />
+		<group id="378" type="span" parent="292" relname="contrast"/>
+		<group id="379" type="multinuc" parent="380" relname="span"/>
+		<group id="380" type="span" parent="308" relname="span"/>
+		<group id="381" type="multinuc" parent="382" relname="span"/>
+		<group id="382" type="span" parent="329" relname="span"/>
+		<group id="383" type="span" parent="234" relname="reason-N"/>
+		<group id="384" type="multinuc" parent="386" relname="span"/>
+		<group id="385" type="span" parent="384" relname="conjunction"/>
+		<group id="386" type="span" parent="304" relname="span"/>
+	</body>
+</rst>

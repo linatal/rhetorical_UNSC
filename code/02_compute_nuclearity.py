@@ -2,7 +2,7 @@ import pandas as pd
 from collections import Counter
 import ast
 import numpy as np
-import itertools
+from configparser import ConfigParser
 
 
 
@@ -23,7 +23,7 @@ def prepare_dataframe(table_conflict_rst_aligned):
     df_sent_sm = df[['filename', 'fileid', 'text_edu', 'Conflict_Type', 'tokenized_edus', 'len_tokens_edus', 'speech_edu_id', 'speech_sentence_id', 'paragraph_id',
      'rstree_nodeid_chain', 'rstree_relation_leave', 'rstree_relation_chain']]
     df_sent_sm = df_sent_sm.sort_values(['filename', 'speech_sentence_id'], ascending=[True, True])
-    #df_sent_sm.to_csv(output_table_conflict_sents_small)
+
     return df_sent_sm
 
 
@@ -32,11 +32,6 @@ def to_consecutive(df_notcon):
     id_counter = -1
     new_paragraph_id_list = []
     for index, element in enumerate(paragraph_id_list):
-        #new_paragraph_id_list.append(id_counter)
-        # TODO muss gecheckt werden
-        # TypeError: boolean value of NA is ambiguous
-        # for speeches with only one paragraph
-        # Problem gelöst, unklar weshalb manche rows keine paragraoh id haben im original
 
         if not isinstance(paragraph_id_list[index], (int, np.integer)):
             new_paragraph_id_list.append(id_counter+1)
@@ -47,8 +42,6 @@ def to_consecutive(df_notcon):
         elif paragraph_id_list[index-1] != paragraph_id_list[index]:
             id_counter += 1
             new_paragraph_id_list.append(id_counter)
-
-    #df_notcon['paragraph_id_consecutive'] = new_paragraph_id_list
 
     return new_paragraph_id_list
 
@@ -340,7 +333,6 @@ def get_nuclearity_mass(df):
     df_filewise['num_edus_speech'] = num_edus_speech_lst
     df_filewise['NM1_speech'] = nm1_speech
     df_filewise['NM2_speech'] = nm2_speech
-    # TODO: check num cdus in table with trees in rstweb
 
     # Problem with NM1 value is that the bigger a tree the smaller the value (per tree usually one or - with multilabel related CDUs - two CDUs per document)
     # We have a great variety of tree lengths (from 7 up to 194 edus) (looking at df_filewise['num_edus_speech']) --> see def standard_deviation(), measures variability in a distribution
@@ -351,14 +343,20 @@ def get_nuclearity_mass(df):
     return df_filewise, df_parawise
 
 def main():
-    csvf = "../data/main_conflicts_aligned.csv"
-    df = prepare_dataframe(csvf)
+    config = ConfigParser()
+    config.read("config.ini") 
+    csvf_aligned = config['CORPORA']['ALIGNED_CONFL_RST']
+    df = prepare_dataframe(csvf_aligned)
 
     df_sub = get_subtrees_per_paragraph(df)
-    df_sub.to_csv("../data/output/main_conflicts_aligned_pargraphid.csv")
+    csvf_aligned_subtrees = config['OUTPUT']['ALIGNED_CONFL_RST_PARASUBTREES']
+    df_sub.to_csv(csvf_aligned_subtrees)
     evaluation_table_speech, evaluation_table_para = get_nuclearity_mass(df_sub)
-    evaluation_table_speech.to_csv("../data/output/nuclearity_mass_speech.csv")
-    evaluation_table_para.to_csv("../data/output/nuclearity_mass_para.csv")
+
+    nm_speech = config['OUTPUT']['NM_SPEECH']
+    nm_para = config['OUTPUT']['NM_PARA']
+    evaluation_table_speech.to_csv(nm_speech)
+    evaluation_table_para.to_csv(nm_para)
 
 
 if __name__ == "__main__":

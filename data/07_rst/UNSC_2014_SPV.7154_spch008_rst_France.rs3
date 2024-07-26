@@ -1,0 +1,185 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="conjunction" type="multinuc"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="e-elaboration" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation-N" type="rst"/>
+			<rel name="evaluation-S" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="interpretation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="list" type="multinuc"/>
+			<rel name="means" type="rst"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="otherwise" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="reason-N" type="rst"/>
+			<rel name="reason-S" type="rst"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sameunit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+			<rel name="summary" type="rst"/>
+			<rel name="textual-organization" type="multinuc"/>
+			<rel name="textual-organization" type="rst"/>
+			<rel name="topic-comment" type="rst"/>
+			<rel name="unless" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="72" relname="span">Since yesterday, we have seen the abrupt and simultaneous outbreak of violence in eastern Ukraine:</segment>
+		<segment id="2" parent="1" relname="e-elaboration">nothing about it was spontaneous.</segment>
+		<segment id="3" parent="73" relname="span">France condemns the violence.</segment>
+		<segment id="4" parent="74" relname="span">We call on all parties to exercise restraint and dialogue</segment>
+		<segment id="5" parent="4" relname="purpose">so that a peaceful solution to the crisis quickly emerges.</segment>
+		<segment id="6" parent="74" relname="e-elaboration">Everyone must work towards de-escalation.</segment>
+		<segment id="7" parent="78" relname="span">The scenario we are seeing reminds one of the events</segment>
+		<segment id="8" parent="7" relname="e-elaboration">that took place in Crimea one month ago:</segment>
+		<segment id="9" parent="79" relname="span">simultaneous action by a small but trained group of aggressive activists</segment>
+		<segment id="10" parent="9" relname="e-elaboration">determined to occupy territory,</segment>
+		<segment id="11" parent="82" relname="span">followed by the presence of disciplined, masked men</segment>
+		<segment id="12" parent="80" relname="conjunction">wearing uniforms</segment>
+		<segment id="13" parent="81" relname="span">and armed with weapons of war</segment>
+		<segment id="14" parent="13" relname="e-elaboration">that are not found in military surplus.</segment>
+		<segment id="15" parent="87" relname="span">Those facts,</segment>
+		<segment id="16" parent="15" relname="e-elaboration">which come to us through the waves of images on the Internet,</segment>
+		<segment id="17" parent="91" relname="span">are the same as the ones that Russia labelled a month ago as spontaneous demonstrations by local self-defence groups.</segment>
+		<segment id="18" parent="89" relname="sequence">No one believed it then,</segment>
+		<segment id="19" parent="89" relname="sequence">and we do not believe it today.</segment>
+		<segment id="20" parent="94" relname="sameunit">One gets the impression that,</segment>
+		<segment id="21" parent="92" relname="enablement">in denying the facts,</segment>
+		<segment id="22" parent="92" relname="span">Russia is unaware ofthe existence of the Internet</segment>
+		<segment id="23" parent="22" relname="e-elaboration">and that it serves to contradict its denials.</segment>
+		<segment id="24" parent="85" relname="summary">Let us not forget that such protests were a prelude to the annexation of Crimea.</segment>
+		<segment id="25" parent="96" relname="span">Moreover, the build-up of Russian troops for several weeks now</segment>
+		<segment id="26" parent="25" relname="e-elaboration">- under the guise of military exercises -</segment>
+		<segment id="27" parent="97" relname="sameunit">casts an ominous shadow over eastern Ukraine.</segment>
+		<segment id="28" parent="102" relname="span">Further still, the economic pressure is becoming more biting.</segment>
+		<segment id="29" parent="98" relname="span">Without dialogue with the Ukrainian side,</segment>
+		<segment id="30" parent="29" relname="e-elaboration">which it has taken by the throat,</segment>
+		<segment id="31" parent="99" relname="sameunit">Russia has brutally raised the price of gas.</segment>
+		<segment id="32" parent="100" relname="span">It blocks the entry of goods at the border between Russia and Ukraine,</segment>
+		<segment id="33" parent="32" relname="purpose">no doubt in an effort to stifle a country it calls its brother.</segment>
+		<segment id="34" parent="106" relname="span">Finally, Russia is systematically bombarding Ukraine with a message of defiance vis-a-vis Kyiv via the airwaves and television channels,</segment>
+		<segment id="35" parent="104" relname="span">which,</segment>
+		<segment id="36" parent="35" relname="e-elaboration">for many people who do not have access to various sources of information,</segment>
+		<segment id="37" parent="105" relname="sameunit">is the only message they hear.</segment>
+		<segment id="38" parent="109" relname="span">It is against that backdrop that France commends the level-headedness of Ukrainian officials</segment>
+		<segment id="39" parent="107" relname="span">who,</segment>
+		<segment id="40" parent="39" relname="circumstance">against that destabilizing torrent of events,</segment>
+		<segment id="41" parent="108" relname="sameunit">seek to resolve the crisis through dialogue.</segment>
+		<segment id="42" parent="110" relname="span">That is the spirit in which Prime Minister Yatsenyuk visited eastern Ukraine with specific proposals in response to the real questions of people overwhelmed by propaganda</segment>
+		<segment id="43" parent="42" relname="e-elaboration">who are disoriented and being exploited by radical groups.</segment>
+		<segment id="44" parent="112" relname="span">France has always been clear on the issue of the status oflanguages and regions.</segment>
+		<segment id="45" parent="44" relname="elaboration">We encourage the authorities in Kyiv to continue their efforts for cooler heads to prevail, enter into a constructive dialogue and reassure people about their place in Ukraine.</segment>
+		<segment id="46" parent="115" relname="list">The future of Ukraine should not, and cannot, be up to anyone else but the Ukrainians themselves.</segment>
+		<segment id="47" parent="114" relname="span">We should support the Ukrainian authorities in organizing elections, under the best of conditions,</segment>
+		<segment id="48" parent="47" relname="e-elaboration">that ensure that everyone is represented.</segment>
+		<segment id="49" parent="50" relname="elaboration">Our message has always been clear</segment>
+		<segment id="50" parent="116" relname="span">that the presidential election scheduled for 25 May must be free and transparent and guaranteed by the presence of international observers.</segment>
+		<segment id="51" parent="122" relname="list">We reiterate our commitment to the territorial integrity of Ukraine.</segment>
+		<segment id="52" parent="119" relname="span">We call on Russia commit to de-escalation and to condemn,</segment>
+		<segment id="53" parent="52" relname="e-elaboration">along with the rest of the Council,</segment>
+		<segment id="54" parent="121" relname="span">the attempts at destabilization</segment>
+		<segment id="55" parent="54" relname="e-elaboration">carried out by armed groups in eastern Ukraine.</segment>
+		<segment id="56" parent="122" relname="list">We also call on Russia to fully assume its role as a permanent member of the Security Council.</segment>
+		<segment id="57" parent="58" relname="background">Russia is a guarantor of peace and security in the world, both in the larger world and in its immediate neighbourhood.</segment>
+		<segment id="58" parent="123" relname="span">There cannot be two different standards.</segment>
+		<segment id="59" parent="124" relname="list">Russia must today put its full weight behind helping Ukraine regain stability.</segment>
+		<segment id="60" parent="124" relname="list">It must show itself up to the task ofplaying the role it wishes to play as a pillar of Euro-Asian stability.</segment>
+		<segment id="61" parent="128" relname="attribution">We hope</segment>
+		<segment id="62" parent="127" relname="conjunction">that the proposed meeting on 17 April among Russia, Ukraine, the United States and the European Union will be held</segment>
+		<segment id="63" parent="127" relname="conjunction">and that it makes it possible for solutions to emerge.</segment>
+		<segment id="64" parent="130" relname="conjunction">This is a crucial stage</segment>
+		<segment id="65" parent="130" relname="conjunction">and we call on all parties to exercise calm and restraint.</segment>
+		<segment id="66" parent="136" relname="preparation">In conclusion, I would like to raise a final warning call.</segment>
+		<segment id="67" parent="132" relname="span">The danger</segment>
+		<segment id="68" parent="67" relname="e-elaboration">that now faces us</segment>
+		<segment id="69" parent="134" relname="span">is the failure of all our concerted efforts to build an international order</segment>
+		<segment id="70" parent="69" relname="e-elaboration">that is not based on force,</segment>
+		<segment id="71" parent="135" relname="reason-S">for today it is force alone that is seeking to impose the law.</segment>
+		<group id="72" type="span" parent="3" relname="background"/>
+		<group id="73" type="span" parent="77" relname="span"/>
+		<group id="74" type="span" parent="75" relname="span"/>
+		<group id="75" type="span" parent="76" relname="span"/>
+		<group id="76" type="span" parent="73" relname="solutionhood"/>
+		<group id="77" type="span" parent="141" relname="background"/>
+		<group id="78" type="span" parent="86" relname="span"/>
+		<group id="79" type="span" parent="83" relname="sequence"/>
+		<group id="80" type="multinuc" parent="11" relname="e-elaboration"/>
+		<group id="81" type="span" parent="80" relname="conjunction"/>
+		<group id="82" type="span" parent="83" relname="sequence"/>
+		<group id="83" type="multinuc" parent="84" relname="span"/>
+		<group id="84" type="span" parent="85" relname="span"/>
+		<group id="85" type="span" parent="95" relname="span"/>
+		<group id="86" type="span" parent="75" relname="reason-S"/>
+		<group id="87" type="span" parent="88" relname="conjunction"/>
+		<group id="88" type="multinuc" parent="84" relname="elaboration"/>
+		<group id="89" type="multinuc" parent="17" relname="elaboration"/>
+		<group id="90" type="span" parent="88" relname="conjunction"/>
+		<group id="91" type="span" parent="90" relname="span"/>
+		<group id="92" type="span" parent="93" relname="span"/>
+		<group id="93" type="span" parent="94" relname="sameunit"/>
+		<group id="94" type="multinuc" parent="91" relname="elaboration"/>
+		<group id="95" type="span" parent="78" relname="e-elaboration"/>
+		<group id="96" type="span" parent="97" relname="sameunit"/>
+		<group id="97" type="multinuc" parent="103" relname="list"/>
+		<group id="98" type="span" parent="99" relname="sameunit"/>
+		<group id="99" type="multinuc" parent="101" relname="list"/>
+		<group id="100" type="span" parent="101" relname="list"/>
+		<group id="101" type="multinuc" parent="28" relname="elaboration"/>
+		<group id="102" type="span" parent="103" relname="list"/>
+		<group id="103" type="multinuc" parent="140" relname="background"/>
+		<group id="104" type="span" parent="105" relname="sameunit"/>
+		<group id="105" type="multinuc" parent="34" relname="e-elaboration"/>
+		<group id="106" type="span" parent="103" relname="list"/>
+		<group id="107" type="span" parent="108" relname="sameunit"/>
+		<group id="108" type="multinuc" parent="38" relname="e-elaboration"/>
+		<group id="109" type="span" parent="110" relname="background"/>
+		<group id="110" type="span" parent="111" relname="span"/>
+		<group id="111" type="span" parent="112" relname="background"/>
+		<group id="112" type="span" parent="113" relname="span"/>
+		<group id="113" type="span" parent="117" relname="background"/>
+		<group id="114" type="span" parent="115" relname="list"/>
+		<group id="115" type="multinuc" parent="117" relname="span"/>
+		<group id="116" type="span" parent="115" relname="list"/>
+		<group id="117" type="span" parent="118" relname="span"/>
+		<group id="118" type="span" parent="140" relname="span"/>
+		<group id="119" type="span" parent="120" relname="sameunit"/>
+		<group id="120" type="multinuc" parent="122" relname="list"/>
+		<group id="121" type="span" parent="120" relname="sameunit"/>
+		<group id="122" type="multinuc" parent="131" relname="reason-S"/>
+		<group id="123" type="span" parent="125" relname="reason-S"/>
+		<group id="124" type="multinuc" parent="125" relname="span"/>
+		<group id="125" type="span" parent="126" relname="span"/>
+		<group id="126" type="span" parent="122" relname="list"/>
+		<group id="127" type="multinuc" parent="128" relname="span"/>
+		<group id="128" type="span" parent="129" relname="span"/>
+		<group id="129" type="span" parent="131" relname="span"/>
+		<group id="130" type="multinuc" parent="129" relname="e-elaboration"/>
+		<group id="131" type="span" parent="138" relname="span"/>
+		<group id="132" type="span" parent="133" relname="sameunit"/>
+		<group id="133" type="multinuc" parent="135" relname="span"/>
+		<group id="134" type="span" parent="133" relname="sameunit"/>
+		<group id="135" type="span" parent="136" relname="span"/>
+		<group id="136" type="span" parent="137" relname="span"/>
+		<group id="137" type="span" parent="138" relname="motivation"/>
+		<group id="138" type="span" parent="139" relname="span"/>
+		<group id="139" type="span" parent="118" relname="reason-S"/>
+		<group id="140" type="span" parent="141" relname="span"/>
+		<group id="141" type="span" parent="142" relname="span"/>
+		<group id="142" type="span" />
+	</body>
+</rst>

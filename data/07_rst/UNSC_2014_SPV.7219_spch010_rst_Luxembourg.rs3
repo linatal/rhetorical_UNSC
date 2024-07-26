@@ -1,0 +1,153 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="conjunction" type="multinuc"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="e-elaboration" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation-N" type="rst"/>
+			<rel name="evaluation-S" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="interpretation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="list" type="multinuc"/>
+			<rel name="means" type="rst"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="otherwise" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="reason-N" type="rst"/>
+			<rel name="reason-S" type="rst"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sameunit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+			<rel name="summary" type="rst"/>
+			<rel name="textual-organization" type="multinuc"/>
+			<rel name="textual-organization" type="rst"/>
+			<rel name="topic-comment" type="rst"/>
+			<rel name="unless" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="101" relname="preparation">I also thank the Under-Secretary-General for Political Affairs, Mr. Jeffrey Feltman, for his briefing.</segment>
+		<segment id="2" parent="96" relname="span">At the start ofmy remarks, Iwish to express,</segment>
+		<segment id="3" parent="2" relname="e-elaboration">on behalf of the Government and the people of Luxembourg,</segment>
+		<segment id="4" parent="98" relname="span">my most sincere condolences to the families and relatives of the 298 people aboard the Malaysia Airlines aircraft</segment>
+		<segment id="5" parent="4" relname="e-elaboration">that crashed yesterday afternoon near the village of Grabovo in eastern Ukraine.</segment>
+		<segment id="6" parent="99" relname="elaboration">Among the victims was a Dutch-English family living in Luxembourg.</segment>
+		<segment id="7" parent="100" relname="elaboration">Our sympathy also goes out to the Governments and the peoples of the Netherlands, Malaysia, Germany, Australia, Belgium, Canada, Indonesia, New Zealand, the Philippines and the United Kingdom.</segment>
+		<segment id="8" parent="102" relname="span">The international community owes it to the victims to shed light on the circumstances</segment>
+		<segment id="9" parent="8" relname="e-elaboration">that led to this tragic event.</segment>
+		<segment id="10" parent="105" relname="span">A transparent and independent comprehensive international investigation must be completed as soon as possible.</segment>
+		<segment id="11" parent="104" relname="conjunction">Safe and unhindered access must be granted to international investigators,</segment>
+		<segment id="12" parent="103" relname="span">as well as to observers from the Organization for Security and Cooperation in Europe</segment>
+		<segment id="13" parent="12" relname="restatement">(OSCE)</segment>
+		<segment id="14" parent="104" relname="conjunction">and representatives of affected countries.</segment>
+		<segment id="15" parent="108" relname="span">All parties involved should fully cooperate to that end.</segment>
+		<segment id="16" parent="15" relname="elaboration">We commend the Ukrainian authorities in that regard.</segment>
+		<segment id="17" parent="66" relname="span">Those who committed this heinous act must be held accountable.</segment>
+		<segment id="18" parent="56" relname="span">This air disaster took place in a context of the ongoing deterioration of the situation in the east of Ukraine.</segment>
+		<segment id="19" parent="55" relname="span">Day after day, we receive reports of civilians</segment>
+		<segment id="20" parent="19" relname="e-elaboration">killed in fighting between the Ukrainian armed forces and illegal armed groups.</segment>
+		<segment id="21" parent="57" relname="conjunction">The pro-Russian separatist militias continue to occupy buildings and border posts,</segment>
+		<segment id="22" parent="57" relname="conjunction">hold dozens of innocent people hostage</segment>
+		<segment id="23" parent="57" relname="conjunction">and threaten the territorial integrity, sovereignty and independence of Ukraine.</segment>
+		<segment id="24" parent="59" relname="conjunction">The living conditions ofpeople living in areas affected by the hostilities continue to deteriorate,</segment>
+		<segment id="25" parent="59" relname="conjunction">and the number of internally displaced persons has steadily increased.</segment>
+		<segment id="26" parent="64" relname="span">The escalation of violence in recent days, until its tragic climax yesterday, demonstrates once again that active armed groups in eastern Ukraine are actually well-equipped and well-trained paramilitary forces</segment>
+		<segment id="27" parent="26" relname="e-elaboration">who enjoy clear external support.</segment>
+		<segment id="28" parent="67" relname="span">We urge the Russian Federation to actively use its influence on the illegal armed groups and ensure that weapons and fighters can no longer cross the border,</segment>
+		<segment id="29" parent="28" relname="purpose">in order to bring about a de-escalation as soon as possible.</segment>
+		<segment id="30" parent="71" relname="background">Throughout the past few months, Ukraine has demonstrated its commitment to finding a peaceful solution to the crisis and to implementing the agreements concluded, in particular the joint declaration adopted on 17 April in Geneva between Ukraine, Russia, the European Union and the United States.</segment>
+		<segment id="31" parent="71" relname="span">Ukraine has established a national dialogue and guarantees for national minorities.</segment>
+		<segment id="32" parent="68" relname="conjunction">Once elected, President Poroshenko put forward a comprehensive peace plan</segment>
+		<segment id="33" parent="68" relname="conjunction">and put in place a unilateral ceasefire</segment>
+		<segment id="34" parent="69" relname="purpose">to create the conditions necessary for its implementation.</segment>
+		<segment id="35" parent="72" relname="span">Unfortunately, illegal armed groups,</segment>
+		<segment id="36" parent="35" relname="e-elaboration">whose sole aim is to destabilize Ukraine,</segment>
+		<segment id="37" parent="73" relname="sameunit">chose not to take that outstretched hand.</segment>
+		<segment id="38" parent="79" relname="span">Diplomatic efforts to find a peaceful solution to the crisis in eastern Ukraine must continue.</segment>
+		<segment id="39" parent="78" relname="conjunction">In that regard, the personal commitment of the Secretary-General since the beginning of the crisis is essential</segment>
+		<segment id="40" parent="78" relname="conjunction">and must continue.</segment>
+		<segment id="41" parent="80" relname="span">It is important to urgently reach an agreement on a real and lasting ceasefire</segment>
+		<segment id="42" parent="41" relname="e-elaboration">that is observed by all parties,</segment>
+		<segment id="43" parent="80" relname="purpose">so as to create the conditions necessary for the implementation of President Poroshenko's peace plan.</segment>
+		<segment id="44" parent="87" relname="span">We welcome the efforts made in that regard by France, Germany and the OSCE to promote dialogue between Russia and Ukraine.</segment>
+		<segment id="45" parent="85" relname="attribution">We sincerely hope</segment>
+		<segment id="46" parent="84" relname="conjunction">that those efforts will contribute to a de-escalation</segment>
+		<segment id="47" parent="83" relname="span">and put an end to a crisis</segment>
+		<segment id="48" parent="47" relname="e-elaboration">that has gone on for too long.</segment>
+		<segment id="49" parent="88" relname="span">Yesterday's plane crash demonstrated the incalculable consequences</segment>
+		<segment id="50" parent="49" relname="e-elaboration">that the crisis can have.</segment>
+		<segment id="51" parent="89" relname="span">It is high time for all stakeholders,</segment>
+		<segment id="52" parent="51" relname="e-elaboration">including the Russian Federation,</segment>
+		<segment id="53" parent="90" relname="span">to mobilize all energies</segment>
+		<segment id="54" parent="53" relname="purpose">to put an end to this crisis.</segment>
+		<group id="55" type="span" parent="18" relname="elaboration"/>
+		<group id="56" type="span" parent="61" relname="background"/>
+		<group id="57" type="multinuc" parent="60" relname="list"/>
+		<group id="59" type="multinuc" parent="60" relname="list"/>
+		<group id="60" type="multinuc" parent="61" relname="span"/>
+		<group id="61" type="span" parent="62" relname="span"/>
+		<group id="62" type="span" parent="64" relname="background"/>
+		<group id="64" type="span" parent="65" relname="span"/>
+		<group id="65" type="span" parent="17" relname="motivation"/>
+		<group id="66" type="span" parent="110" relname="reason-S"/>
+		<group id="67" type="span" parent="77" relname="span"/>
+		<group id="68" type="multinuc" parent="69" relname="span"/>
+		<group id="69" type="span" parent="70" relname="span"/>
+		<group id="70" type="span" parent="31" relname="evidence"/>
+		<group id="71" type="span" parent="74" relname="span"/>
+		<group id="72" type="span" parent="73" relname="sameunit"/>
+		<group id="73" type="multinuc" parent="75" relname="span"/>
+		<group id="74" type="span" parent="75" relname="concession"/>
+		<group id="75" type="span" parent="76" relname="span"/>
+		<group id="76" type="span" parent="67" relname="motivation"/>
+		<group id="77" type="span" parent="112" relname="joint"/>
+		<group id="78" type="multinuc" parent="38" relname="elaboration"/>
+		<group id="79" type="span" parent="82" relname="span"/>
+		<group id="80" type="span" parent="81" relname="span"/>
+		<group id="81" type="span" parent="79" relname="elaboration"/>
+		<group id="82" type="span" parent="94" relname="reason-S"/>
+		<group id="83" type="span" parent="84" relname="conjunction"/>
+		<group id="84" type="multinuc" parent="85" relname="span"/>
+		<group id="85" type="span" parent="86" relname="span"/>
+		<group id="86" type="span" parent="44" relname="evaluation-S"/>
+		<group id="87" type="span" parent="94" relname="span"/>
+		<group id="88" type="span" parent="92" relname="motivation"/>
+		<group id="89" type="span" parent="91" relname="sameunit"/>
+		<group id="90" type="span" parent="91" relname="sameunit"/>
+		<group id="91" type="multinuc" parent="92" relname="span"/>
+		<group id="92" type="span" parent="93" relname="span"/>
+		<group id="93" type="span" parent="87" relname="interpretation"/>
+		<group id="94" type="span" parent="95" relname="span"/>
+		<group id="95" type="span" parent="112" relname="joint"/>
+		<group id="96" type="span" parent="97" relname="sameunit"/>
+		<group id="97" type="multinuc" parent="99" relname="span"/>
+		<group id="98" type="span" parent="97" relname="sameunit"/>
+		<group id="99" type="span" parent="100" relname="span"/>
+		<group id="100" type="span" parent="101" relname="span"/>
+		<group id="101" type="span" parent="109" relname="span"/>
+		<group id="102" type="span" parent="10" relname="motivation"/>
+		<group id="103" type="span" parent="104" relname="conjunction"/>
+		<group id="104" type="multinuc" parent="105" relname="reason-N"/>
+		<group id="105" type="span" parent="106" relname="span"/>
+		<group id="106" type="span" parent="107" relname="span"/>
+		<group id="107" type="span" parent="110" relname="span"/>
+		<group id="108" type="span" parent="106" relname="reason-N"/>
+		<group id="109" type="span" parent="107" relname="background"/>
+		<group id="110" type="span" parent="111" relname="span"/>
+		<group id="111" type="span" parent="112" relname="joint"/>
+		<group id="112" type="multinuc" />
+	</body>
+</rst>

@@ -1,0 +1,147 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="conjunction" type="multinuc"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="e-elaboration" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation-N" type="rst"/>
+			<rel name="evaluation-S" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="interpretation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="list" type="multinuc"/>
+			<rel name="means" type="rst"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="otherwise" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="reason-N" type="rst"/>
+			<rel name="reason-S" type="rst"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sameunit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+			<rel name="summary" type="rst"/>
+			<rel name="textual-organization" type="multinuc"/>
+			<rel name="textual-organization" type="rst"/>
+			<rel name="topic-comment" type="rst"/>
+			<rel name="unless" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="51" relname="list">Several issues were raised by our Russian colleague.</segment>
+		<segment id="2" parent="51" relname="list">I would like to answer just one.</segment>
+		<segment id="3" parent="69" relname="textual-organization">(spoke in Russian)</segment>
+		<segment id="4" parent="55" relname="span">First, Mr. Churkin compared the situation in December and January with the current situation.</segment>
+		<segment id="5" parent="53" relname="preparation">We must recall</segment>
+		<segment id="6" parent="52" relname="conjunction">that, at that time, the people were speaking out against the banditry of the authorities,</segment>
+		<segment id="7" parent="52" relname="conjunction">and now it is bandits who are against the people.</segment>
+		<segment id="8" parent="55" relname="elaboration">There is a difference there.</segment>
+		<segment id="9" parent="56" relname="span">We cannot remain calm about the fact that several hundred separatists are holding thousands of people hostage to fear in towns.</segment>
+		<segment id="10" parent="9" relname="elaboration">We see the standoffs on television in Kharkiv, Luhansk and Dnipropetrovsk.</segment>
+		<segment id="11" parent="57" relname="span">We cannot look on while small groups of armed people,</segment>
+		<segment id="12" parent="58" relname="span">headed up, inter alia, by agents from the Russian Federation,</segment>
+		<segment id="13" parent="59" relname="conjunction">seize State buildings</segment>
+		<segment id="14" parent="59" relname="conjunction">and take weapons to hand out.</segment>
+		<segment id="15" parent="60" relname="span">Indeed, those are terrorist operations</segment>
+		<segment id="16" parent="15" relname="e-elaboration">that have been specially organized and orchestrated.</segment>
+		<segment id="17" parent="64" relname="span">Mr. Churkin is absolutely right,</segment>
+		<segment id="18" parent="63" relname="span">there is not much time left at all,</segment>
+		<segment id="19" parent="18" relname="elaboration">there is just about an hour and a half.</segment>
+		<segment id="20" parent="65" relname="sequence">It is just as easy for him to call his President</segment>
+		<segment id="21" parent="65" relname="sequence">and say a few simple things to him</segment>
+		<segment id="22" parent="66" relname="span">as it is for me to do so,</segment>
+		<segment id="23" parent="22" relname="reason-S">so I will repeat them here.</segment>
+		<segment id="24" parent="71" relname="span">The statement</segment>
+		<segment id="25" parent="24" relname="e-elaboration">that Mr. Churkin has referred very negatively to several times today</segment>
+		<segment id="26" parent="72" relname="sameunit">was made by the acting President, Mr. Turchynov,</segment>
+		<segment id="27" parent="73" relname="conjunction">and was addressed to those people who are now creating tension in those towns, the terrorist groups of separatists.</segment>
+		<segment id="28" parent="76" relname="attribution">He stated:</segment>
+		<segment id="29" parent="75" relname="textual-organization">(spoke in English)</segment>
+		<segment id="30" parent="74" relname="conjunction">"Those not involved in shooting at Ukrainian law enforcement officers</segment>
+		<segment id="31" parent="74" relname="conjunction">and who will surrender their weapons and leave State administrative buildings will be released from prosecution."</segment>
+		<segment id="32" parent="87" relname="textual-organization">(spoke in Russian)</segment>
+		<segment id="33" parent="85" relname="conjunction">Why do they not call their people</segment>
+		<segment id="34" parent="85" relname="conjunction">and tell them to come back, sit down around the negotiating table and decide together how we can establish good neighbourly relations?</segment>
+		<segment id="35" parent="86" relname="evaluation-S">That would be the right thing to do.</segment>
+		<segment id="36" parent="82" relname="list">The Government mentioned the referendum,</segment>
+		<segment id="37" parent="82" relname="list">changes to the Constitution,</segment>
+		<segment id="38" parent="82" relname="list">the retention of the language law</segment>
+		<segment id="39" parent="83" relname="span">and the fact that the problems</segment>
+		<segment id="40" parent="39" relname="e-elaboration">that have cropped up over the decades and remained unsolved by previous Governments</segment>
+		<segment id="41" parent="84" relname="sameunit">needed to be addressed at last.</segment>
+		<segment id="42" parent="43" relname="concession">That is something that we need to do,</segment>
+		<segment id="43" parent="91" relname="span">but we are being prevented from doing so.</segment>
+		<segment id="44" parent="93" relname="solutionhood">I would like Mr. Churkin to listen to that and convey what he can to his Government.</segment>
+		<segment id="45" parent="102" relname="textual-organization">(spoke in English)</segment>
+		<segment id="46" parent="98" relname="span">I am sincerely thankful to the members of the Security Council</segment>
+		<segment id="47" parent="46" relname="e-elaboration">who spoke in favour of a peaceful resolution of the problems in Ukraine.</segment>
+		<segment id="48" parent="98" relname="restatement">I am sincerely thankful for that.</segment>
+		<segment id="49" parent="100" relname="conjunction">I also thank the members of the Security Council for understanding the critical situation in Ukraine</segment>
+		<segment id="50" parent="100" relname="conjunction">and for any kind of support they can provide.</segment>
+		<group id="51" type="multinuc" parent="96" relname="preparation"/>
+		<group id="52" type="multinuc" parent="53" relname="span"/>
+		<group id="53" type="span" parent="54" relname="span"/>
+		<group id="54" type="span" parent="4" relname="elaboration"/>
+		<group id="55" type="span" parent="68" relname="span"/>
+		<group id="56" type="span" parent="62" relname="list"/>
+		<group id="57" type="span" parent="61" relname="span"/>
+		<group id="58" type="span" parent="11" relname="e-elaboration"/>
+		<group id="59" type="multinuc" parent="12" relname="purpose"/>
+		<group id="60" type="span" parent="57" relname="elaboration"/>
+		<group id="61" type="span" parent="62" relname="list"/>
+		<group id="62" type="multinuc" parent="68" relname="elaboration"/>
+		<group id="63" type="span" parent="17" relname="elaboration"/>
+		<group id="64" type="span" parent="70" relname="list"/>
+		<group id="65" type="multinuc" parent="66" relname="concession"/>
+		<group id="66" type="span" parent="67" relname="span"/>
+		<group id="67" type="span" parent="70" relname="list"/>
+		<group id="68" type="span" parent="69" relname="span"/>
+		<group id="69" type="span" parent="78" relname="span"/>
+		<group id="70" type="multinuc" parent="80" relname="preparation"/>
+		<group id="71" type="span" parent="72" relname="sameunit"/>
+		<group id="72" type="multinuc" parent="73" relname="conjunction"/>
+		<group id="73" type="multinuc" parent="79" relname="span"/>
+		<group id="74" type="multinuc" parent="75" relname="span"/>
+		<group id="75" type="span" parent="76" relname="span"/>
+		<group id="76" type="span" parent="77" relname="span"/>
+		<group id="77" type="span" parent="79" relname="e-elaboration"/>
+		<group id="78" type="span" parent="95" relname="background"/>
+		<group id="79" type="span" parent="80" relname="span"/>
+		<group id="80" type="span" parent="81" relname="span"/>
+		<group id="81" type="span" parent="88" relname="background"/>
+		<group id="82" type="multinuc" parent="92" relname="span"/>
+		<group id="83" type="span" parent="84" relname="sameunit"/>
+		<group id="84" type="multinuc" parent="82" relname="list"/>
+		<group id="85" type="multinuc" parent="86" relname="span"/>
+		<group id="86" type="span" parent="87" relname="span"/>
+		<group id="87" type="span" parent="88" relname="span"/>
+		<group id="88" type="span" parent="89" relname="span"/>
+		<group id="89" type="span" parent="90" relname="list"/>
+		<group id="90" type="multinuc" parent="95" relname="span"/>
+		<group id="91" type="span" parent="92" relname="elaboration"/>
+		<group id="92" type="span" parent="93" relname="span"/>
+		<group id="93" type="span" parent="94" relname="span"/>
+		<group id="94" type="span" parent="90" relname="list"/>
+		<group id="95" type="span" parent="96" relname="span"/>
+		<group id="96" type="span" parent="97" relname="span"/>
+		<group id="97" type="span" parent="104" relname="span"/>
+		<group id="98" type="span" parent="99" relname="span"/>
+		<group id="99" type="span" parent="101" relname="list"/>
+		<group id="100" type="multinuc" parent="101" relname="list"/>
+		<group id="101" type="multinuc" parent="102" relname="span"/>
+		<group id="102" type="span" parent="103" relname="span"/>
+		<group id="103" type="span" parent="97" relname="elaboration"/>
+		<group id="104" type="span" />
+	</body>
+</rst>

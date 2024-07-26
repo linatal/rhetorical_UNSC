@@ -1,0 +1,142 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="conjunction" type="multinuc"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="e-elaboration" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation-N" type="rst"/>
+			<rel name="evaluation-S" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="interpretation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="list" type="multinuc"/>
+			<rel name="means" type="rst"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="otherwise" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="reason-N" type="rst"/>
+			<rel name="reason-S" type="rst"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sameunit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+			<rel name="summary" type="rst"/>
+			<rel name="textual-organization" type="multinuc"/>
+			<rel name="textual-organization" type="rst"/>
+			<rel name="topic-comment" type="rst"/>
+			<rel name="unless" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="68" relname="evaluation-S">Some colleagues today have achieved high levels of rhetoric.</segment>
+		<segment id="2" parent="3" relname="attribution">I must mention</segment>
+		<segment id="3" parent="50" relname="span">that the Ukrainian colleague nevertheless went far beyond anything permissible.</segment>
+		<segment id="4" parent="53" relname="condition">Ifone is to speak ofblood,</segment>
+		<segment id="5" parent="6" relname="antithesis">indeed the blood is not on our hands</segment>
+		<segment id="6" parent="51" relname="span">but on the hands of his friends the nationalist radicals</segment>
+		<segment id="7" parent="51" relname="e-elaboration">- the blood of those Ukrainians who were shot by snipers on days in February of this year -</segment>
+		<segment id="8" parent="59" relname="span">whose ideological fathers he defended not very long ago in the halls of the United Nations,</segment>
+		<segment id="9" parent="57" relname="attribution">stating</segment>
+		<segment id="10" parent="56" relname="conjunction">that Nazi Ukranian henchmen did not kill anyone</segment>
+		<segment id="11" parent="56" relname="conjunction">and that those were falsehoods made up by the Soviet Union.</segment>
+		<segment id="12" parent="60" relname="preparation">With regard to other statements,</segment>
+		<segment id="13" parent="14" relname="attribution">I must note</segment>
+		<segment id="14" parent="60" relname="span">that something has caught my attention.</segment>
+		<segment id="15" parent="64" relname="span">Colleagues that have taken the floor discussed poorly developed arguments, on the whole</segment>
+		<segment id="16" parent="63" relname="contrast">- it was not the argumentation put forward by my delegation,</segment>
+		<segment id="17" parent="63" relname="contrast">but distorted images or elements of our position.</segment>
+		<segment id="18" parent="19" relname="concession">I will not comment on everything heard today - all of the highly unacceptable comments.</segment>
+		<segment id="19" parent="65" relname="span">I will, however, make a few comments.</segment>
+		<segment id="20" parent="71" relname="span">The French colleague did not notice the smallest hint of violence in Ukraine.</segment>
+		<segment id="21" parent="70" relname="span">It is possible that he was unaware of what occurred on Saturday in Kharkiv,</segment>
+		<segment id="22" parent="21" relname="e-elaboration">where two citizens were killed by fighters from other regions of Ukraine.</segment>
+		<segment id="23" parent="72" relname="span">In fact, the violence had to be noted</segment>
+		<segment id="24" parent="23" relname="reason-S">as it took place during this month in Kyiv and in other regions of the country.</segment>
+		<segment id="25" parent="74" relname="span">There is a continuing threat of violence and a continuing threat of it spreading to other regions okaraine.</segment>
+		<segment id="26" parent="75" relname="span">Yet the violence has not occurred in Crimea,</segment>
+		<segment id="27" parent="26" relname="reason-S">due to measures taken there.</segment>
+		<segment id="28" parent="77" relname="antithesis">The Permanent Representative of the United States blamed Russia for illegally pursuing its ambitions.</segment>
+		<segment id="29" parent="30" relname="antithesis">That does not apply to us;</segment>
+		<segment id="30" parent="77" relname="span">it is a phrase taken from the foreign policy arsenal of the United States.</segment>
+		<segment id="31" parent="79" relname="antithesis">Ms. Power spoke of truth.</segment>
+		<segment id="32" parent="79" relname="span">The world would be very interested to know</segment>
+		<segment id="33" parent="32" relname="condition">if Washington, DC, would in fact tell the truth about its role in the development of the crisis in Ukraine.</segment>
+		<segment id="34" parent="82" relname="antithesis">Finally, Ms. Power spoke of dreams and aspirations.</segment>
+		<segment id="35" parent="82" relname="span">But why has she negated the right of the people of Crimea</segment>
+		<segment id="36" parent="35" relname="e-elaboration">to express their will tomorrow during the referendum?</segment>
+		<segment id="37" parent="85" relname="attribution">To conclude, one of our colleagues said</segment>
+		<segment id="38" parent="84" relname="sequence">that Kyiv had extended a hand to Moscow</segment>
+		<segment id="39" parent="84" relname="sequence">and that we had refused to reciprocate.</segment>
+		<segment id="40" parent="87" relname="antithesis">But the problem is not with Moscow;</segment>
+		<segment id="41" parent="87" relname="span">it has to do with the fact that Kyiv should have been the one to extend a hand to its people and regions,</segment>
+		<segment id="42" parent="41" relname="antithesis">instead of intimidating them with repression and banning the use of the Russian language.</segment>
+		<segment id="43" parent="95" relname="antithesis">Why, for instance, was the constitutional assembly not convened,</segment>
+		<segment id="44" parent="45" relname="evaluation-S">and in reality,</segment>
+		<segment id="45" parent="94" relname="span">in the course of the constitutional process,</segment>
+		<segment id="46" parent="95" relname="span">it was not proved that the ideology and practice of radical nationalism did not prevail in Kyiv?</segment>
+		<segment id="47" parent="91" relname="concession">It is unfortunate that much time has been lost.</segment>
+		<segment id="48" parent="90" relname="conjunction">Nevertheless, we would appeal to all to put an end to the confrontation</segment>
+		<segment id="49" parent="90" relname="conjunction">and to begin constructive cooperation with a view to a long-term settlement of the situation in Ukraine, in the interests of all of the people, including those in the eastern and south-eastern regions.</segment>
+		<group id="50" type="span" parent="55" relname="span"/>
+		<group id="51" type="span" parent="52" relname="span"/>
+		<group id="52" type="span" parent="53" relname="span"/>
+		<group id="53" type="span" parent="54" relname="span"/>
+		<group id="54" type="span" parent="50" relname="reason-S"/>
+		<group id="55" type="span" parent="67" relname="list"/>
+		<group id="56" type="multinuc" parent="57" relname="span"/>
+		<group id="57" type="span" parent="58" relname="span"/>
+		<group id="58" type="span" parent="8" relname="elaboration"/>
+		<group id="59" type="span" parent="52" relname="e-elaboration"/>
+		<group id="60" type="span" parent="61" relname="span"/>
+		<group id="61" type="span" parent="64" relname="preparation"/>
+		<group id="62" type="span" parent="65" relname="circumstance"/>
+		<group id="63" type="multinuc" parent="15" relname="e-elaboration"/>
+		<group id="64" type="span" parent="62" relname="span"/>
+		<group id="65" type="span" parent="66" relname="span"/>
+		<group id="66" type="span" parent="67" relname="list"/>
+		<group id="67" type="multinuc" parent="68" relname="span"/>
+		<group id="68" type="span" parent="69" relname="span"/>
+		<group id="69" type="span" parent="99" relname="joint"/>
+		<group id="70" type="span" parent="20" relname="elaboration"/>
+		<group id="71" type="span" parent="72" relname="antithesis"/>
+		<group id="72" type="span" parent="73" relname="span"/>
+		<group id="73" type="span" parent="25" relname="evidence"/>
+		<group id="74" type="span" parent="76" relname="contrast"/>
+		<group id="75" type="span" parent="76" relname="contrast"/>
+		<group id="76" type="multinuc" parent="99" relname="joint"/>
+		<group id="77" type="span" parent="78" relname="span"/>
+		<group id="78" type="span" parent="81" relname="list"/>
+		<group id="79" type="span" parent="80" relname="span"/>
+		<group id="80" type="span" parent="81" relname="list"/>
+		<group id="81" type="multinuc" parent="97" relname="span"/>
+		<group id="82" type="span" parent="83" relname="span"/>
+		<group id="83" type="span" parent="81" relname="list"/>
+		<group id="84" type="multinuc" parent="85" relname="span"/>
+		<group id="85" type="span" parent="86" relname="span"/>
+		<group id="86" type="span" parent="88" relname="antithesis"/>
+		<group id="87" type="span" parent="88" relname="span"/>
+		<group id="88" type="span" parent="89" relname="span"/>
+		<group id="89" type="span" parent="93" relname="span"/>
+		<group id="90" type="multinuc" parent="91" relname="span"/>
+		<group id="91" type="span" parent="92" relname="span"/>
+		<group id="92" type="span" parent="97" relname="result"/>
+		<group id="93" type="span" parent="81" relname="list"/>
+		<group id="94" type="span" parent="46" relname="elaboration"/>
+		<group id="95" type="span" parent="96" relname="span"/>
+		<group id="96" type="span" parent="89" relname="elaboration"/>
+		<group id="97" type="span" parent="98" relname="span"/>
+		<group id="98" type="span" parent="99" relname="joint"/>
+		<group id="99" type="multinuc" />
+	</body>
+</rst>

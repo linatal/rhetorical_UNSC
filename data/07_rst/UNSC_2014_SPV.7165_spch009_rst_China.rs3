@@ -1,0 +1,101 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="conjunction" type="multinuc"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="e-elaboration" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation-N" type="rst"/>
+			<rel name="evaluation-S" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="interpretation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="list" type="multinuc"/>
+			<rel name="means" type="rst"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="otherwise" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="reason-N" type="rst"/>
+			<rel name="reason-S" type="rst"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sameunit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+			<rel name="summary" type="rst"/>
+			<rel name="textual-organization" type="multinuc"/>
+			<rel name="textual-organization" type="rst"/>
+			<rel name="topic-comment" type="rst"/>
+			<rel name="unless" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="57" relname="preparation">I wish to thank Under-Secretary-General Feltman for his briefing.</segment>
+		<segment id="2" parent="35" relname="span">The crisis in Ukraine is the result of a complex fabric of historical and contemporary factors.</segment>
+		<segment id="3" parent="34" relname="span">A political solution is the only way to end the crisis.</segment>
+		<segment id="4" parent="32" relname="purpose">To tackle the crisis at its roots,</segment>
+		<segment id="5" parent="32" relname="span">both the current situation and the historical facts must be considered,</segment>
+		<segment id="6" parent="29" relname="conjunction">taking into account the legitimate rights, interests and demands of the various regions and ethnic communities of Ukraine</segment>
+		<segment id="7" parent="29" relname="conjunction">and the legitimate concerns of all the parties concerned,</segment>
+		<segment id="8" parent="30" relname="elaboration">with a view to achieving a balance ofinterests for all.</segment>
+		<segment id="9" parent="36" relname="span">For some time now, various parties including China, have been vigorously engaged in mediation efforts and pushing for talks</segment>
+		<segment id="10" parent="9" relname="purpose">in order to ease the crisis in Ukraine.</segment>
+		<segment id="11" parent="37" relname="span">The Geneva agreement reached between Russia, the United States, the European Union and Ukraine calls for measures to de-escalate the Ukrainian situation,</segment>
+		<segment id="12" parent="11" relname="result">thereby sending a positive signal for a political solution to the crisis.</segment>
+		<segment id="13" parent="39" relname="span">Regrettably, tensions in eastern and south- eastern Ukraine have worsened,</segment>
+		<segment id="14" parent="13" relname="elaboration">with each side more vehemently accusing the other.</segment>
+		<segment id="15" parent="39" relname="elaboration">Threats and sanctions have again replaced dialogue and negotiation.</segment>
+		<segment id="16" parent="47" relname="attribution">China hopes</segment>
+		<segment id="17" parent="42" relname="list">that all parties concerned will keep in mind the broader picture of regional peace and stability, and the fundamental interests of all ethnic groups in Ukraine,</segment>
+		<segment id="18" parent="42" relname="list">maintain restraint,</segment>
+		<segment id="19" parent="42" relname="list">persevere in dialogue and consultations,</segment>
+		<segment id="20" parent="43" relname="conjunction">effectively implement the agreement already reached by all of the parties</segment>
+		<segment id="21" parent="43" relname="conjunction">and continue to push for a political solution to the crisis</segment>
+		<segment id="22" parent="44" relname="purpose">so as to achieve stability and development in Ukraine as soon as possible.</segment>
+		<segment id="23" parent="50" relname="list">China's position on the question of Ukraine remains objective,</segment>
+		<segment id="24" parent="50" relname="list">impartial</segment>
+		<segment id="25" parent="50" relname="list">and responsible.</segment>
+		<segment id="26" parent="51" relname="conjunction">From the very beginning, China has called on all parties to seek a political solution through dialogue rather than confrontation,</segment>
+		<segment id="27" parent="51" relname="conjunction">and we support international mediation efforts conducive to de-escalating the situation and seeking a political solution.</segment>
+		<segment id="28" parent="52" relname="restatement">China will continue to play a constructive role in mediation efforts and pushing for talks.</segment>
+		<group id="29" type="multinuc" parent="30" relname="span"/>
+		<group id="30" type="span" parent="31" relname="span"/>
+		<group id="31" type="span" parent="5" relname="elaboration"/>
+		<group id="32" type="span" parent="33" relname="span"/>
+		<group id="33" type="span" parent="3" relname="elaboration"/>
+		<group id="34" type="span" parent="2" relname="solutionhood"/>
+		<group id="35" type="span" parent="56" relname="background"/>
+		<group id="36" type="span" parent="38" relname="list"/>
+		<group id="37" type="span" parent="38" relname="list"/>
+		<group id="38" type="multinuc" parent="40" relname="concession"/>
+		<group id="39" type="span" parent="40" relname="span"/>
+		<group id="40" type="span" parent="41" relname="span"/>
+		<group id="41" type="span" parent="49" relname="contrast"/>
+		<group id="42" type="multinuc" parent="46" relname="span"/>
+		<group id="43" type="multinuc" parent="44" relname="span"/>
+		<group id="44" type="span" parent="45" relname="span"/>
+		<group id="45" type="span" parent="46" relname="elaboration"/>
+		<group id="46" type="span" parent="47" relname="span"/>
+		<group id="47" type="span" parent="48" relname="span"/>
+		<group id="48" type="span" parent="49" relname="contrast"/>
+		<group id="49" type="multinuc" parent="55" relname="span"/>
+		<group id="50" type="multinuc" parent="53" relname="preparation"/>
+		<group id="51" type="multinuc" parent="52" relname="span"/>
+		<group id="52" type="span" parent="53" relname="span"/>
+		<group id="53" type="span" parent="54" relname="span"/>
+		<group id="54" type="span" parent="55" relname="background"/>
+		<group id="55" type="span" parent="56" relname="span"/>
+		<group id="56" type="span" parent="57" relname="span"/>
+		<group id="57" type="span" parent="58" relname="span"/>
+		<group id="58" type="span" />
+	</body>
+</rst>

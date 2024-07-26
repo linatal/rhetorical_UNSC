@@ -1,0 +1,80 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="conjunction" type="multinuc"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="e-elaboration" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation-N" type="rst"/>
+			<rel name="evaluation-S" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="interpretation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="list" type="multinuc"/>
+			<rel name="means" type="rst"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="otherwise" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="reason-N" type="rst"/>
+			<rel name="reason-S" type="rst"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sameunit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+			<rel name="summary" type="rst"/>
+			<rel name="textual-organization" type="multinuc"/>
+			<rel name="textual-organization" type="rst"/>
+			<rel name="topic-comment" type="rst"/>
+			<rel name="unless" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="19" relname="span">New Zealand voted in favour of resolution 2272</segment>
+		<segment id="2" parent="1" relname="e-elaboration">(2016)</segment>
+		<segment id="3" parent="34" relname="span">because of the clear and pressing need for more robust action</segment>
+		<segment id="4" parent="3" relname="purpose">to combat sexual exploitation and abuse.</segment>
+		<segment id="5" parent="36" relname="conjunction">New Zealand respects the sacrifice</segment>
+		<segment id="6" parent="36" relname="conjunction">and commends the meaningful contribution of the vast majority of United Nations peacekeepers.</segment>
+		<segment id="7" parent="21" relname="span">The measures in this resolution support the Secretary-General's efforts with respect to sexual exploitation and abuse,</segment>
+		<segment id="8" parent="7" relname="e-elaboration">in particular to address the systemic failure represented by the ongoing allegations.</segment>
+		<segment id="9" parent="28" relname="background">The past 10 years, and especially this past year, have demonstrated that the status quo is neither working nor acceptable.</segment>
+		<segment id="10" parent="24" relname="conjunction">The Security Council has a responsibility to act on sexual exploitation and abuse</segment>
+		<segment id="11" parent="25" relname="span">and address the negative consequences of the peacekeeping operations</segment>
+		<segment id="12" parent="26" relname="span">that we members of the Council mandate,</segment>
+		<segment id="13" parent="12" relname="elaboration">including to implement the standards we have all agreed.</segment>
+		<segment id="14" parent="27" relname="motivation">We encourage all partners to work together going forward.</segment>
+		<segment id="15" parent="30" relname="span">Only our close cooperation to implement zero tolerance and build capacity,</segment>
+		<segment id="16" parent="15" relname="elaboration">with a real investment of political will,</segment>
+		<segment id="17" parent="38" relname="span">can make the difference</segment>
+		<segment id="18" parent="17" relname="motivation">that is so desperately needed for the victims, United Nations peacekeeping, and the credibility of the Organization.</segment>
+		<group id="19" type="span" parent="20" relname="span"/>
+		<group id="20" type="span" parent="23" relname="span"/>
+		<group id="21" type="span" parent="22" relname="span"/>
+		<group id="22" type="span" parent="20" relname="reason-S"/>
+		<group id="23" type="span" parent="33" relname="joint"/>
+		<group id="24" type="multinuc" parent="27" relname="span"/>
+		<group id="25" type="span" parent="24" relname="conjunction"/>
+		<group id="26" type="span" parent="11" relname="e-elaboration"/>
+		<group id="27" type="span" parent="28" relname="span"/>
+		<group id="28" type="span" parent="29" relname="span"/>
+		<group id="29" type="span" parent="32" relname="span"/>
+		<group id="30" type="span" parent="38" relname="condition"/>
+		<group id="31" type="span" parent="29" relname="elaboration"/>
+		<group id="32" type="span" parent="33" relname="joint"/>
+		<group id="33" type="multinuc" />
+		<group id="34" type="span" parent="19" relname="reason-S"/>
+		<group id="36" type="multinuc" parent="37" relname="span"/>
+		<group id="37" type="span" parent="21" relname="background"/>
+		<group id="38" type="span" parent="31" relname="span"/>
+	</body>
+</rst>

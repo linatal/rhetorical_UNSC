@@ -1,0 +1,81 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="conjunction" type="multinuc"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="e-elaboration" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation-N" type="rst"/>
+			<rel name="evaluation-S" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="interpretation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="list" type="multinuc"/>
+			<rel name="means" type="rst"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="otherwise" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="reason-N" type="rst"/>
+			<rel name="reason-S" type="rst"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sameunit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+			<rel name="summary" type="rst"/>
+			<rel name="textual-organization" type="multinuc"/>
+			<rel name="textual-organization" type="rst"/>
+			<rel name="topic-comment" type="rst"/>
+			<rel name="unless" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="22" relname="preparation">Spain thanks the United States for this important initiative.</segment>
+		<segment id="2" parent="20" relname="span">We have just adopted resolution 2272</segment>
+		<segment id="3" parent="2" relname="e-elaboration">(2016),</segment>
+		<segment id="4" parent="20" relname="elaboration">the first to address exclusively conduct deemed completely unacceptable.</segment>
+		<segment id="5" parent="39" relname="span">With this resolution, the Security Council is sending a strong message to all</segment>
+		<segment id="6" parent="38" relname="span">who have the responsibility to eliminate this scourge,</segment>
+		<segment id="7" parent="6" relname="e-elaboration">and that responsibility is collective.</segment>
+		<segment id="8" parent="24" relname="span">My delegation supported the text put forward in its entirety and without amendment,</segment>
+		<segment id="9" parent="8" relname="reason-S">because quite simply we cannot address the issue of accountability in a partial manner.</segment>
+		<segment id="10" parent="25" relname="evaluation-S">The reason for that is obvious.</segment>
+		<segment id="11" parent="12" relname="antithesis">Our aim is not to repatriate contingents,</segment>
+		<segment id="12" parent="25" relname="span">but to protect the victims and prevent the repetition of aggressive acts.</segment>
+		<segment id="13" parent="28" relname="conjunction">It is therefore necessary to investigate such matters as soon as possible</segment>
+		<segment id="14" parent="28" relname="conjunction">or inform the Secretary-General of the measures taken.</segment>
+		<segment id="15" parent="29" relname="conjunction">The perpetrators must be brought to justice</segment>
+		<segment id="16" parent="29" relname="conjunction">and serve their sentences.</segment>
+		<segment id="17" parent="32" relname="span">All of that is first and foremost the responsibility of the troop-and police contributing countries,</segment>
+		<segment id="18" parent="17" relname="motivation">precisely because we do not want the work of a contingent to be tarnished by the actions of some of its members.</segment>
+		<segment id="19" parent="35" relname="elaboration">Let us ensure that we all assume our responsibility.</segment>
+		<group id="20" type="span" parent="21" relname="span"/>
+		<group id="21" type="span" parent="22" relname="span"/>
+		<group id="22" type="span" parent="23" relname="span"/>
+		<group id="23" type="span" />
+		<group id="24" type="span" parent="26" relname="background"/>
+		<group id="25" type="span" parent="26" relname="span"/>
+		<group id="26" type="span" parent="27" relname="span"/>
+		<group id="27" type="span" parent="34" relname="span"/>
+		<group id="28" type="multinuc" parent="30" relname="span"/>
+		<group id="29" type="multinuc" parent="30" relname="elaboration"/>
+		<group id="30" type="span" parent="31" relname="span"/>
+		<group id="31" type="span" parent="32" relname="background"/>
+		<group id="32" type="span" parent="33" relname="span"/>
+		<group id="33" type="span" parent="35" relname="span"/>
+		<group id="34" type="span" parent="33" relname="motivation"/>
+		<group id="35" type="span" parent="36" relname="span"/>
+		<group id="36" type="span" parent="21" relname="reason-S"/>
+		<group id="38" type="span" parent="5" relname="e-elaboration"/>
+		<group id="39" type="span" parent="27" relname="background"/>
+	</body>
+</rst>

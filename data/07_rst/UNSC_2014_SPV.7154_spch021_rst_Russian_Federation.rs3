@@ -1,0 +1,323 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="conjunction" type="multinuc"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="e-elaboration" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation-N" type="rst"/>
+			<rel name="evaluation-S" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="interpretation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="list" type="multinuc"/>
+			<rel name="means" type="rst"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="otherwise" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="reason-N" type="rst"/>
+			<rel name="reason-S" type="rst"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sameunit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+			<rel name="summary" type="rst"/>
+			<rel name="textual-organization" type="multinuc"/>
+			<rel name="textual-organization" type="rst"/>
+			<rel name="topic-comment" type="rst"/>
+			<rel name="unless" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="137" relname="conjunction">Many words have been spoken</segment>
+		<segment id="2" parent="137" relname="conjunction">and many pronouncements made here today.</segment>
+		<segment id="3" parent="138" relname="span">But the first impression I would like to share with my colleagues is</segment>
+		<segment id="4" parent="3" relname="e-elaboration">that they have not been looking at the clock.</segment>
+		<segment id="5" parent="139" relname="span">It is now 9.30 pm.</segment>
+		<segment id="6" parent="5" relname="e-elaboration">our time,</segment>
+		<segment id="7" parent="140" relname="span">which means that in Ukraine it is about 3.30 am.</segment>
+		<segment id="8" parent="141" relname="span">That means that in a couple of hours it will be Monday morning, 14 April.</segment>
+		<segment id="9" parent="142" relname="span">That is the date when it has been agreed that Mr. Turchynov's criminal decree</segment>
+		<segment id="10" parent="143" relname="span">sending Ukraine's military forces</segment>
+		<segment id="11" parent="10" relname="purpose">to suppress the protests</segment>
+		<segment id="12" parent="144" relname="sameunit">will take effect.</segment>
+		<segment id="13" parent="149" relname="concession">We have heard many unfair pronouncements about Russia today,</segment>
+		<segment id="14" parent="149" relname="span">but of course the most unfair of all came from our Ukrainian colleague,</segment>
+		<segment id="15" parent="14" relname="e-elaboration">who accused Russia of terrorism.</segment>
+		<segment id="16" parent="152" relname="span">Why did he not accuse those who terrorized his Government for months on end, up to 21 February, of terrorism?</segment>
+		<segment id="17" parent="151" relname="span">They were people who really did terrorize the forces of law and order,</segment>
+		<segment id="18" parent="17" relname="e-elaboration">who really did attack police and shoot at them and at those protesting against the authorities and seemed to be attacking their country.</segment>
+		<segment id="19" parent="152" relname="restatement">Why were they not called terrorists?</segment>
+		<segment id="20" parent="153" relname="interpretation">Indeed, they have been exempted from any responsibility for the criminal activities they conducted for several months.</segment>
+		<segment id="21" parent="22" relname="attribution">I reiterate</segment>
+		<segment id="22" parent="156" relname="span">that, unfortunately, several clumsy accusations have been made against Russia.</segment>
+		<segment id="23" parent="157" relname="span">It has been said that Russia somehow wishes to destabilize Ukraine,</segment>
+		<segment id="24" parent="23" relname="elaboration">if not practically crush it altogether.</segment>
+		<segment id="25" parent="159" relname="span">But why was there no response to our call at the start of the crisis for launching a dialogue</segment>
+		<segment id="26" parent="165" relname="span">on how to help Ukraine emerge from the political and economic crisis</segment>
+		<segment id="27" parent="26" relname="e-elaboration">it had found itself in?</segment>
+		<segment id="28" parent="164" relname="list">Why was the crisis encouraged to continue?</segment>
+		<segment id="29" parent="161" relname="attribution">Why was it only just a few days ago that the Foreign Ministers of France, Germany and Poland said</segment>
+		<segment id="30" parent="161" relname="span">that the European Union and Russia should indeed talk about the economic prospects for Ukraine, Georgia and Moldova</segment>
+		<segment id="31" parent="30" relname="elaboration">in connection with their joining the partnership programme of the European Union.</segment>
+		<segment id="32" parent="160" relname="elaboration">And, by the way, we have heard nothing about the fact that those ministerial conversations took place in Brussels.</segment>
+		<segment id="33" parent="170" relname="span">Let us see what the response will be to the reproaches to Russia over the fact</segment>
+		<segment id="34" parent="33" relname="e-elaboration">that we do not want supply Ukraine with gas for free.</segment>
+		<segment id="35" parent="171" relname="span">Let us see on 14 April what response the European ministers will give to the letter</segment>
+		<segment id="36" parent="35" relname="e-elaboration">that President Putin wrote</segment>
+		<segment id="37" parent="172" relname="sameunit">proposing</segment>
+		<segment id="38" parent="175" relname="span">that we work together</segment>
+		<segment id="39" parent="38" relname="purpose">to help Ukraine emerge from its economic turmoil.</segment>
+		<segment id="40" parent="176" relname="span">It is true that the people in Washington, DC,</segment>
+		<segment id="41" parent="40" relname="e-elaboration">to whom we did not send the letter,</segment>
+		<segment id="42" parent="177" relname="sameunit">have already poisoned it for the European Union,</segment>
+		<segment id="43" parent="178" relname="e-elaboration">calling it economic blackmail.</segment>
+		<segment id="44" parent="181" relname="conjunction">But let us see whether the European Union has retained some kind of sovereignty</segment>
+		<segment id="45" parent="180" relname="span">and whether it is capable of making independent, rational decisions</segment>
+		<segment id="46" parent="45" relname="e-elaboration">that can help to rescue the situation from crisis.</segment>
+		<segment id="47" parent="189" relname="span">During the entire course of the crisis in Ukraine, Russia has never advocated aggravating it or destabilizing the country.</segment>
+		<segment id="48" parent="187" relname="span">We have absolutely no interest in doing such a thing,</segment>
+		<segment id="49" parent="186" relname="span">since for us Ukraine is too important as an economic and political partner and a country</segment>
+		<segment id="50" parent="49" relname="e-elaboration">that is very close to us in many ways.</segment>
+		<segment id="51" parent="187" relname="restatement">We do not desire its destabilization.</segment>
+		<segment id="52" parent="190" relname="span">We are not to blame for what has produced the results</segment>
+		<segment id="53" parent="52" relname="e-elaboration">that we are now witnessing.</segment>
+		<segment id="54" parent="209" relname="attribution">Mr. Fernandez-Taranco said</segment>
+		<segment id="55" parent="56" relname="circumstance">that it was on 6 April</segment>
+		<segment id="56" parent="208" relname="span">that the actions were first observed</segment>
+		<segment id="57" parent="209" relname="span">whereby residents of south-eastern areas of Ukraine were seizing certain administrative buildings.</segment>
+		<segment id="58" parent="193" relname="span">And in this, of course, they learned from the experience of the Maidan in Kyiv,</segment>
+		<segment id="59" parent="192" relname="conjunction">where for weeks and months administrative buildings were occupied,</segment>
+		<segment id="60" parent="192" relname="conjunction">and which for some reason our Western partners saw as demonstrations of democracy.</segment>
+		<segment id="61" parent="194" relname="span">But when it came to the south-eastern regions of Ukraine,</segment>
+		<segment id="62" parent="61" relname="elaboration">somehow such tactics were unacceptable.</segment>
+		<segment id="63" parent="197" relname="span">A month and a half elapsed between 21 February and 6 April;</segment>
+		<segment id="64" parent="196" relname="span">a month and a half had gone by since the overthrow of President Yanukovych and the conclusion of the agreement</segment>
+		<segment id="65" parent="64" relname="e-elaboration">that could have prevented an escalation of the situation.</segment>
+		<segment id="66" parent="200" relname="attribution">From the very beginning, all we said was</segment>
+		<segment id="67" parent="198" relname="conjunction">that it was essential to conclude that agreement;</segment>
+		<segment id="68" parent="198" relname="conjunction">that perhaps a constitutional assembly should be convoked;</segment>
+		<segment id="69" parent="199" relname="span">and that some decisive gesture should be made towards the south-eastern regions of Ukraine.</segment>
+		<segment id="70" parent="69" relname="textual-organization">Was any such gesture made?</segment>
+		<segment id="71" parent="292" relname="conjunction">Finally, Mr. Yatsenyuk came,</segment>
+		<segment id="72" parent="292" relname="conjunction">said something</segment>
+		<segment id="73" parent="292" relname="conjunction">and left.</segment>
+		<segment id="74" parent="203" relname="conjunction">Then Mr. Turchynov came the next day</segment>
+		<segment id="75" parent="203" relname="conjunction">and did not seem to agree with him.</segment>
+		<segment id="76" parent="204" relname="interpretation">It seemed they preferred to use force.</segment>
+		<segment id="77" parent="226" relname="span">Incidentally, some very worrying tones have crept into our numerous contacts with our Western colleagues.</segment>
+		<segment id="78" parent="79" relname="attribution">As the Council knows,</segment>
+		<segment id="79" parent="215" relname="span">our Minister for Foreign Affairs, Mr. Sergei Lavrov, has been talking to Secretary of State Kerry on the phone almost every day.</segment>
+		<segment id="80" parent="216" relname="preparation">Kerry continually claims to understand our concern</segment>
+		<segment id="81" parent="216" relname="span">that in contacts with the Ukrainian authorities genuine efforts should be made</segment>
+		<segment id="82" parent="81" relname="purpose">to ensure that they demonstrate a better grasp of the concerns of the south-eastern regions of Ukraine regarding a definition of their autonomy, independence and language rights.</segment>
+		<segment id="83" parent="219" relname="conjunction">And then suddenly one ofthe United States Deputy Secretaries of State gets up in Congress</segment>
+		<segment id="84" parent="85" relname="attribution">and says,</segment>
+		<segment id="85" parent="220" relname="span">we know</segment>
+		<segment id="86" parent="222" relname="contrast">that these talks will not lead anywhere,</segment>
+		<segment id="87" parent="221" relname="span">but we have to occupy the time somehow.</segment>
+		<segment id="88" parent="87" relname="restatement">"Occupy the time."</segment>
+		<segment id="89" parent="226" relname="interpretation">So, really, maybe somebody in Washington, DC, is thinking about Turchynov's military offensive scenario.</segment>
+		<segment id="90" parent="228" relname="span">In which case, there is no need to accuse Russia of attempting destabilization.</segment>
+		<segment id="91" parent="92" relname="attribution">The representative of the United States noted</segment>
+		<segment id="92" parent="229" relname="span">that Vice-President Biden will be going to Ukraine, it seems, on 21 April.</segment>
+		<segment id="93" parent="230" relname="span">But maybe he should not wait for 21 April.</segment>
+		<segment id="94" parent="231" relname="span">Maybe he should go right now.</segment>
+		<segment id="95" parent="235" relname="sequence">Pick up the phone,</segment>
+		<segment id="96" parent="289" relname="span">call Mr. Turchynov</segment>
+		<segment id="97" parent="96" relname="elaboration">- as he called President Yanukovych more than once before 21 February -</segment>
+		<segment id="98" parent="235" relname="sequence">and say to him what he said to Mr. Yanukovych.</segment>
+		<segment id="99" parent="100" relname="attribution">As we were informed by the Vice-President's Chief of Staff,</segment>
+		<segment id="100" parent="237" relname="span">he said,</segment>
+		<segment id="101" parent="236" relname="span">"For God's sake, just do not use force.</segment>
+		<segment id="102" parent="101" relname="restatement">Call off your forces from the centre of Kyiv".</segment>
+		<segment id="103" parent="238" relname="restatement">That was what Mr. Biden said.</segment>
+		<segment id="104" parent="243" relname="span">And now, is the United States going to encourage the fulfilment of this criminal decree</segment>
+		<segment id="105" parent="104" relname="e-elaboration">authorizing the use of military force?</segment>
+		<segment id="106" parent="244" relname="span">Why, in one case,</segment>
+		<segment id="107" parent="106" relname="e-elaboration">when it was a question of preparations to storm the residence of the President of Ukraine,</segment>
+		<segment id="108" parent="245" relname="span">the call was that under no circumstances should force be used,</segment>
+		<segment id="109" parent="246" relname="span">while in the current situation, it is to encourage the insane military actions</segment>
+		<segment id="110" parent="109" relname="e-elaboration">that Turchynov's decree talks about?</segment>
+		<segment id="111" parent="250" relname="span">I would therefore request Ms. Power to ask Vice-President Biden to call Mr. Turchynov right now,</segment>
+		<segment id="112" parent="111" relname="motivation">because in a few hours' time things might take an irreversible turn.</segment>
+		<segment id="113" parent="252" relname="span">Many colleagues mentioned the meeting</segment>
+		<segment id="114" parent="113" relname="e-elaboration">that was announced for 17 April.</segment>
+		<segment id="115" parent="253" relname="span">Indeed, for some months now,</segment>
+		<segment id="116" parent="115" relname="elaboration">in particular during the period after 21 February,</segment>
+		<segment id="117" parent="255" relname="span">we have constantly encouraged such formats for dialogue as a possible way</segment>
+		<segment id="118" parent="117" relname="purpose">to achieve a solution to the crisis.</segment>
+		<segment id="119" parent="290" relname="span">We agreed in principle that the meeting would take place among the Minister for Foreign Affairs of the Russian Federation, Secretary of State Kerry, Ms. Ashton and the Minister for Foreign Affairs of Ukraine.</segment>
+		<segment id="120" parent="257" relname="attribution">We very much hope</segment>
+		<segment id="121" parent="256" relname="conjunction">that such a high-level meeting will encourage a broad political dialogue in Ukraine</segment>
+		<segment id="122" parent="256" relname="conjunction">and show the way towards a political solution to the crisis.</segment>
+		<segment id="123" parent="267" relname="span">But what does the Council think?</segment>
+		<segment id="124" parent="125" relname="condition">If armed force is used and hostilities take place tomorrow,</segment>
+		<segment id="125" parent="264" relname="span">are we really going to sign off on that meeting?</segment>
+		<segment id="126" parent="265" relname="span">Of course, that initiative is going to be fundamentally undermined</segment>
+		<segment id="127" parent="126" relname="condition">if military operations are commenced in south-eastern Ukraine.</segment>
+		<segment id="128" parent="268" relname="span">Please, let us refrain from any accusations or speculation</segment>
+		<segment id="129" parent="128" relname="e-elaboration">as to why Russia is trying to do what it is doing.</segment>
+		<segment id="130" parent="269" relname="list">Let us focus our attention on what we can actually do in this case.</segment>
+		<segment id="131" parent="275" relname="circumstance">Here I am speaking to my Western colleagues.</segment>
+		<segment id="132" parent="291" relname="span">Let us ensure that we do not permit the Ukrainian authorities to commit the reckless actions</segment>
+		<segment id="133" parent="132" relname="e-elaboration">that are currently enshrined in the criminal decree by Mr. Turchynov,</segment>
+		<segment id="134" parent="272" relname="conjunction">and let us stop that decree from being implemented.</segment>
+		<segment id="135" parent="273" relname="evaluation-S">That would have extremely significant consequences, first and foremost for the people of Ukraine, of course.</segment>
+		<segment id="136" parent="274" relname="evaluation-S">That needs to be avoided.</segment>
+		<group id="137" type="multinuc" parent="138" relname="concession"/>
+		<group id="138" type="span" parent="147" relname="span"/>
+		<group id="139" type="span" parent="7" relname="circumstance"/>
+		<group id="140" type="span" parent="8" relname="circumstance"/>
+		<group id="141" type="span" parent="145" relname="circumstance"/>
+		<group id="142" type="span" parent="144" relname="sameunit"/>
+		<group id="143" type="span" parent="9" relname="e-elaboration"/>
+		<group id="144" type="multinuc" parent="145" relname="span"/>
+		<group id="145" type="span" parent="146" relname="span"/>
+		<group id="146" type="span" parent="148" relname="span"/>
+		<group id="147" type="span" parent="146" relname="preparation"/>
+		<group id="148" type="span" parent="285" relname="preparation"/>
+		<group id="149" type="span" parent="150" relname="span"/>
+		<group id="150" type="span" parent="155" relname="contrast"/>
+		<group id="151" type="span" parent="16" relname="e-elaboration"/>
+		<group id="152" type="span" parent="153" relname="span"/>
+		<group id="153" type="span" parent="154" relname="span"/>
+		<group id="154" type="span" parent="155" relname="contrast"/>
+		<group id="155" type="multinuc" parent="167" relname="span"/>
+		<group id="156" type="span" parent="158" relname="span"/>
+		<group id="157" type="span" parent="156" relname="e-elaboration"/>
+		<group id="158" type="span" parent="167" relname="restatement"/>
+		<group id="159" type="span" parent="164" relname="list"/>
+		<group id="160" type="span" parent="163" relname="span"/>
+		<group id="161" type="span" parent="160" relname="span"/>
+		<group id="163" type="span" parent="164" relname="list"/>
+		<group id="164" type="multinuc" parent="169" relname="contrast"/>
+		<group id="165" type="span" parent="25" relname="e-elaboration"/>
+		<group id="167" type="span" parent="168" relname="span"/>
+		<group id="168" type="span" parent="169" relname="contrast"/>
+		<group id="169" type="multinuc" parent="280" relname="reason-S"/>
+		<group id="170" type="span" parent="184" relname="list"/>
+		<group id="171" type="span" parent="172" relname="sameunit"/>
+		<group id="172" type="multinuc" parent="175" relname="attribution"/>
+		<group id="175" type="span" parent="287" relname="span"/>
+		<group id="176" type="span" parent="177" relname="sameunit"/>
+		<group id="177" type="multinuc" parent="178" relname="span"/>
+		<group id="178" type="span" parent="179" relname="span"/>
+		<group id="179" type="span" parent="182" relname="circumstance"/>
+		<group id="180" type="span" parent="181" relname="conjunction"/>
+		<group id="181" type="multinuc" parent="182" relname="span"/>
+		<group id="182" type="span" parent="183" relname="span"/>
+		<group id="183" type="span" parent="287" relname="interpretation"/>
+		<group id="184" type="multinuc" parent="214" relname="reason-S"/>
+		<group id="186" type="span" parent="48" relname="reason-S"/>
+		<group id="187" type="span" parent="188" relname="span"/>
+		<group id="188" type="span" parent="47" relname="reason-S"/>
+		<group id="189" type="span" parent="190" relname="background"/>
+		<group id="190" type="span" parent="191" relname="span"/>
+		<group id="191" type="span" parent="214" relname="span"/>
+		<group id="192" type="multinuc" parent="58" relname="e-elaboration"/>
+		<group id="193" type="span" parent="195" relname="contrast"/>
+		<group id="194" type="span" parent="195" relname="contrast"/>
+		<group id="195" type="multinuc" parent="210" relname="elaboration"/>
+		<group id="196" type="span" parent="63" relname="elaboration"/>
+		<group id="197" type="span" parent="212" relname="span"/>
+		<group id="198" type="multinuc" parent="200" relname="span"/>
+		<group id="199" type="span" parent="198" relname="conjunction"/>
+		<group id="200" type="span" parent="201" relname="span"/>
+		<group id="201" type="span" parent="206" relname="contrast"/>
+		<group id="202" type="multinuc" parent="204" relname="span"/>
+		<group id="203" type="multinuc" parent="202" relname="sequence"/>
+		<group id="204" type="span" parent="205" relname="span"/>
+		<group id="205" type="span" parent="206" relname="contrast"/>
+		<group id="206" type="multinuc" parent="207" relname="span"/>
+		<group id="207" type="span" parent="213" relname="span"/>
+		<group id="208" type="span" parent="57" relname="background"/>
+		<group id="209" type="span" parent="210" relname="span"/>
+		<group id="210" type="span" parent="211" relname="span"/>
+		<group id="211" type="span" parent="197" relname="background"/>
+		<group id="212" type="span" parent="207" relname="circumstance"/>
+		<group id="213" type="span" parent="191" relname="reason-S"/>
+		<group id="214" type="span" parent="280" relname="span"/>
+		<group id="215" type="span" parent="217" relname="background"/>
+		<group id="216" type="span" parent="217" relname="span"/>
+		<group id="217" type="span" parent="218" relname="span"/>
+		<group id="218" type="span" parent="225" relname="contrast"/>
+		<group id="219" type="multinuc" parent="225" relname="contrast"/>
+		<group id="220" type="span" parent="223" relname="attribution"/>
+		<group id="221" type="span" parent="222" relname="contrast"/>
+		<group id="222" type="multinuc" parent="223" relname="span"/>
+		<group id="223" type="span" parent="224" relname="span"/>
+		<group id="224" type="span" parent="219" relname="conjunction"/>
+		<group id="225" type="multinuc" parent="77" relname="e-elaboration"/>
+		<group id="226" type="span" parent="227" relname="span"/>
+		<group id="227" type="span" parent="90" relname="reason-S"/>
+		<group id="228" type="span" parent="281" relname="result"/>
+		<group id="229" type="span" parent="93" relname="background"/>
+		<group id="230" type="span" parent="94" relname="antithesis"/>
+		<group id="231" type="span" parent="249" relname="span"/>
+		<group id="235" type="multinuc" parent="239" relname="span"/>
+		<group id="236" type="span" parent="238" relname="span"/>
+		<group id="237" type="span" parent="236" relname="attribution"/>
+		<group id="238" type="span" parent="241" relname="span"/>
+		<group id="239" type="span" parent="240" relname="span"/>
+		<group id="240" type="span" parent="242" relname="contrast"/>
+		<group id="241" type="span" parent="239" relname="e-elaboration"/>
+		<group id="242" type="multinuc" parent="231" relname="elaboration"/>
+		<group id="243" type="span" parent="248" relname="span"/>
+		<group id="244" type="span" parent="108" relname="circumstance"/>
+		<group id="245" type="span" parent="247" relname="contrast"/>
+		<group id="246" type="span" parent="247" relname="contrast"/>
+		<group id="247" type="multinuc" parent="243" relname="elaboration"/>
+		<group id="248" type="span" parent="242" relname="contrast"/>
+		<group id="249" type="span" parent="250" relname="reason-S"/>
+		<group id="250" type="span" parent="251" relname="span"/>
+		<group id="251" type="span" parent="283" relname="span"/>
+		<group id="252" type="span" parent="262" relname="background"/>
+		<group id="253" type="span" parent="254" relname="sameunit"/>
+		<group id="254" type="multinuc" parent="261" relname="span"/>
+		<group id="255" type="span" parent="254" relname="sameunit"/>
+		<group id="256" type="multinuc" parent="257" relname="span"/>
+		<group id="257" type="span" parent="258" relname="span"/>
+		<group id="258" type="span" parent="119" relname="elaboration"/>
+		<group id="261" type="span" parent="262" relname="span"/>
+		<group id="262" type="span" parent="263" relname="span"/>
+		<group id="263" type="span" parent="278" relname="span"/>
+		<group id="264" type="span" parent="266" relname="span"/>
+		<group id="265" type="span" parent="264" relname="e-elaboration"/>
+		<group id="266" type="span" parent="123" relname="elaboration"/>
+		<group id="267" type="span" parent="263" relname="interpretation"/>
+		<group id="268" type="span" parent="269" relname="list"/>
+		<group id="269" type="multinuc" parent="277" relname="span"/>
+		<group id="272" type="multinuc" parent="273" relname="span"/>
+		<group id="273" type="span" parent="274" relname="span"/>
+		<group id="274" type="span" parent="275" relname="span"/>
+		<group id="275" type="span" parent="276" relname="span"/>
+		<group id="276" type="span" parent="269" relname="list"/>
+		<group id="277" type="span" parent="279" relname="span"/>
+		<group id="278" type="span" parent="277" relname="background"/>
+		<group id="279" type="span" parent="284" relname="joint"/>
+		<group id="280" type="span" parent="281" relname="span"/>
+		<group id="281" type="span" parent="282" relname="span"/>
+		<group id="282" type="span" parent="251" relname="reason-S"/>
+		<group id="283" type="span" parent="284" relname="joint"/>
+		<group id="284" type="multinuc" parent="285" relname="span"/>
+		<group id="285" type="span" parent="286" relname="span"/>
+		<group id="286" type="span" />
+		<group id="287" type="span" parent="288" relname="span"/>
+		<group id="288" type="span" parent="184" relname="list"/>
+		<group id="289" type="span" parent="235" relname="sequence"/>
+		<group id="290" type="span" parent="261" relname="evidence"/>
+		<group id="291" type="span" parent="272" relname="conjunction"/>
+		<group id="292" type="multinuc" parent="202" relname="sequence"/>
+	</body>
+</rst>

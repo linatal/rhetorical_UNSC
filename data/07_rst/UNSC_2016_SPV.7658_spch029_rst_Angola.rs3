@@ -1,0 +1,244 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="conjunction" type="multinuc"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="e-elaboration" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation-N" type="rst"/>
+			<rel name="evaluation-S" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="interpretation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="list" type="multinuc"/>
+			<rel name="means" type="rst"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="otherwise" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="reason-N" type="rst"/>
+			<rel name="reason-S" type="rst"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sameunit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+			<rel name="summary" type="rst"/>
+			<rel name="textual-organization" type="multinuc"/>
+			<rel name="textual-organization" type="rst"/>
+			<rel name="topic-comment" type="rst"/>
+			<rel name="unless" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="102" relname="span">I now give the floor to the representative of Brazil.</segment>
+		<segment id="2" parent="101" relname="span">Mr. De Aguiar Patriota</segment>
+		<segment id="3" parent="2" relname="e-elaboration">(Brazil)</segment>
+		<segment id="4" parent="103" relname="list">Let me congratulate Angola on having organized this debate under the guidance of its Minister for Family and the Promotion of Women, Ms. Maria Filomena Delgado.</segment>
+		<segment id="5" parent="103" relname="list">I also thank the Executive Director of the United Nations Entity for Gender Equality and the Empowerment of Women, the Assistant Secretary-General for Political Affairs, the Chair of the Peacebuilding Commission, the Permanent Observer of the African Union and Ms. Palegi Ayang for their presentations.</segment>
+		<segment id="6" parent="106" relname="span">Today's debate provides a timely opportunity to reflect on the results of the high-level review of the implementation of resolution 1325</segment>
+		<segment id="7" parent="6" relname="e-elaboration">(2000),</segment>
+		<segment id="8" parent="107" relname="conjunction">and to focus on the needs and perspectives of Africa.</segment>
+		<segment id="9" parent="108" relname="span">Brazil took note with satisfaction of the recommendations of the global study on the implementation of resolution 1325</segment>
+		<segment id="10" parent="9" relname="e-elaboration">(2000)</segment>
+		<segment id="11" parent="108" relname="e-elaboration">and, in particular, its emphasis on prevention and the need to avoid the militarization of the women and peace and security agenda.</segment>
+		<segment id="12" parent="111" relname="attribution">As highlighted by the global study,</segment>
+		<segment id="13" parent="110" relname="conjunction">increasing recognition of women's participation and empowerment is an end in itself</segment>
+		<segment id="14" parent="110" relname="conjunction">and should not be part of counterterrorism strategies or efforts to prevent violent extremism conducive to terrorism;</segment>
+		<segment id="15" parent="111" relname="span">rather, it should be a part of the civilian peace agenda.</segment>
+		<segment id="16" parent="118" relname="span">That point is highly relevant for Africa,</segment>
+		<segment id="17" parent="117" relname="conjunction">where most peacekeeping operations are deployed</segment>
+		<segment id="18" parent="117" relname="conjunction">and where women's organizations have been playing and will continue to play a positive role in all peace processes, from mediation and prevention initiatives to reconciliation and reconstruction in the aftermath of conflict.</segment>
+		<segment id="19" parent="20" relname="concession">Notwithstanding significant challenges,</segment>
+		<segment id="20" parent="119" relname="span">African women have many success stories to tell.</segment>
+		<segment id="21" parent="120" relname="joint">Women's organizations were at the forefront of the Liberian peace process.</segment>
+		<segment id="22" parent="120" relname="joint">Post-conflict recovery initiatives led to the economic empowerment of thousands of women in Burundi and Rwanda.</segment>
+		<segment id="23" parent="186" relname="span">The policies and instruments of the African Union Gender Policy, as well as the Gender, Peace and Security Programme of the African Peace and Security Architecture, provide valuable tools</segment>
+		<segment id="24" parent="23" relname="e-elaboration">to support the empowerment of African women as agents of peace.</segment>
+		<segment id="25" parent="121" relname="span">We also welcome the adoption last year of the African Union Agenda 2063</segment>
+		<segment id="26" parent="25" relname="e-elaboration">and its pledge to empower African women in all spheres of social life.</segment>
+		<segment id="27" parent="128" relname="span">It is also heartening to note that three important peacekeeping operations in Africa are now led by women.</segment>
+		<segment id="28" parent="127" relname="list">We pay tribute to the commitment and leadership of Ellen Margrethe Loj, the Head of the United Nations Mission in South Sudan; Ai'chatou Mindaoudou, the Head of the United Nations Operation in Cote d'Ivoire; and Kim Bolduc, the Head of the United Nations Mission for the Referendum in Western Sahara.</segment>
+		<segment id="29" parent="124" relname="span">Another woman,</segment>
+		<segment id="30" parent="29" relname="e-elaboration">Hester Paneras,</segment>
+		<segment id="31" parent="126" relname="span">until recently steered the world's largest international police component</segment>
+		<segment id="32" parent="31" relname="e-elaboration">- that of the African Union-United Nations Hybrid Operation in Darfur.</segment>
+		<segment id="33" parent="131" relname="reason-S">Yet this positive trend cannot offset the fact that women constitute merely 4 per cent of the 88,000 troops and police personnel currently deployed in United Nations peacekeeping operations in Africa.</segment>
+		<segment id="34" parent="129" relname="span">In that regard, we recall resolution 2242</segment>
+		<segment id="35" parent="34" relname="e-elaboration">(2015),</segment>
+		<segment id="36" parent="130" relname="span">which calls upon the Secretary-General and Member States</segment>
+		<segment id="37" parent="36" relname="elaboration">to double the number of women in military and police contingents of United Nations peacekeeping operations over the next five years.</segment>
+		<segment id="38" parent="133" relname="conjunction">Female peacekeepers are uniquely well placed to build trust with local communities</segment>
+		<segment id="39" parent="133" relname="conjunction">and to address sexual and gender-based violence.</segment>
+		<segment id="40" parent="133" relname="conjunction">They also serve as role models to inspire women and girls to seek more rights and participation in our societies.</segment>
+		<segment id="41" parent="42" relname="cause">In recognizing and supporting women's role as agents of peace,</segment>
+		<segment id="42" parent="136" relname="span">the international community is also contributing to address one of the direst aspects of war that mostly affects women and girls.</segment>
+		<segment id="43" parent="137" relname="span">Sexual violence in conflict remains a serious concern for vulnerable populations</segment>
+		<segment id="44" parent="43" relname="e-elaboration">impacted by war around the world, predominantly women and girls.</segment>
+		<segment id="45" parent="139" relname="concession">Despite the strong African commitment to fighting sexual and gender-based violence,</segment>
+		<segment id="46" parent="187" relname="span">serious crimes against humanity,</segment>
+		<segment id="47" parent="46" relname="e-elaboration">involving rape and sexual slavery,</segment>
+		<segment id="48" parent="138" relname="sameunit">continue to occur in some regions of Africa.</segment>
+		<segment id="49" parent="143" relname="span">Brazil strongly condemns these abhorrent violations.</segment>
+		<segment id="50" parent="49" relname="evidence">We have long upheld the imperative to pursue accountability for serious crimes and abuses against women and girls, including but not limited to sexual and gender-based violence.</segment>
+		<segment id="51" parent="145" relname="span">A milestone in this regard was the recent International Criminal Court</segment>
+		<segment id="52" parent="51" relname="restatement">(ICC)</segment>
+		<segment id="53" parent="146" relname="sameunit">trial,</segment>
+		<segment id="54" parent="147" relname="e-elaboration">presided over by Brazilian Judge Sylvia Steiner,</segment>
+		<segment id="55" parent="149" relname="span">leading to the conviction of Jean-Pierre Bemba for war crimes and crimes against humanity in the Central African Republic.</segment>
+		<segment id="56" parent="57" relname="cause">This was the first ICC case to specifically focus on the use of sexual violence as a weapon of war,</segment>
+		<segment id="57" parent="151" relname="span">and should serve as a powerful deterrent to would-be perpetrators.</segment>
+		<segment id="58" parent="150" relname="span">As the current Chair of the Commission on the Status of Women</segment>
+		<segment id="59" parent="58" relname="restatement">(CSW),</segment>
+		<segment id="60" parent="154" relname="span">I am deeply committed to gender equality in all political and security processes.</segment>
+		<segment id="61" parent="155" relname="span">A specific concern are the human rights of women of African origin,</segment>
+		<segment id="62" parent="61" relname="e-elaboration">who are often subject to discrimination and prejudice outside Africa.</segment>
+		<segment id="63" parent="159" relname="span">In this spirit, Brazil and the United States co-organized last week a CSW side event on the racial identity of women of African descent in the diaspora, in the context of the 2015-2024 International Decade for People of African Descent.</segment>
+		<segment id="64" parent="158" relname="attribution">We believe</segment>
+		<segment id="65" parent="158" relname="span">that visibility and self-representation are powerful strategies</segment>
+		<segment id="66" parent="65" relname="purpose">for tackling racism and injustice.</segment>
+		<segment id="67" parent="162" relname="span">Our South-South cooperation with Africa,</segment>
+		<segment id="68" parent="67" relname="e-elaboration">a key priority of Brazilian foreign policy,</segment>
+		<segment id="69" parent="163" relname="sameunit">is closely aligned with the women and peace and security agenda.</segment>
+		<segment id="70" parent="164" relname="list">In Guinea-Bissau, we helped enable health institutions to assist women and girl victims of gender-based violence.</segment>
+		<segment id="71" parent="169" relname="span">In the Democratic Republic of the Congo, we have financed projects to assist victims of sexual and gender-based violence.</segment>
+		<segment id="72" parent="168" relname="span">In this respect, I cannot fail to refer to the inspiring work of Dr. Denis Mukwege,</segment>
+		<segment id="73" parent="165" relname="span">a physician who has treated thousands of survivors of rape in Bukavu,</segment>
+		<segment id="74" parent="73" relname="e-elaboration">Democratic Republic of the Congo,</segment>
+		<segment id="75" parent="76" relname="concession">and a role model not just in Africa,</segment>
+		<segment id="76" parent="167" relname="span">but worldwide.</segment>
+		<segment id="77" parent="172" relname="span">Through the Guinea-Bissau configuration of the Peacebuilding Commission, I have witnessed first-hand the essential role played by women in building sustainable peace.</segment>
+		<segment id="78" parent="170" relname="span">The Brazilian Peace Operations Joint Training Center in Rio de Janeiro regularly holds workshops and courses</segment>
+		<segment id="79" parent="78" relname="purpose">to train peacekeepers on gender issues and the protection of women,</segment>
+		<segment id="80" parent="170" relname="elaboration">where rigorous standards regarding the conduct and discipline of personnel are upheld.</segment>
+		<segment id="81" parent="180" relname="preparation">At the domestic level, let me highlight the drafting process of our national action plan on women and peace and security.</segment>
+		<segment id="82" parent="176" relname="span">We are striving to elaborate an effective plan</segment>
+		<segment id="83" parent="175" relname="span">to address the four pillars of the agenda:</segment>
+		<segment id="84" parent="83" relname="e-elaboration">prevention, protection, participation, and peacebuilding and recovery.</segment>
+		<segment id="85" parent="189" relname="span">This will include</segment>
+		<segment id="86" parent="85" relname="concession">but will not be limited to</segment>
+		<segment id="87" parent="188" relname="sameunit">measures to increase the percentage of female peacekeepers;</segment>
+		<segment id="88" parent="179" relname="conjunction">to foster the participation of women in all peace and security processes, including in our Foreign and Defence Ministries;</segment>
+		<segment id="89" parent="177" relname="span">to further improve relations between troops and civilians,</segment>
+		<segment id="90" parent="89" relname="e-elaboration">particularly women and girls,</segment>
+		<segment id="91" parent="178" relname="sameunit">in peacekeeping operations;</segment>
+		<segment id="92" parent="179" relname="conjunction">and to fortify humanitarian assistance and technical cooperation initiatives on gender issues in conflict and post-conflict situations.</segment>
+		<segment id="93" parent="182" relname="reason-S">Since the women and peace and security agenda is not solely a Government matter,</segment>
+		<segment id="94" parent="182" relname="span">we have established a broad-based working group comprising representatives not only of relevant ministries and the armed forces,</segment>
+		<segment id="95" parent="94" relname="e-elaboration">but also of academia and civil society,</segment>
+		<segment id="96" parent="183" relname="reason-S">to debate and draft our national action plan.</segment>
+		<segment id="97" parent="185" relname="span">In conclusion, let me reiterate Brazil's firm commitment to both the promotion of peace in Africa and the crosscutting campaign on gender equality and women's empowerment.</segment>
+		<segment id="98" parent="97" relname="elaboration">We will continue to advance these inseparable agendas at all levels of the United Nations.</segment>
+		<segment id="99" parent="100" relname="attribution">The President:</segment>
+		<segment id="100" parent="194" relname="span">I give the floor to the representative of India.</segment>
+		<group id="101" type="span" parent="1" relname="e-elaboration"/>
+		<group id="102" type="span" parent="104" relname="textual-organization"/>
+		<group id="103" type="multinuc" parent="104" relname="span"/>
+		<group id="104" type="span" parent="105" relname="span"/>
+		<group id="105" type="span" parent="115" relname="preparation"/>
+		<group id="106" type="span" parent="107" relname="conjunction"/>
+		<group id="107" type="multinuc" parent="114" relname="background"/>
+		<group id="108" type="span" parent="109" relname="span"/>
+		<group id="109" type="span" parent="113" relname="reason-N"/>
+		<group id="110" type="multinuc" parent="15" relname="antithesis"/>
+		<group id="111" type="span" parent="112" relname="span"/>
+		<group id="112" type="span" parent="113" relname="span"/>
+		<group id="113" type="span" parent="114" relname="span"/>
+		<group id="114" type="span" parent="115" relname="span"/>
+		<group id="115" type="span" parent="116" relname="span"/>
+		<group id="116" type="span" parent="199" relname="span"/>
+		<group id="117" type="multinuc" parent="16" relname="reason-S"/>
+		<group id="118" type="span" parent="112" relname="evaluation-S"/>
+		<group id="119" type="span" parent="122" relname="span"/>
+		<group id="120" type="multinuc" parent="119" relname="evidence"/>
+		<group id="121" type="span" parent="120" relname="joint"/>
+		<group id="122" type="span" parent="123" relname="span"/>
+		<group id="123" type="span" parent="134" relname="concession"/>
+		<group id="124" type="span" parent="125" relname="sameunit"/>
+		<group id="125" type="multinuc" parent="127" relname="list"/>
+		<group id="126" type="span" parent="125" relname="sameunit"/>
+		<group id="127" type="multinuc" parent="27" relname="elaboration"/>
+		<group id="128" type="span" parent="122" relname="e-elaboration"/>
+		<group id="129" type="span" parent="131" relname="span"/>
+		<group id="130" type="span" parent="129" relname="background"/>
+		<group id="131" type="span" parent="132" relname="span"/>
+		<group id="132" type="span" parent="134" relname="span"/>
+		<group id="133" type="multinuc" parent="132" relname="motivation"/>
+		<group id="134" type="span" parent="135" relname="span"/>
+		<group id="135" type="span" parent="116" relname="reason-S"/>
+		<group id="136" type="span" parent="142" relname="span"/>
+		<group id="137" type="span" parent="141" relname="span"/>
+		<group id="138" type="multinuc" parent="139" relname="span"/>
+		<group id="139" type="span" parent="140" relname="span"/>
+		<group id="140" type="span" parent="137" relname="background"/>
+		<group id="141" type="span" parent="136" relname="e-elaboration"/>
+		<group id="142" type="span" parent="143" relname="evaluation-N"/>
+		<group id="143" type="span" parent="144" relname="span"/>
+		<group id="144" type="span" parent="153" relname="span"/>
+		<group id="145" type="span" parent="146" relname="sameunit"/>
+		<group id="146" type="multinuc" parent="147" relname="span"/>
+		<group id="147" type="span" parent="148" relname="span"/>
+		<group id="148" type="span" parent="55" relname="cause"/>
+		<group id="149" type="span" parent="151" relname="evaluation-S"/>
+		<group id="150" type="span" parent="60" relname="background"/>
+		<group id="151" type="span" parent="152" relname="span"/>
+		<group id="152" type="span" parent="144" relname="evidence"/>
+		<group id="153" type="span" parent="161" relname="joint"/>
+		<group id="154" type="span" parent="156" relname="span"/>
+		<group id="155" type="span" parent="154" relname="elaboration"/>
+		<group id="156" type="span" parent="160" relname="span"/>
+		<group id="157" type="span" parent="63" relname="background"/>
+		<group id="158" type="span" parent="157" relname="span"/>
+		<group id="159" type="span" parent="156" relname="evidence"/>
+		<group id="160" type="span" parent="161" relname="joint"/>
+		<group id="161" type="multinuc" parent="197" relname="span"/>
+		<group id="162" type="span" parent="163" relname="sameunit"/>
+		<group id="163" type="multinuc" parent="173" relname="span"/>
+		<group id="164" type="multinuc" parent="173" relname="evidence"/>
+		<group id="165" type="span" parent="166" relname="conjunction"/>
+		<group id="166" type="multinuc" parent="72" relname="e-elaboration"/>
+		<group id="167" type="span" parent="166" relname="conjunction"/>
+		<group id="168" type="span" parent="71" relname="background"/>
+		<group id="169" type="span" parent="164" relname="list"/>
+		<group id="170" type="span" parent="171" relname="span"/>
+		<group id="171" type="span" parent="77" relname="background"/>
+		<group id="172" type="span" parent="164" relname="list"/>
+		<group id="173" type="span" parent="174" relname="span"/>
+		<group id="174" type="span" parent="201" relname="joint"/>
+		<group id="175" type="span" parent="82" relname="purpose"/>
+		<group id="176" type="span" parent="180" relname="span"/>
+		<group id="177" type="span" parent="178" relname="sameunit"/>
+		<group id="178" type="multinuc" parent="179" relname="conjunction"/>
+		<group id="179" type="multinuc" parent="190" relname="purpose"/>
+		<group id="180" type="span" parent="181" relname="span"/>
+		<group id="181" type="span" parent="192" relname="conjunction"/>
+		<group id="182" type="span" parent="183" relname="span"/>
+		<group id="183" type="span" parent="184" relname="span"/>
+		<group id="184" type="span" parent="192" relname="conjunction"/>
+		<group id="185" type="span" parent="193" relname="summary"/>
+		<group id="186" type="span" parent="120" relname="joint"/>
+		<group id="187" type="span" parent="138" relname="sameunit"/>
+		<group id="188" type="multinuc" parent="190" relname="span"/>
+		<group id="189" type="span" parent="188" relname="sameunit"/>
+		<group id="190" type="span" parent="191" relname="span"/>
+		<group id="191" type="span" parent="176" relname="elaboration"/>
+		<group id="192" type="multinuc" parent="193" relname="span"/>
+		<group id="193" type="span" parent="195" relname="span"/>
+		<group id="194" type="span" parent="195" relname="textual-organization"/>
+		<group id="195" type="span" parent="196" relname="span"/>
+		<group id="196" type="span" parent="201" relname="joint"/>
+		<group id="197" type="span" parent="198" relname="span"/>
+		<group id="198" type="span" parent="199" relname="background"/>
+		<group id="199" type="span" parent="200" relname="span"/>
+		<group id="200" type="span" />
+		<group id="201" type="multinuc" parent="197" relname="evidence"/>
+	</body>
+</rst>

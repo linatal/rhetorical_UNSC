@@ -2,47 +2,63 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import matplotlib
 
-
+matplotlib.rcParams.update({"axes.grid": True, "grid.color": "grey"})
+matplotlib.rcParams.update({'font.size': 18})
+plt.rcParams["axes.titlesize"] = 18
 def plot_topics(df_topics):
-    matplotlib.style.use('ggplot')
+
+    matplotlib.style.use('tableau-colorblind10')
+    #plt.rcParams['grid.color'] = 'grey'
+
+
     ax = df_topics.plot(kind="bar")
+    ax.set_axisbelow(True)
     plt.xticks(rotation=30, horizontalalignment="center")
+
     ax.set_ylim(ymin=0, ymax=0.4)
 
-    plt.rc('axes', titlesize=14)
-    plt.rc('xtick', labelsize=14)
-    plt.rc('ytick', labelsize=14)
+    #plt.rc('axes', titlesize=14)
+
+    #plt.rc('xtick', labelsize=14)
+
+    #plt.rc('ytick', labelsize=14)
+
 
     # function to add value labels
     for p in ax.patches:
         ax.annotate(str(round(p.get_height(),2)), (p.get_x() * 1.005, p.get_height() * 1.005))
-    plt.title("Tree Structure of Paragraphs per UNSC Topic")
+    #ax.set_facecolor("white")
+    plt.title("Tree Structure of Paragraphs per Topic")
     #plt.xlabel("Distribution Nucluearity Mass (NM)")
     plt.ylabel("Value per Paragraph")
-    plt.show()
+    #plt.show()
+    #plt.savefig("../data/output/img/TS_topic.pdf", format='pdf', bbox_inches='tight')
 
 def plot_topics_confl(df_topics_confl):
-    matplotlib.style.use('ggplot')
+    plt.rcParams["figure.figsize"] = (15, 5)
+    matplotlib.style.use('tableau-colorblind10')
     ax = df_topics_confl.plot(kind="bar")
 
 
-
+    #plt.rcParams['grid.color'] = 'grey'
     plt.xticks(rotation=30, horizontalalignment="center")
     ax.set_ylim(ymin=0, ymax=0.4)
+    ax.set_axisbelow(True)
     #plt.rcParams.update({'font.size': 10})
 
-    plt.rc('axes', titlesize=14)
-    plt.rc('xtick', labelsize=20)
-    plt.rc('ytick', labelsize=20)
+    #plt.rc('axes', titlesize=14)
+    #plt.rc('xtick', labelsize=20)
+    #plt.rc('ytick', labelsize=20)
 
     # function to add value labels
     for p in ax.patches:
         ax.annotate(str(round(p.get_height(),2)), (p.get_x() * 1.005, p.get_height() * 1.005))
 
-    plt.title("Tree Structure of Conflict- and Non-Conflict Paragraphs per UNSC Topic")
+    plt.title("Tree Structure of Conflict/Non-Conflict Paragraphs per Topic")
     plt.xlabel("Distribution Nucluearity Mass (NM)")
     #plt.ylabel("Value per Paragraph")
-    plt.show()
+    #plt.show()
+    plt.savefig("../data/output/img/TS_topic_confl.pdf", format='pdf', bbox_inches='tight')
 
 def plot_countries(df_countries):
     matplotlib.style.use('ggplot')

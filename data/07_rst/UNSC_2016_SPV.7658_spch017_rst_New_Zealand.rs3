@@ -1,0 +1,198 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="conjunction" type="multinuc"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="e-elaboration" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation-N" type="rst"/>
+			<rel name="evaluation-S" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="interpretation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="list" type="multinuc"/>
+			<rel name="means" type="rst"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="otherwise" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="reason-N" type="rst"/>
+			<rel name="reason-S" type="rst"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sameunit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+			<rel name="summary" type="rst"/>
+			<rel name="textual-organization" type="multinuc"/>
+			<rel name="textual-organization" type="rst"/>
+			<rel name="topic-comment" type="rst"/>
+			<rel name="unless" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="80" relname="list">I should like to take this opportunity to thank Angola for organizing this important debate, and Minister Delgado for presiding over it.</segment>
+		<segment id="2" parent="80" relname="list">We also thank the briefers for their insights.</segment>
+		<segment id="3" parent="82" relname="span">We have made significant progress in the 15 years</segment>
+		<segment id="4" parent="79" relname="span">since the Security Council adopted its landmark resolution 1325</segment>
+		<segment id="5" parent="4" relname="e-elaboration">(2000)</segment>
+		<segment id="6" parent="81" relname="sameunit">on women and peace and security.</segment>
+		<segment id="7" parent="149" relname="list">The fundamental importance of addressing the impact of conflict on women and girls is now widely acknowledged.</segment>
+		<segment id="8" parent="149" relname="list">We have agreed frameworks in place.</segment>
+		<segment id="9" parent="85" relname="span">However, practical implementation lags behind, particularly with women's participation in conflict prevention and resolution processes.</segment>
+		<segment id="10" parent="84" relname="span">Meaningful participation is the exception rather than the rule.</segment>
+		<segment id="11" parent="83" relname="span">That was evident at last week's open debate on conflict prevention in the Great Lakes region</segment>
+		<segment id="12" parent="11" relname="evidence">(see S/PV.7653).</segment>
+		<segment id="13" parent="14" relname="attribution">Empirical evidence confirms</segment>
+		<segment id="14" parent="88" relname="span">that the meaningful participation of women during all stages of conflict resolution contributes strongly to preventing escalation and sustaining peace.</segment>
+		<segment id="15" parent="90" relname="contrast">Including women works.</segment>
+		<segment id="16" parent="89" relname="span">Failure to include women in peace processes perpetuates inequality.</segment>
+		<segment id="17" parent="16" relname="interpretation">It makes breaking the cycle of conflict more difficult.</segment>
+		<segment id="18" parent="91" relname="attribution">We know this,</segment>
+		<segment id="19" parent="93" relname="span">and yet we continue to hear arguments</segment>
+		<segment id="20" parent="19" relname="e-elaboration">that women's participation is peripheral rather than essential.</segment>
+		<segment id="21" parent="95" relname="list">We hear cultural justifications for the exclusion of women from the negotiating table or mediation roles,</segment>
+		<segment id="22" parent="94" relname="span">and we are asked to delay women's involvement until the reconciliation phase,</segment>
+		<segment id="23" parent="22" relname="e-elaboration">often after an agreement has been reached.</segment>
+		<segment id="24" parent="98" relname="span">These outdated attitudes and approaches must be challenged.</segment>
+		<segment id="25" parent="99" relname="span">Highlighting examples</segment>
+		<segment id="26" parent="25" relname="e-elaboration">of how women have made a difference in preventing and resolving conflict in Africa</segment>
+		<segment id="27" parent="100" relname="sameunit">demonstrates the practical benefits of women's participation.</segment>
+		<segment id="28" parent="104" relname="span">Take, for example, the role that women's groups continue to play in de-escalating and preventing election-related violence.</segment>
+		<segment id="29" parent="103" relname="conjunction">The establishment of women's situation rooms</segment>
+		<segment id="30" parent="102" relname="sameunit">and the deployment of trained female election monitors in Senegal, Kenya, Nigeria and,</segment>
+		<segment id="31" parent="32" relname="elaboration">most recently,</segment>
+		<segment id="32" parent="101" relname="span">in the Central African Republic have had a measurable impact on preventing, monitoring and mitigating incidents of violence and intimidation.</segment>
+		<segment id="33" parent="110" relname="span">Women's groups also play a key role in de-escalating crises and advocating for an end to conflict.</segment>
+		<segment id="34" parent="107" relname="span">The critical role</segment>
+		<segment id="35" parent="34" relname="e-elaboration">played by the movement Women of Liberia Mass Action for Peace</segment>
+		<segment id="36" parent="107" relname="e-elaboration">in ending the conflict in that country</segment>
+		<segment id="37" parent="109" relname="sameunit">is well documented.</segment>
+		<segment id="38" parent="113" relname="span">Women have also mobilized to support peace in Burundi</segment>
+		<segment id="39" parent="38" relname="elaboration">by bringing parties together to engage in dialogue.</segment>
+		<segment id="40" parent="111" relname="span">A nationwide network of women mediators,</segment>
+		<segment id="41" parent="40" relname="e-elaboration">established by the United Nations in close partnership with the Ministry of the Interior and civil society organizations,</segment>
+		<segment id="42" parent="112" relname="conjunction">has effectively prevented violence at the local level,</segment>
+		<segment id="43" parent="112" relname="conjunction">dispelled false rumours</segment>
+		<segment id="44" parent="112" relname="conjunction">and mitigated the impact of the ongoing political crisis on everyday people.</segment>
+		<segment id="45" parent="46" relname="circumstance">As the mediation process in Burundi moves forward,</segment>
+		<segment id="46" parent="116" relname="span">those gains must not be side-lined or suppressed.</segment>
+		<segment id="47" parent="120" relname="span">The efforts of those women,</segment>
+		<segment id="48" parent="47" relname="e-elaboration">undertaken with minimal resources and at personal risk,</segment>
+		<segment id="49" parent="121" relname="sameunit">deserve more than our applause;</segment>
+		<segment id="50" parent="122" relname="span">they deserve support and empowerment,</segment>
+		<segment id="51" parent="122" relname="reason-S">because what they do works.</segment>
+		<segment id="52" parent="152" relname="span">We have taken particular note ofthe steps</segment>
+		<segment id="53" parent="52" relname="attribution">called for by Ms. Paleki Ayang</segment>
+		<segment id="54" parent="152" relname="e-elaboration">to end sexual violence in South Sudan as a necessary ingredient to rebuilding peace in her country.</segment>
+		<segment id="55" parent="127" relname="span">We must facilitate the active contribution of women in peace operations in Africa.</segment>
+		<segment id="56" parent="153" relname="span">We must ensure that United Nations operations are appropriately prepared and equipped</segment>
+		<segment id="57" parent="56" relname="purpose">to address the needs of women and girls in conflict and post-conflict settings.</segment>
+		<segment id="58" parent="59" relname="concession">New Zealand lies far from the African continent,</segment>
+		<segment id="59" parent="128" relname="span">however we strive to make a modest, practical contribution to those efforts.</segment>
+		<segment id="60" parent="129" relname="span">New Zealand has long reflected women and peace and security considerations in its doctrine, policy and training</segment>
+		<segment id="61" parent="60" relname="elaboration">for uniformed personnel serving internationally.</segment>
+		<segment id="62" parent="131" relname="span">Last November, an all-female New Zealand Defence Force team provided training on the the theme "Operationalization of gender" at the Kofi Annan International Peacekeeping Training Centre in Ghana.</segment>
+		<segment id="63" parent="130" relname="span">The training incorporated conflict-prevention techniques through the inclusion of women,</segment>
+		<segment id="64" parent="135" relname="conjunction">increasing the employment of women in conflict prevention and resolution processes,</segment>
+		<segment id="65" parent="135" relname="conjunction">and women's experiences of leadership in conflict.</segment>
+		<segment id="66" parent="139" relname="span">Our experience in gender-sensitive approaches to community policing in post-conflict settings has proved the value of women's participation.</segment>
+		<segment id="67" parent="138" relname="span">Female police officers interact better with the local female population.</segment>
+		<segment id="68" parent="136" relname="means">The presence of female personnel empowers local women,</segment>
+		<segment id="69" parent="70" relname="concession">thereby ensuring that they are not seen only as victims</segment>
+		<segment id="70" parent="136" relname="span">but as actors and providers of safety and security.</segment>
+		<segment id="71" parent="144" relname="span">Regional leadership has played an important role in African efforts to support the role of women in conflict prevention and resolution.</segment>
+		<segment id="72" parent="143" relname="span">We commend the African Union's Gender, Peace and Security Programme.</segment>
+		<segment id="73" parent="72" relname="reason-S">It has framed the integration and strengthening of the African peace and security architecture's responsiveness to gender issues.</segment>
+		<segment id="74" parent="140" relname="span">Finally, we urge the Security Council to incorporate the perspectives of women in its work as a matter of course.</segment>
+		<segment id="75" parent="74" relname="elaboration">We should encourage greater participation by women in all mediation efforts and conflict-prevention processes.</segment>
+		<segment id="76" parent="141" relname="preparation">It is simple:</segment>
+		<segment id="77" parent="78" relname="condition">when women are included as active participants,</segment>
+		<segment id="78" parent="141" relname="span">there is a far greater chance of ending conflict and sustaining peace.</segment>
+		<group id="79" type="span" parent="81" relname="sameunit"/>
+		<group id="80" type="multinuc" parent="87" relname="preparation"/>
+		<group id="81" type="multinuc" parent="3" relname="e-elaboration"/>
+		<group id="82" type="span" parent="150" relname="span"/>
+		<group id="83" type="span" parent="10" relname="reason-S"/>
+		<group id="84" type="span" parent="9" relname="elaboration"/>
+		<group id="85" type="span" parent="86" relname="span"/>
+		<group id="86" type="span" parent="87" relname="span"/>
+		<group id="87" type="span" parent="151" relname="span"/>
+		<group id="88" type="span" parent="96" relname="evidence"/>
+		<group id="89" type="span" parent="90" relname="contrast"/>
+		<group id="90" type="multinuc" parent="91" relname="span"/>
+		<group id="91" type="span" parent="92" relname="span"/>
+		<group id="92" type="span" parent="96" relname="span"/>
+		<group id="93" type="span" parent="95" relname="list"/>
+		<group id="94" type="span" parent="95" relname="list"/>
+		<group id="95" type="multinuc" parent="92" relname="antithesis"/>
+		<group id="96" type="span" parent="97" relname="span"/>
+		<group id="97" type="span" parent="24" relname="motivation"/>
+		<group id="98" type="span" parent="86" relname="background"/>
+		<group id="99" type="span" parent="100" relname="sameunit"/>
+		<group id="100" type="multinuc" parent="105" relname="span"/>
+		<group id="101" type="span" parent="102" relname="sameunit"/>
+		<group id="102" type="multinuc" parent="103" relname="conjunction"/>
+		<group id="103" type="multinuc" parent="28" relname="elaboration"/>
+		<group id="104" type="span" parent="105" relname="evidence"/>
+		<group id="105" type="span" parent="106" relname="span"/>
+		<group id="106" type="span" parent="119" relname="span"/>
+		<group id="107" type="span" parent="108" relname="span"/>
+		<group id="108" type="span" parent="109" relname="sameunit"/>
+		<group id="109" type="multinuc" parent="33" relname="evidence"/>
+		<group id="110" type="span" parent="118" relname="list"/>
+		<group id="111" type="span" parent="114" relname="sameunit"/>
+		<group id="112" type="multinuc" parent="114" relname="sameunit"/>
+		<group id="113" type="span" parent="115" relname="span"/>
+		<group id="114" type="multinuc" parent="113" relname="elaboration"/>
+		<group id="115" type="span" parent="117" relname="span"/>
+		<group id="116" type="span" parent="115" relname="background"/>
+		<group id="117" type="span" parent="118" relname="list"/>
+		<group id="118" type="multinuc" parent="106" relname="elaboration"/>
+		<group id="119" type="span" parent="125" relname="motivation"/>
+		<group id="120" type="span" parent="121" relname="sameunit"/>
+		<group id="121" type="multinuc" parent="50" relname="antithesis"/>
+		<group id="122" type="span" parent="123" relname="span"/>
+		<group id="123" type="span" parent="125" relname="span"/>
+		<group id="124" type="span" parent="123" relname="elaboration"/>
+		<group id="125" type="span" parent="126" relname="span"/>
+		<group id="126" type="span" parent="148" relname="motivation"/>
+		<group id="127" type="span" parent="134" relname="span"/>
+		<group id="128" type="span" parent="133" relname="span"/>
+		<group id="129" type="span" parent="132" relname="span"/>
+		<group id="130" type="span" parent="62" relname="elaboration"/>
+		<group id="131" type="span" parent="129" relname="evidence"/>
+		<group id="132" type="span" parent="128" relname="background"/>
+		<group id="133" type="span" parent="127" relname="interpretation"/>
+		<group id="134" type="span" parent="148" relname="span"/>
+		<group id="135" type="multinuc" parent="63" relname="result"/>
+		<group id="136" type="span" parent="137" relname="span"/>
+		<group id="137" type="span" parent="67" relname="reason-S"/>
+		<group id="138" type="span" parent="66" relname="reason-S"/>
+		<group id="139" type="span" parent="145" relname="list"/>
+		<group id="140" type="span" parent="142" relname="reason-N"/>
+		<group id="141" type="span" parent="142" relname="span"/>
+		<group id="142" type="span" parent="146" relname="span"/>
+		<group id="143" type="span" parent="71" relname="background"/>
+		<group id="144" type="span" parent="145" relname="list"/>
+		<group id="145" type="multinuc" parent="146" relname="background"/>
+		<group id="146" type="span" parent="147" relname="span"/>
+		<group id="147" type="span" parent="134" relname="background"/>
+		<group id="148" type="span" parent="154" relname="span"/>
+		<group id="149" type="multinuc" parent="82" relname="reason-S"/>
+		<group id="150" type="span" parent="85" relname="concession"/>
+		<group id="151" type="span" parent="154" relname="cause"/>
+		<group id="152" type="span" parent="124" relname="span"/>
+		<group id="153" type="span" parent="55" relname="elaboration"/>
+		<group id="154" type="span" parent="155" relname="span"/>
+		<group id="155" type="span" />
+	</body>
+</rst>

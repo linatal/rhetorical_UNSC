@@ -1,0 +1,117 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="conjunction" type="multinuc"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="e-elaboration" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation-N" type="rst"/>
+			<rel name="evaluation-S" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="interpretation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="list" type="multinuc"/>
+			<rel name="means" type="rst"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="otherwise" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="reason-N" type="rst"/>
+			<rel name="reason-S" type="rst"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sameunit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+			<rel name="summary" type="rst"/>
+			<rel name="textual-organization" type="multinuc"/>
+			<rel name="textual-organization" type="rst"/>
+			<rel name="topic-comment" type="rst"/>
+			<rel name="unless" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="38" relname="span">I first want to say to our colleagues</segment>
+		<segment id="2" parent="1" relname="e-elaboration">whose citizens were involved</segment>
+		<segment id="3" parent="39" relname="span">that we convey our deepest condolences to their families, citizens and Governments.</segment>
+		<segment id="4" parent="44" relname="span">Yesterday at noon, the world watched in horror the downing of the Malaysian jetliner.</segment>
+		<segment id="5" parent="43" relname="span">What happened yesterday seemed to be an apocalyptic end to the world.</segment>
+		<segment id="6" parent="7" relname="attribution">I think</segment>
+		<segment id="7" parent="78" relname="span">Ambassador Power described it similarly.</segment>
+		<segment id="8" parent="41" relname="attribution">The spectacle is graphically described, respectively, in chapters 8 and 9 of the Book of Revelation:</segment>
+		<segment id="9" parent="40" relname="conjunction">"hail and fire mingled with blood, and they were cast upon the Earth",</segment>
+		<segment id="10" parent="40" relname="conjunction">"the sun and the air were darkened".</segment>
+		<segment id="11" parent="42" relname="elaboration">That was what I saw yesterday.</segment>
+		<segment id="12" parent="45" relname="span">No matter our religious beliefs, that scenario may become a self-fulfilling prophesy</segment>
+		<segment id="13" parent="12" relname="condition">if States continue to choose to open or support theatres of war and conflict in every corner of the world.</segment>
+		<segment id="14" parent="45" relname="result">What will happen is that the world will self-annihilate.</segment>
+		<segment id="15" parent="68" relname="span">Enough is enough.</segment>
+		<segment id="16" parent="47" relname="span">The fact that this incident occurred as the plane flew over eastern Ukraine,</segment>
+		<segment id="17" parent="16" relname="e-elaboration">which, for some time now, has been a zone of conflict,</segment>
+		<segment id="18" parent="48" relname="span">indicates that the accident may be connected,</segment>
+		<segment id="19" parent="18" relname="elaboration">in one way or another,</segment>
+		<segment id="20" parent="49" relname="sameunit">to the conflict.</segment>
+		<segment id="21" parent="64" relname="span">But this is not the time to play the blame game.</segment>
+		<segment id="22" parent="50" relname="condition">If it is established that the plane was shot down deliberately,</segment>
+		<segment id="23" parent="50" relname="span">it will mark a new dimension in the Ukraine crisis,</segment>
+		<segment id="24" parent="23" relname="e-elaboration">one that represents a grave threat to the safety of international civil aviation.</segment>
+		<segment id="25" parent="65" relname="span">At this point, it is of critical importance for the facts surrounding the crash to be dispassionately well-ascertained.</segment>
+		<segment id="26" parent="52" relname="span">In that regard, we would like to express our full support for an independent international investigation,</segment>
+		<segment id="27" parent="26" relname="e-elaboration">as called for by the Secretary-General.</segment>
+		<segment id="28" parent="81" relname="circumstance">Noting that the plane went down in an area under the control of armed rebel groups,</segment>
+		<segment id="29" parent="30" relname="attribution">we urge</segment>
+		<segment id="30" parent="81" relname="span">that those groups cooperate fully and unconditionally with the investigation into the crash.</segment>
+		<segment id="31" parent="56" relname="span">We have no doubt that, without the ongoing conflict in Ukraine and the widespread insecurity and lawlessness</segment>
+		<segment id="32" parent="31" relname="e-elaboration">engendered by the activities of the rebel groups in the eastern part of the country,</segment>
+		<segment id="33" parent="57" relname="span">this tragic accident would not have occurred.</segment>
+		<segment id="34" parent="55" relname="span">We want to renew our call for a cessation of hostilities in Ukraine and a return to dialogue and negotiation, within the framework of the Geneva statement of 17 April and the 2 July four-party talks in Berlin.</segment>
+		<segment id="35" parent="54" relname="list">Let us together resolve this issue.</segment>
+		<segment id="36" parent="53" relname="span">Let us together close this war front,</segment>
+		<segment id="37" parent="36" relname="circumstance">before its reverberations become manifest in other parts of the world.</segment>
+		<group id="38" type="span" parent="3" relname="attribution"/>
+		<group id="39" type="span" parent="62" relname="preparation"/>
+		<group id="40" type="multinuc" parent="41" relname="span"/>
+		<group id="41" type="span" parent="42" relname="span"/>
+		<group id="42" type="span" parent="61" relname="span"/>
+		<group id="43" type="span" parent="4" relname="evaluation-S"/>
+		<group id="44" type="span" parent="62" relname="span"/>
+		<group id="45" type="span" parent="46" relname="span"/>
+		<group id="46" type="span" parent="15" relname="reason-S"/>
+		<group id="47" type="span" parent="49" relname="sameunit"/>
+		<group id="48" type="span" parent="49" relname="sameunit"/>
+		<group id="49" type="multinuc" parent="21" relname="concession"/>
+		<group id="50" type="span" parent="51" relname="span"/>
+		<group id="51" type="span" parent="65" relname="reason-S"/>
+		<group id="52" type="span" parent="25" relname="elaboration"/>
+		<group id="53" type="span" parent="54" relname="list"/>
+		<group id="54" type="multinuc" parent="34" relname="elaboration"/>
+		<group id="55" type="span" parent="67" relname="span"/>
+		<group id="56" type="span" parent="33" relname="condition"/>
+		<group id="57" type="span" parent="55" relname="cause"/>
+		<group id="61" type="span" parent="44" relname="elaboration"/>
+		<group id="62" type="span" parent="69" relname="span"/>
+		<group id="64" type="span" parent="66" relname="antithesis"/>
+		<group id="65" type="span" parent="66" relname="span"/>
+		<group id="66" type="span" parent="71" relname="span"/>
+		<group id="67" type="span" parent="73" relname="joint"/>
+		<group id="68" type="span" parent="69" relname="evaluation-S"/>
+		<group id="69" type="span" parent="70" relname="span"/>
+		<group id="70" type="span" parent="74" relname="background"/>
+		<group id="71" type="span" parent="72" relname="span"/>
+		<group id="72" type="span" parent="73" relname="joint"/>
+		<group id="73" type="multinuc" parent="74" relname="span"/>
+		<group id="74" type="span" parent="75" relname="span"/>
+		<group id="75" type="span" />
+		<group id="78" type="span" parent="5" relname="elaboration"/>
+		<group id="80" type="span" parent="71" relname="elaboration"/>
+		<group id="81" type="span" parent="80" relname="span"/>
+	</body>
+</rst>

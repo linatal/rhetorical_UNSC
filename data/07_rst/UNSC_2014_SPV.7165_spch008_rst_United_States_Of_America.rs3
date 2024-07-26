@@ -1,0 +1,265 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="conjunction" type="multinuc"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="e-elaboration" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation-N" type="rst"/>
+			<rel name="evaluation-S" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="interpretation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="list" type="multinuc"/>
+			<rel name="means" type="rst"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="otherwise" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="reason-N" type="rst"/>
+			<rel name="reason-S" type="rst"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sameunit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+			<rel name="summary" type="rst"/>
+			<rel name="textual-organization" type="multinuc"/>
+			<rel name="textual-organization" type="rst"/>
+			<rel name="topic-comment" type="rst"/>
+			<rel name="unless" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="130" relname="preparation">I thank Under-Secretary-General Feltman for his briefing.</segment>
+		<segment id="2" parent="110" relname="span">On 17 April, Ukraine, the Russian Federation, the European Union and the United States issued the Geneva joint statement</segment>
+		<segment id="3" parent="111" relname="span">to de-escalate the crisis</segment>
+		<segment id="4" parent="3" relname="e-elaboration">that brings us together this evening.</segment>
+		<segment id="5" parent="110" relname="e-elaboration">That statement outlined a series of concrete steps to end the violence, halt provocative actions and protect the rights and security of all Ukrainian citizens.</segment>
+		<segment id="6" parent="230" relname="attribution">As Secretary Kerry said on 17 April,</segment>
+		<segment id="7" parent="113" relname="span">"All of this,</segment>
+		<segment id="8" parent="7" relname="attribution">we are convinced,</segment>
+		<segment id="9" parent="114" relname="sameunit">represents a good day's work.</segment>
+		<segment id="10" parent="117" relname="conjunction">The day's work has produced principles</segment>
+		<segment id="11" parent="117" relname="conjunction">and it has produced commitments</segment>
+		<segment id="12" parent="117" relname="conjunction">and it has produced words on paper.</segment>
+		<segment id="13" parent="122" relname="attribution">And we are the first to understand and to agree</segment>
+		<segment id="14" parent="120" relname="span">that words on paper will only mean what the actions</segment>
+		<segment id="15" parent="14" relname="e-elaboration">that are taken as a result of those words</segment>
+		<segment id="16" parent="121" relname="sameunit">produce.</segment>
+		<segment id="17" parent="124" relname="span">Secretary Kerry also commended Foreign Minister Lavrov and the Ukrainian Foreign Minister for their cooperation</segment>
+		<segment id="18" parent="17" relname="result">in achieving that hard-negotiated agreement.</segment>
+		<segment id="19" parent="124" relname="evaluation-N">It was a moment of hope.</segment>
+		<segment id="20" parent="128" relname="contrast">Since then, the Government of Ukraine has been implementing its commitments in good faith.</segment>
+		<segment id="21" parent="128" relname="contrast">Regrettably, the same cannot be said of the Russian Federation.</segment>
+		<segment id="22" parent="205" relname="circumstance">As we meet,</segment>
+		<segment id="23" parent="201" relname="span">observers from the special monitoring mission of the Organization for Security and Cooperation in Europe</segment>
+		<segment id="24" parent="23" relname="restatement">(OSCE)</segment>
+		<segment id="25" parent="202" relname="sameunit">are reporting</segment>
+		<segment id="26" parent="231" relname="span">that most of Ukraine,</segment>
+		<segment id="27" parent="26" relname="e-elaboration">including eastern Ukraine,</segment>
+		<segment id="28" parent="203" relname="sameunit">is peaceful.</segment>
+		<segment id="29" parent="207" relname="span">The exceptions are in such areas as Donetsk, Luhansk and Sloviansk,</segment>
+		<segment id="30" parent="29" relname="e-elaboration">where pro-Russian separatists continue to occupy buildings and attack local officials.</segment>
+		<segment id="31" parent="220" relname="span">There we have seen a sharp deterioration in law and order.</segment>
+		<segment id="32" parent="209" relname="span">Just today, pro-Russian separatists</segment>
+		<segment id="33" parent="32" relname="e-elaboration">armed with baseball bats,</segment>
+		<segment id="34" parent="210" relname="sameunit">stormed the Government buildings in Luhansk,</segment>
+		<segment id="35" parent="211" relname="result">seizing control of the centre of municipal activity in one of the largest cities in eastern Ukraine.</segment>
+		<segment id="36" parent="212" relname="interpretation">That kind of thuggery mimics the seizures of police stations, city halls and other Government buildings in cities and towns in Donetsk oblast and surrounding areas.</segment>
+		<segment id="37" parent="214" relname="conjunction">In addition to occupying Government buildings,</segment>
+		<segment id="38" parent="214" relname="conjunction">over the past two weeks, gunmen kidnapped a senior police officer in Luhansk.</segment>
+		<segment id="39" parent="215" relname="span">In Donetsk, pro-Russian thugs</segment>
+		<segment id="40" parent="39" relname="e-elaboration">armed with baseball bats</segment>
+		<segment id="41" parent="216" relname="sameunit">attacked peaceful participants at a pro-unity rally,</segment>
+		<segment id="42" parent="217" relname="result">seriously injuring at least 15.</segment>
+		<segment id="43" parent="219" relname="list">Also in Donetsk, pro-Russian groups continue to hold 17 buildings, including the regional television broadcasting centre.</segment>
+		<segment id="44" parent="132" relname="conjunction">In the city of Sloviansk, the mayor was kidnapped,</segment>
+		<segment id="45" parent="132" relname="conjunction">as were several journalists.</segment>
+		<segment id="46" parent="133" relname="result">The separatists in that area now hold an estimated 40 hostages.</segment>
+		<segment id="47" parent="135" relname="span">Nearby, three bodies were recently pulled from a river,</segment>
+		<segment id="48" parent="47" relname="e-elaboration">each showing unmistakable signs of physical abuse;</segment>
+		<segment id="49" parent="137" relname="conjunction">one has been identified as a local politician,</segment>
+		<segment id="50" parent="137" relname="conjunction">another as a 19 year-old pro-unity student activist.</segment>
+		<segment id="51" parent="138" relname="list">Yesterday, gunmen reportedly chased members of the Sloviansk Roma community from their homes.</segment>
+		<segment id="52" parent="53" relname="preparation">Make no mistake:</segment>
+		<segment id="53" parent="139" relname="span">those are not peaceful protests.</segment>
+		<segment id="54" parent="139" relname="restatement">It is not an eastern Ukrainian spring.</segment>
+		<segment id="55" parent="237" relname="span">It is a well-orchestrated campaign, with external support,</segment>
+		<segment id="56" parent="55" relname="purpose">to destabilize the Ukrainian State.</segment>
+		<segment id="57" parent="148" relname="sameunit">Finally,</segment>
+		<segment id="58" parent="149" relname="attribution">as all the world knows,</segment>
+		<segment id="59" parent="149" relname="span">pro-Russian separatists in Donetsk have kidnapped and continue to hold seven international inspectors,</segment>
+		<segment id="60" parent="59" relname="e-elaboration">openly declared as members of a Vienna document mission, along with their Ukrainian escorts.</segment>
+		<segment id="61" parent="150" relname="conjunction">My Government joins with responsible Governments everywhere in condemning that unlawful act</segment>
+		<segment id="62" parent="150" relname="conjunction">and in being outraged by the shameful exhibition before the media of those international public servants.</segment>
+		<segment id="63" parent="151" relname="span">The Vienna document,</segment>
+		<segment id="64" parent="63" relname="e-elaboration">agreed upon by all 57 participating States of the OSCE,</segment>
+		<segment id="65" parent="152" relname="sameunit">has been a lasting source of cooperation and military transparency.</segment>
+		<segment id="66" parent="153" relname="span">We call,</segment>
+		<segment id="67" parent="66" relname="elaboration">with others,</segment>
+		<segment id="68" parent="154" relname="sameunit">for the immediate and unconditional release of the inspectors and their Ukrainian escorts</segment>
+		<segment id="69" parent="155" relname="conjunction">and the immediate end to their mistreatment while in captivity.</segment>
+		<segment id="70" parent="156" relname="span">We also call upon Russia,</segment>
+		<segment id="71" parent="70" relname="e-elaboration">as a signatory to the Vienna document,</segment>
+		<segment id="72" parent="157" relname="conjunction">to help secure their release</segment>
+		<segment id="73" parent="233" relname="attribution">and to confirm publicly,</segment>
+		<segment id="74" parent="234" relname="elaboration">even if belatedly,</segment>
+		<segment id="75" parent="76" relname="elaboration">for the record</segment>
+		<segment id="76" parent="234" relname="span">that the abducted monitors were part of a legitimate mission on behalf of the international community.</segment>
+		<segment id="77" parent="178" relname="span">Since 17 April, the Government of Ukraine has acted in good faith and with admirable restraint to fulfil its commitments.</segment>
+		<segment id="78" parent="169" relname="list">The Kyiv city hall and its surrounding area are now clear of all Maidan barricades and protestors.</segment>
+		<segment id="79" parent="170" relname="span">Over the Easter holiday, Ukraine voluntarily suspended its counter-terrorism initiative,</segment>
+		<segment id="80" parent="79" relname="purpose">choosing to de-escalate</segment>
+		<segment id="81" parent="170" relname="concession">despite its fundamental right to provide security on its own territory and for its own people.</segment>
+		<segment id="82" parent="173" relname="conjunction">Unlike the separatists, Ukraine has cooperated fully with the OSCE special monitoring mission</segment>
+		<segment id="83" parent="172" relname="span">and allowed its observers to operate in regions</segment>
+		<segment id="84" parent="83" relname="e-elaboration">about which Moscow had voiced concerns regarding the treatment of ethnic Russians.</segment>
+		<segment id="85" parent="174" relname="span">In addition, Prime Minister Yatsenyuk has publicly committed his Government to undertake far-reaching constitutional reforms</segment>
+		<segment id="86" parent="85" relname="e-elaboration">that will strengthen the power of the regions.</segment>
+		<segment id="87" parent="176" relname="span">He has appealed personally to Russian-speaking Ukrainians,</segment>
+		<segment id="88" parent="175" relname="conjunction">pledging to support special status for the Russian language</segment>
+		<segment id="89" parent="175" relname="conjunction">and to protect those who use it.</segment>
+		<segment id="90" parent="177" relname="list">He announced legislation to grant amnesty to those who surrender arms.</segment>
+		<segment id="91" parent="181" relname="concession">All of that should be cause for optimism and hope.</segment>
+		<segment id="92" parent="179" relname="span">Tragically, what we have seen from Russia since 17 April is exactly what we saw from Russia prior to 17 April:</segment>
+		<segment id="93" parent="92" relname="evaluation-N">more attempts to stir up trouble, more efforts to undermine the Government of Ukraine and statement after statement at odds with the facts.</segment>
+		<segment id="94" parent="180" relname="contrast">What we have not seen is a single positive step by Russia to fulfil its Geneva commitments.</segment>
+		<segment id="95" parent="183" relname="span">Instead, Russian officials have refused to publicly call on the separatists to give up their weapons and relinquish their illegal control of Ukrainian Government buildings.</segment>
+		<segment id="96" parent="95" relname="elaboration">In fact, Russia continues to fund, to coordinate and to fuel the heavily armed separatist movement.</segment>
+		<segment id="97" parent="186" relname="sameunit">In addition,</segment>
+		<segment id="98" parent="99" relname="elaboration">just outside of Ukraine's border,</segment>
+		<segment id="99" parent="236" relname="span">Russia has continued to engage in threatening troop movements</segment>
+		<segment id="100" parent="101" relname="antithesis">that are designed not to calm tensions,</segment>
+		<segment id="101" parent="188" relname="span">but to embolden the separatists and to intimidate the Government.</segment>
+		<segment id="102" parent="193" relname="attribution">In conclusion, I emphasize</segment>
+		<segment id="103" parent="192" relname="conjunction">that the United States remains committed to supporting the principles of the Charter of the United Nations</segment>
+		<segment id="104" parent="192" relname="conjunction">and will continue to uphold the territorial integrity and sovereignty of Ukraine.</segment>
+		<segment id="105" parent="195" relname="list">We continue to seek stability within a peaceful, democratic, inclusive and united Ukraine, especially in advance of the upcoming important elections.</segment>
+		<segment id="106" parent="107" relname="concession">We remain committed to a diplomatic process,</segment>
+		<segment id="107" parent="196" relname="span">but Russia seems committed to destabilization and fantastical justifications for its actions.</segment>
+		<segment id="108" parent="197" relname="span">The truth about what is happening in Ukraine should guide our discussion,</segment>
+		<segment id="109" parent="108" relname="reason-S">because truth is the only foundation on which an equitable and lasting solution to this crisis can be based.</segment>
+		<group id="110" type="span" parent="112" relname="span"/>
+		<group id="111" type="span" parent="2" relname="purpose"/>
+		<group id="112" type="span" parent="127" relname="span"/>
+		<group id="113" type="span" parent="114" relname="sameunit"/>
+		<group id="114" type="multinuc" parent="115" relname="span"/>
+		<group id="115" type="span" parent="229" relname="span"/>
+		<group id="117" type="multinuc" parent="115" relname="result"/>
+		<group id="118" type="span" parent="230" relname="span"/>
+		<group id="120" type="span" parent="121" relname="sameunit"/>
+		<group id="121" type="multinuc" parent="122" relname="span"/>
+		<group id="122" type="span" parent="118" relname="span"/>
+		<group id="124" type="span" parent="125" relname="span"/>
+		<group id="125" type="span" parent="126" relname="list"/>
+		<group id="126" type="multinuc" parent="112" relname="elaboration"/>
+		<group id="127" type="span" parent="129" relname="background"/>
+		<group id="128" type="multinuc" parent="129" relname="span"/>
+		<group id="129" type="span" parent="130" relname="span"/>
+		<group id="130" type="span" parent="131" relname="span"/>
+		<group id="131" type="span" parent="223" relname="span"/>
+		<group id="132" type="multinuc" parent="133" relname="span"/>
+		<group id="133" type="span" parent="134" relname="span"/>
+		<group id="134" type="span" parent="138" relname="list"/>
+		<group id="135" type="span" parent="136" relname="span"/>
+		<group id="136" type="span" parent="138" relname="list"/>
+		<group id="137" type="multinuc" parent="135" relname="e-elaboration"/>
+		<group id="138" type="multinuc" parent="145" relname="span"/>
+		<group id="139" type="span" parent="140" relname="span"/>
+		<group id="140" type="span" parent="237" relname="antithesis"/>
+		<group id="145" type="span" parent="146" relname="span"/>
+		<group id="146" type="span" parent="167" relname="background"/>
+		<group id="148" type="multinuc" parent="166" relname="reason-S"/>
+		<group id="149" type="span" parent="184" relname="span"/>
+		<group id="150" type="multinuc" parent="165" relname="reason-S"/>
+		<group id="151" type="span" parent="152" relname="sameunit"/>
+		<group id="152" type="multinuc" parent="164" relname="background"/>
+		<group id="153" type="span" parent="154" relname="sameunit"/>
+		<group id="154" type="multinuc" parent="155" relname="conjunction"/>
+		<group id="155" type="multinuc" parent="163" relname="list"/>
+		<group id="156" type="span" parent="232" relname="sameunit"/>
+		<group id="157" type="multinuc" parent="232" relname="sameunit"/>
+		<group id="163" type="multinuc" parent="164" relname="span"/>
+		<group id="164" type="span" parent="165" relname="span"/>
+		<group id="165" type="span" parent="166" relname="span"/>
+		<group id="166" type="span" parent="167" relname="span"/>
+		<group id="167" type="span" parent="168" relname="span"/>
+		<group id="168" type="span" parent="223" relname="result"/>
+		<group id="169" type="multinuc" parent="77" relname="evidence"/>
+		<group id="170" type="span" parent="171" relname="span"/>
+		<group id="171" type="span" parent="169" relname="list"/>
+		<group id="172" type="span" parent="173" relname="conjunction"/>
+		<group id="173" type="multinuc" parent="169" relname="list"/>
+		<group id="174" type="span" parent="177" relname="list"/>
+		<group id="175" type="multinuc" parent="87" relname="purpose"/>
+		<group id="176" type="span" parent="177" relname="list"/>
+		<group id="177" type="multinuc" parent="169" relname="list"/>
+		<group id="178" type="span" parent="200" relname="concession"/>
+		<group id="179" type="span" parent="180" relname="contrast"/>
+		<group id="180" type="multinuc" parent="181" relname="span"/>
+		<group id="181" type="span" parent="182" relname="span"/>
+		<group id="182" type="span" parent="191" relname="span"/>
+		<group id="183" type="span" parent="190" relname="list"/>
+		<group id="184" type="span" parent="148" relname="sameunit"/>
+		<group id="186" type="multinuc" parent="187" relname="span"/>
+		<group id="187" type="span" parent="189" relname="span"/>
+		<group id="188" type="span" parent="187" relname="e-elaboration"/>
+		<group id="189" type="span" parent="190" relname="list"/>
+		<group id="190" type="multinuc" parent="182" relname="evidence"/>
+		<group id="191" type="span" parent="198" relname="evidence"/>
+		<group id="192" type="multinuc" parent="193" relname="span"/>
+		<group id="193" type="span" parent="194" relname="span"/>
+		<group id="194" type="span" parent="195" relname="list"/>
+		<group id="195" type="multinuc" parent="196" relname="concession"/>
+		<group id="196" type="span" parent="199" relname="span"/>
+		<group id="197" type="span" parent="199" relname="background"/>
+		<group id="198" type="span" parent="200" relname="span"/>
+		<group id="199" type="span" parent="198" relname="span"/>
+		<group id="200" type="span" parent="222" relname="span"/>
+		<group id="201" type="span" parent="202" relname="sameunit"/>
+		<group id="202" type="multinuc" parent="204" relname="attribution"/>
+		<group id="203" type="multinuc" parent="204" relname="span"/>
+		<group id="204" type="span" parent="205" relname="span"/>
+		<group id="205" type="span" parent="206" relname="span"/>
+		<group id="206" type="span" parent="208" relname="concession"/>
+		<group id="207" type="span" parent="208" relname="span"/>
+		<group id="208" type="span" parent="221" relname="span"/>
+		<group id="209" type="span" parent="210" relname="sameunit"/>
+		<group id="210" type="multinuc" parent="211" relname="span"/>
+		<group id="211" type="span" parent="212" relname="span"/>
+		<group id="212" type="span" parent="213" relname="span"/>
+		<group id="213" type="span" parent="219" relname="list"/>
+		<group id="214" type="multinuc" parent="219" relname="list"/>
+		<group id="215" type="span" parent="216" relname="sameunit"/>
+		<group id="216" type="multinuc" parent="217" relname="span"/>
+		<group id="217" type="span" parent="218" relname="span"/>
+		<group id="218" type="span" parent="219" relname="list"/>
+		<group id="219" type="multinuc" parent="31" relname="evidence"/>
+		<group id="220" type="span" parent="207" relname="evaluation-N"/>
+		<group id="221" type="span" parent="131" relname="evidence"/>
+		<group id="222" type="span" parent="224" relname="elaboration"/>
+		<group id="223" type="span" parent="224" relname="span"/>
+		<group id="224" type="span" parent="225" relname="span"/>
+		<group id="225" type="span" />
+		<group id="228" type="span" parent="126" relname="list"/>
+		<group id="229" type="span" parent="118" relname="concession"/>
+		<group id="230" type="span" parent="228" relname="span"/>
+		<group id="231" type="span" parent="203" relname="sameunit"/>
+		<group id="232" type="multinuc" parent="163" relname="list"/>
+		<group id="233" type="span" parent="235" relname="span"/>
+		<group id="234" type="span" parent="233" relname="span"/>
+		<group id="235" type="span" parent="157" relname="conjunction"/>
+		<group id="236" type="span" parent="186" relname="sameunit"/>
+		<group id="237" type="span" parent="238" relname="span"/>
+		<group id="238" type="span" parent="145" relname="interpretation"/>
+	</body>
+</rst>
