@@ -77,8 +77,11 @@ def plot_countries(df_countries):
 def plot_countries_sm(df_countries):
     df_countries = df_countries.drop(['NM1_Conflict', "NM1_Non-Conflict"], axis=0)
     df_countries = df_countries.rename({'NM2_Conflict':'Conflict', "NM2_Non-Conflict":"Non-Conflict"}, axis=0)
-    matplotlib.style.use('ggplot')
-    ax = df_countries.plot(kind="bar")
+    plt.rcParams["figure.figsize"] = (10, 7)
+    matplotlib.style.use('tableau-colorblind10')
+
+    ax = df_countries.plot(kind="bar", width = 0.8)
+    ax.set_axisbelow(True)
     plt.xticks(rotation=30, horizontalalignment="center")
     #ax.set_ylim(ymin=0, ymax=0.4)
     # function to add value labels
@@ -88,7 +91,10 @@ def plot_countries_sm(df_countries):
     plt.title("Tree Structure of Conflict- and Non-Conflict Paragraphs")
     plt.xlabel("Distribution of Nucluearity Mass 2 (NM2)")
     plt.ylabel("Value per Paragraph")
-    plt.show()
+
+    plt.legend(bbox_to_anchor=(0.5, 0.55), fontsize=18)
+    #plt.show()
+    plt.savefig("../data/output/img/TS_countries_sm.pdf", format='pdf', bbox_inches='tight')
 
 
 def compare_topic(df_paragraphs):
@@ -191,8 +197,8 @@ def compare_countries(df_paragraphs):
 def main():
     table_nm_para = pd.read_csv("../data/output/nuclearity_mass_para.csv", index_col=[0])
     table_nm_spch = pd.read_csv("../data/output/nuclearity_mass_speech.csv", index_col=[0])
-    compare_topic(table_nm_para)
-    #compare_countries(table_nm_para)
+    #compare_topic(table_nm_para)
+    compare_countries(table_nm_para)
     print()
 
 
