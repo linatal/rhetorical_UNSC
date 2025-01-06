@@ -41,40 +41,40 @@
 	<body>
 		<segment id="1" parent="46" relname="conjunction">The current situation in Ukraine is highly complex and sensitive</segment>
 		<segment id="2" parent="46" relname="conjunction">and has regional and international repercussions.</segment>
-		<segment id="3" parent="93" relname="span">The international community should together engage in pushing through a political solution to the crisis in Ukraine</segment>
+		<segment id="3" parent="47" relname="span">The international community should together engage in pushing through a political solution to the crisis in Ukraine</segment>
 		<segment id="4" parent="3" relname="purpose">so as to truly maintain peace and stability in the region.</segment>
-		<segment id="5" parent="53" relname="background">What we are seeing Ukraine today is the result of a complex intertwinement of historical and contemporary factors.</segment>
-		<segment id="6" parent="51" relname="span">The situation in Ukraine,</segment>
+		<segment id="5" parent="51" relname="background">What we are seeing Ukraine today is the result of a complex intertwinement of historical and contemporary factors.</segment>
+		<segment id="6" parent="49" relname="span">The situation in Ukraine,</segment>
 		<segment id="7" parent="6" relname="e-elaboration">which seems to be accidental,</segment>
-		<segment id="8" parent="52" relname="sameunit">has elements of the inevitable,</segment>
-		<segment id="9" parent="53" relname="span">and therefore calls for a comprehensive and balanced solution.</segment>
-		<segment id="10" parent="55" relname="span">China always respects the sovereignty and territorial integrity of all States.</segment>
+		<segment id="8" parent="50" relname="sameunit">has elements of the inevitable,</segment>
+		<segment id="9" parent="51" relname="span">and therefore calls for a comprehensive and balanced solution.</segment>
+		<segment id="10" parent="53" relname="span">China always respects the sovereignty and territorial integrity of all States.</segment>
 		<segment id="11" parent="10" relname="evidence">Those are long-standing and fundamental elements of China's foreign policy.</segment>
-		<segment id="12" parent="98" relname="span">At the same time, we note that foreign interference is also a significant factor,</segment>
-		<segment id="13" parent="57" relname="conjunction">giving rise to violent clashes on the streets of Ukraine</segment>
-		<segment id="14" parent="57" relname="conjunction">and resulting in the crisis in the country.</segment>
-		<segment id="15" parent="62" relname="span">The failure to implement the 21 February agreement has further exacerbated the turmoil in Ukraine,</segment>
+		<segment id="12" parent="55" relname="span">At the same time, we note that foreign interference is also a significant factor,</segment>
+		<segment id="13" parent="54" relname="conjunction">giving rise to violent clashes on the streets of Ukraine</segment>
+		<segment id="14" parent="54" relname="conjunction">and resulting in the crisis in the country.</segment>
+		<segment id="15" parent="59" relname="span">The failure to implement the 21 February agreement has further exacerbated the turmoil in Ukraine,</segment>
 		<segment id="16" parent="15" relname="elaboration">with serious social and economic consequences for the country.</segment>
-		<segment id="17" parent="62" relname="evaluation-S">We condemn and oppose all extreme and violent acts.</segment>
-		<segment id="18" parent="65" relname="span">The key to resolving the crisis in Ukraine is to act within the framework of law and order,</segment>
+		<segment id="17" parent="59" relname="evaluation-S">We condemn and oppose all extreme and violent acts.</segment>
+		<segment id="18" parent="69" relname="span">The key to resolving the crisis in Ukraine is to act within the framework of law and order,</segment>
 		<segment id="19" parent="18" relname="elaboration">seeking an early solution to the differences through dialogue and negotiations, with due respect for the legitimate rights and interests of all those in the various communities and regions.</segment>
-		<segment id="20" parent="66" relname="span">All parties should move forward in the overall aim</segment>
+		<segment id="20" parent="62" relname="span">All parties should move forward in the overall aim</segment>
 		<segment id="21" parent="20" relname="purpose">of maintaining regional peace and stability</segment>
-		<segment id="22" parent="67" relname="conjunction">and of protecting the fundamental interests of all the communities in Ukraine</segment>
-		<segment id="23" parent="99" relname="conjunction">in order to keep calm, exercise restraint</segment>
-		<segment id="24" parent="99" relname="conjunction">and prevent a further escalation of the tension,</segment>
-		<segment id="25" parent="70" relname="span">while resolutely seeking a political solution</segment>
+		<segment id="22" parent="63" relname="conjunction">and of protecting the fundamental interests of all the communities in Ukraine</segment>
+		<segment id="23" parent="64" relname="conjunction">in order to keep calm, exercise restraint</segment>
+		<segment id="24" parent="64" relname="conjunction">and prevent a further escalation of the tension,</segment>
+		<segment id="25" parent="67" relname="span">while resolutely seeking a political solution</segment>
 		<segment id="26" parent="25" relname="purpose">so as to find a specific way out as soon as possible.</segment>
 		<segment id="27" parent="76" relname="list">China has been calling for constructive efforts and the good offices of the international community to de-escalate the situation in Ukraine.</segment>
 		<segment id="28" parent="76" relname="list">We note the new developments and proposals in that regard.</segment>
-		<segment id="29" parent="92" relname="conjunction">Drafting a resolution at this juncture will only lead to confrontation</segment>
-		<segment id="30" parent="92" relname="conjunction">and further complicate the situation.</segment>
-		<segment id="31" parent="91" relname="elaboration">It is not in line with the common interests ofboth the people of Ukraine and the international community.</segment>
-		<segment id="32" parent="73" relname="span">On the basis of the above, we could only abstain in the voting on the draft resolution</segment>
+		<segment id="29" parent="72" relname="conjunction">Drafting a resolution at this juncture will only lead to confrontation</segment>
+		<segment id="30" parent="72" relname="conjunction">and further complicate the situation.</segment>
+		<segment id="31" parent="73" relname="elaboration">It is not in line with the common interests ofboth the people of Ukraine and the international community.</segment>
+		<segment id="32" parent="71" relname="span">On the basis of the above, we could only abstain in the voting on the draft resolution</segment>
 		<segment id="33" parent="32" relname="evidence">(S/2014/189).</segment>
 		<segment id="34" parent="81" relname="circumstance">China holds a fair and impartial position on the issue of Ukraine.</segment>
 		<segment id="35" parent="80" relname="span">We will continue to mediate and to promote dialogue</segment>
-		<segment id="36" parent="97" relname="span">so as to play a greater contructive role</segment>
+		<segment id="36" parent="79" relname="span">so as to play a greater contructive role</segment>
 		<segment id="37" parent="36" relname="e-elaboration">in seeking a political solution to the crisis in Ukraine.</segment>
 		<segment id="38" parent="80" relname="solutionhood">To that end, we would like to make three proposals.</segment>
 		<segment id="39" parent="84" relname="span">The first proposal is the establishment as soon as possible of an international coordination mechanism,</segment>
@@ -84,31 +84,40 @@
 		<segment id="43" parent="42" relname="circumstance">in the meanwhile,</segment>
 		<segment id="44" parent="87" relname="sameunit">all parties should refrain from taking any action that may further escalate the situation.</segment>
 		<segment id="45" parent="88" relname="list">Thirdly, international financial institutions should start to examine how to help to maintain the economic and financial stability of Ukraine.</segment>
-		<group id="46" type="multinuc" parent="93" relname="motivation"/>
-		<group id="51" type="span" parent="52" relname="sameunit"/>
-		<group id="52" type="multinuc" parent="9" relname="reason-S"/>
-		<group id="53" type="span" parent="54" relname="span"/>
-		<group id="54" type="span" parent="60" relname="span"/>
-		<group id="55" type="span" parent="59" relname="contrast"/>
-		<group id="57" type="multinuc" parent="12" relname="result"/>
-		<group id="59" type="multinuc" parent="54" relname="elaboration"/>
-		<group id="60" type="span" parent="94" relname="solutionhood"/>
-		<group id="62" type="span" parent="63" relname="span"/>
-		<group id="63" type="span" parent="95" relname="motivation"/>
-		<group id="65" type="span" parent="72" relname="span"/>
-		<group id="66" type="span" parent="67" relname="conjunction"/>
-		<group id="67" type="multinuc" parent="68" relname="span"/>
-		<group id="68" type="span" parent="69" relname="span"/>
-		<group id="69" type="span" parent="71" relname="span"/>
-		<group id="70" type="span" parent="69" relname="circumstance"/>
-		<group id="71" type="span" parent="65" relname="elaboration"/>
-		<group id="72" type="span" parent="77" relname="reason-S"/>
-		<group id="73" type="span" parent="75" relname="span"/>
-		<group id="74" type="span" parent="73" relname="reason-S"/>
+		<group id="46" type="multinuc" parent="47" relname="motivation"/>
+		<group id="47" type="span" parent="48" relname="span"/>
+		<group id="48" type="span" parent="58" relname="span"/>
+		<group id="49" type="span" parent="50" relname="sameunit"/>
+		<group id="50" type="multinuc" parent="9" relname="reason-S"/>
+		<group id="51" type="span" parent="52" relname="span"/>
+		<group id="52" type="span" parent="57" relname="span"/>
+		<group id="53" type="span" parent="56" relname="contrast"/>
+		<group id="54" type="multinuc" parent="12" relname="result"/>
+		<group id="55" type="span" parent="56" relname="contrast"/>
+		<group id="56" type="multinuc" parent="52" relname="elaboration"/>
+		<group id="57" type="span" parent="48" relname="solutionhood"/>
+		<group id="58" type="span" parent="61" relname="span"/>
+		<group id="59" type="span" parent="60" relname="span"/>
+		<group id="60" type="span" parent="58" relname="motivation"/>
+		<group id="61" type="span" parent="89" relname="concession"/>
+		<group id="62" type="span" parent="63" relname="conjunction"/>
+		<group id="63" type="multinuc" parent="65" relname="span"/>
+		<group id="64" type="multinuc" parent="65" relname="purpose"/>
+		<group id="65" type="span" parent="66" relname="span"/>
+		<group id="66" type="span" parent="68" relname="span"/>
+		<group id="67" type="span" parent="66" relname="circumstance"/>
+		<group id="68" type="span" parent="69" relname="elaboration"/>
+		<group id="69" type="span" parent="70" relname="span"/>
+		<group id="70" type="span" parent="77" relname="reason-S"/>
+		<group id="71" type="span" parent="75" relname="span"/>
+		<group id="72" type="multinuc" parent="73" relname="span"/>
+		<group id="73" type="span" parent="74" relname="span"/>
+		<group id="74" type="span" parent="71" relname="reason-S"/>
 		<group id="75" type="span" parent="77" relname="span"/>
 		<group id="76" type="multinuc" parent="75" relname="circumstance"/>
 		<group id="77" type="span" parent="78" relname="span"/>
 		<group id="78" type="span" parent="83" relname="span"/>
+		<group id="79" type="span" parent="35" relname="purpose"/>
 		<group id="80" type="span" parent="81" relname="span"/>
 		<group id="81" type="span" parent="82" relname="span"/>
 		<group id="82" type="span" parent="78" relname="solutionhood"/>
@@ -120,14 +129,5 @@
 		<group id="88" type="multinuc" parent="83" relname="solutionhood"/>
 		<group id="89" type="span" parent="90" relname="span"/>
 		<group id="90" type="span" />
-		<group id="91" type="span" parent="74" relname="span"/>
-		<group id="92" type="multinuc" parent="91" relname="span"/>
-		<group id="93" type="span" parent="94" relname="span"/>
-		<group id="94" type="span" parent="95" relname="span"/>
-		<group id="95" type="span" parent="96" relname="span"/>
-		<group id="96" type="span" parent="89" relname="sameunit"/>
-		<group id="97" type="span" parent="35" relname="purpose"/>
-		<group id="98" type="span" parent="59" relname="contrast"/>
-		<group id="99" type="multinuc" parent="68" relname="purpose"/>
 	</body>
 </rst>

@@ -42,76 +42,76 @@
 		<segment id="1" parent="37" relname="span">Malaysia supports resolution 2272</segment>
 		<segment id="2" parent="1" relname="e-elaboration">(2016),</segment>
 		<segment id="3" parent="37" relname="background">which the Council just adopted.</segment>
-		<segment id="4" parent="69" relname="span">It sends an unambiguous message that the Security Council, the United Nations and the international community will not tolerate sexual exploitation and abuse by peacekeepers.</segment>
-		<segment id="5" parent="67" relname="conjunction">We have repeatedly called for zero tolerance in that regard,</segment>
-		<segment id="6" parent="67" relname="conjunction">and today we have strengthened our resolve on the matter.</segment>
-		<segment id="7" parent="65" relname="span">We support many of the strong measures</segment>
-		<segment id="8" parent="66" relname="span">initiated by the Secretary-General to strengthen accountability for perpetrators of abuse,</segment>
-		<segment id="9" parent="59" relname="span">as set out in resolution 2272</segment>
+		<segment id="4" parent="68" relname="span">It sends an unambiguous message that the Security Council, the United Nations and the international community will not tolerate sexual exploitation and abuse by peacekeepers.</segment>
+		<segment id="5" parent="66" relname="conjunction">We have repeatedly called for zero tolerance in that regard,</segment>
+		<segment id="6" parent="66" relname="conjunction">and today we have strengthened our resolve on the matter.</segment>
+		<segment id="7" parent="64" relname="span">We support many of the strong measures</segment>
+		<segment id="8" parent="65" relname="span">initiated by the Secretary-General to strengthen accountability for perpetrators of abuse,</segment>
+		<segment id="9" parent="58" relname="span">as set out in resolution 2272</segment>
 		<segment id="10" parent="9" relname="e-elaboration">(2016).</segment>
-		<segment id="11" parent="63" relname="attribution">Malaysia firmly believes</segment>
-		<segment id="12" parent="60" relname="span">that peacekeepers must uphold the highest standards of professionalism and moral values,</segment>
+		<segment id="11" parent="62" relname="attribution">Malaysia firmly believes</segment>
+		<segment id="12" parent="59" relname="span">that peacekeepers must uphold the highest standards of professionalism and moral values,</segment>
 		<segment id="13" parent="12" relname="elaboration">as they are mandated to protect civilians,</segment>
-		<segment id="14" parent="61" relname="span">and to uphold international humanitarian law and human rights law</segment>
+		<segment id="14" parent="60" relname="span">and to uphold international humanitarian law and human rights law</segment>
 		<segment id="15" parent="14" relname="circumstance">while serving in areas of conflict.</segment>
 		<segment id="16" parent="39" relname="span">In our view, the provisions on the repatriation of contingents</segment>
 		<segment id="17" parent="16" relname="elaboration">that demonstrate widespread and systematic sexual exploitation and abuse or non-response to allegations of misconduct</segment>
 		<segment id="18" parent="39" relname="evaluation-S">are wholly justified.</segment>
-		<segment id="19" parent="74" relname="attribution">In that regard, we note</segment>
-		<segment id="20" parent="73" relname="span">that the route</segment>
+		<segment id="19" parent="73" relname="attribution">In that regard, we note</segment>
+		<segment id="20" parent="72" relname="span">that the route</segment>
 		<segment id="21" parent="20" relname="e-elaboration">leading towards a decision on possible repatriation</segment>
-		<segment id="22" parent="42" relname="sameunit">must come with clear and transparent criteria and guidelines,</segment>
-		<segment id="23" parent="75" relname="elaboration">developed in full consultation and engagement with the concerned troop-contributing countries throughout the process.</segment>
-		<segment id="24" parent="45" relname="joint">In the spirit of renewing and re-energizing the United Nations peacekeeping institutions, we would also stress the importance of trilateral consultations among the Council, troop-contributing countries and the Secretariat.</segment>
-		<segment id="25" parent="55" relname="solutionhood">We regret the missed opportunity to rally consensus around such an important resolution.</segment>
-		<segment id="26" parent="54" relname="attribution">We believe</segment>
-		<segment id="27" parent="52" relname="span">that the rationale</segment>
+		<segment id="22" parent="41" relname="sameunit">must come with clear and transparent criteria and guidelines,</segment>
+		<segment id="23" parent="74" relname="elaboration">developed in full consultation and engagement with the concerned troop-contributing countries throughout the process.</segment>
+		<segment id="24" parent="44" relname="joint">In the spirit of renewing and re-energizing the United Nations peacekeeping institutions, we would also stress the importance of trilateral consultations among the Council, troop-contributing countries and the Secretariat.</segment>
+		<segment id="25" parent="54" relname="solutionhood">We regret the missed opportunity to rally consensus around such an important resolution.</segment>
+		<segment id="26" parent="53" relname="attribution">We believe</segment>
+		<segment id="27" parent="51" relname="span">that the rationale</segment>
 		<segment id="28" parent="27" relname="e-elaboration">to address sensitivities surrounding this issue</segment>
-		<segment id="29" parent="53" relname="sameunit">warrant, at this time, engaging the concerned stakeholders, namely, the troop-contributing countries.</segment>
-		<segment id="30" parent="46" relname="span">As mentioned by many delegations yesterday</segment>
+		<segment id="29" parent="52" relname="sameunit">warrant, at this time, engaging the concerned stakeholders, namely, the troop-contributing countries.</segment>
+		<segment id="30" parent="45" relname="span">As mentioned by many delegations yesterday</segment>
 		<segment id="31" parent="30" relname="evidence">(see S/PV.7642),</segment>
-		<segment id="32" parent="47" relname="span">combatting sexual exploitation and abuse requires the collective efforts of all members of the United Nations and the international community.</segment>
-		<segment id="33" parent="50" relname="attribution">We hope</segment>
-		<segment id="34" parent="48" relname="span">that resolution 2272</segment>
+		<segment id="32" parent="46" relname="span">combatting sexual exploitation and abuse requires the collective efforts of all members of the United Nations and the international community.</segment>
+		<segment id="33" parent="49" relname="attribution">We hope</segment>
+		<segment id="34" parent="47" relname="span">that resolution 2272</segment>
 		<segment id="35" parent="34" relname="e-elaboration">(2016)</segment>
-		<segment id="36" parent="49" relname="sameunit">creates the intended momentum to end impunity for sexual exploitation and abuse by peacekeepers.</segment>
+		<segment id="36" parent="48" relname="sameunit">creates the intended momentum to end impunity for sexual exploitation and abuse by peacekeepers.</segment>
 		<group id="37" type="span" parent="38" relname="span"/>
-		<group id="38" type="span" parent="69" relname="preparation"/>
+		<group id="38" type="span" parent="68" relname="preparation"/>
 		<group id="39" type="span" parent="40" relname="span"/>
-		<group id="40" type="span" parent="45" relname="joint"/>
-		<group id="42" type="multinuc" parent="75" relname="span"/>
-		<group id="43" type="span" parent="44" relname="span"/>
-		<group id="44" type="span" parent="45" relname="joint"/>
-		<group id="45" type="multinuc" parent="57" relname="antithesis"/>
-		<group id="46" type="span" parent="32" relname="attribution"/>
-		<group id="47" type="span" parent="58" relname="span"/>
-		<group id="48" type="span" parent="49" relname="sameunit"/>
-		<group id="49" type="multinuc" parent="50" relname="span"/>
-		<group id="50" type="span" parent="51" relname="span"/>
-		<group id="51" type="span" parent="47" relname="elaboration"/>
-		<group id="52" type="span" parent="53" relname="sameunit"/>
-		<group id="53" type="multinuc" parent="54" relname="span"/>
+		<group id="40" type="span" parent="44" relname="joint"/>
+		<group id="41" type="multinuc" parent="74" relname="span"/>
+		<group id="42" type="span" parent="43" relname="span"/>
+		<group id="43" type="span" parent="44" relname="joint"/>
+		<group id="44" type="multinuc" parent="56" relname="antithesis"/>
+		<group id="45" type="span" parent="32" relname="attribution"/>
+		<group id="46" type="span" parent="57" relname="span"/>
+		<group id="47" type="span" parent="48" relname="sameunit"/>
+		<group id="48" type="multinuc" parent="49" relname="span"/>
+		<group id="49" type="span" parent="50" relname="span"/>
+		<group id="50" type="span" parent="46" relname="elaboration"/>
+		<group id="51" type="span" parent="52" relname="sameunit"/>
+		<group id="52" type="multinuc" parent="53" relname="span"/>
+		<group id="53" type="span" parent="54" relname="span"/>
 		<group id="54" type="span" parent="55" relname="span"/>
 		<group id="55" type="span" parent="56" relname="span"/>
-		<group id="56" type="span" parent="57" relname="span"/>
-		<group id="57" type="span" parent="70" relname="span"/>
-		<group id="58" type="span" parent="56" relname="elaboration"/>
-		<group id="59" type="span" parent="8" relname="elaboration"/>
-		<group id="60" type="span" parent="62" relname="conjunction"/>
-		<group id="61" type="span" parent="62" relname="conjunction"/>
-		<group id="62" type="multinuc" parent="63" relname="span"/>
-		<group id="63" type="span" parent="64" relname="span"/>
-		<group id="64" type="span" parent="68" relname="list"/>
-		<group id="65" type="span" parent="68" relname="list"/>
-		<group id="66" type="span" parent="7" relname="e-elaboration"/>
-		<group id="67" type="multinuc" parent="68" relname="list"/>
-		<group id="68" type="multinuc" parent="4" relname="background"/>
-		<group id="69" type="span" parent="71" relname="span"/>
-		<group id="70" type="span" parent="72" relname="joint"/>
-		<group id="71" type="span" parent="72" relname="joint"/>
-		<group id="72" type="multinuc" />
-		<group id="73" type="span" parent="42" relname="sameunit"/>
-		<group id="74" type="span" parent="43" relname="span"/>
-		<group id="75" type="span" parent="74" relname="span"/>
+		<group id="56" type="span" parent="69" relname="span"/>
+		<group id="57" type="span" parent="55" relname="elaboration"/>
+		<group id="58" type="span" parent="8" relname="elaboration"/>
+		<group id="59" type="span" parent="61" relname="conjunction"/>
+		<group id="60" type="span" parent="61" relname="conjunction"/>
+		<group id="61" type="multinuc" parent="62" relname="span"/>
+		<group id="62" type="span" parent="63" relname="span"/>
+		<group id="63" type="span" parent="67" relname="list"/>
+		<group id="64" type="span" parent="67" relname="list"/>
+		<group id="65" type="span" parent="7" relname="e-elaboration"/>
+		<group id="66" type="multinuc" parent="67" relname="list"/>
+		<group id="67" type="multinuc" parent="4" relname="background"/>
+		<group id="68" type="span" parent="70" relname="span"/>
+		<group id="69" type="span" parent="71" relname="joint"/>
+		<group id="70" type="span" parent="71" relname="joint"/>
+		<group id="71" type="multinuc" />
+		<group id="72" type="span" parent="41" relname="sameunit"/>
+		<group id="73" type="span" parent="42" relname="span"/>
+		<group id="74" type="span" parent="73" relname="span"/>
 	</body>
 </rst>

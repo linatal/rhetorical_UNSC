@@ -68,7 +68,7 @@
 		<segment id="27" parent="72" relname="conjunction">The OSCE monitors must be allowed to play a role</segment>
 		<segment id="28" parent="71" relname="span">and to fulfil their mandate</segment>
 		<segment id="29" parent="28" relname="e-elaboration">as stipulated in the joint declaration.</segment>
-		<segment id="30" parent="88" relname="preparation">In the meantime, Rwanda reiterates its call for respect for Ukraine's independence, sovereignty and territorial integrity.</segment>
+		<segment id="30" parent="84" relname="preparation">In the meantime, Rwanda reiterates its call for respect for Ukraine's independence, sovereignty and territorial integrity.</segment>
 		<segment id="31" parent="32" relname="concession">We believe in the right to peaceful demonstration,</segment>
 		<segment id="32" parent="75" relname="span">but we firmly condemn the use of violence, the seizure of public buildings and the installation of illegal checkpoints by armed protesters.</segment>
 		<segment id="33" parent="77" relname="attribution">We therefore believe</segment>
@@ -76,19 +76,19 @@
 		<segment id="35" parent="34" relname="condition">provided that right is exercised in a proportionate manner.</segment>
 		<segment id="36" parent="79" relname="concession">Nonetheless, the crisis in eastern Ukraine is not merely a matter of public order</segment>
 		<segment id="37" parent="79" relname="span">but a political issue</segment>
-		<segment id="38" parent="86" relname="span">that must be resolved through genuine dialogue with all Ukrainian parties,</segment>
+		<segment id="38" parent="82" relname="span">that must be resolved through genuine dialogue with all Ukrainian parties,</segment>
 		<segment id="39" parent="38" relname="elaboration">with a view to ensuring sustainable peace and equal rights for all, including the Russian-speaking minority.</segment>
 		<segment id="40" parent="80" relname="attribution">To conclude, we reiterate our strong belief</segment>
 		<segment id="41" parent="80" relname="span">that while public meetings of the Council are important for its members</segment>
 		<segment id="42" parent="41" relname="purpose">to continue monitoring this crisis,</segment>
-		<segment id="43" parent="93" relname="span">the only way to solve the crisis in Ukraine is through the exercise of political will and the influence of all the countries and regional organizations involved,</segment>
+		<segment id="43" parent="89" relname="span">the only way to solve the crisis in Ukraine is through the exercise of political will and the influence of all the countries and regional organizations involved,</segment>
 		<segment id="44" parent="43" relname="purpose">in order to ensure a political and diplomatic solution to the conflict.</segment>
 		<group id="45" type="span" parent="46" relname="sameunit"/>
 		<group id="46" type="multinuc" parent="47" relname="conjunction"/>
 		<group id="47" type="multinuc" parent="49" relname="concession"/>
 		<group id="48" type="span" parent="49" relname="span"/>
 		<group id="49" type="span" parent="50" relname="span"/>
-		<group id="50" type="span" parent="91" relname="preparation"/>
+		<group id="50" type="span" parent="87" relname="preparation"/>
 		<group id="51" type="span" parent="53" relname="conjunction"/>
 		<group id="52" type="span" parent="53" relname="conjunction"/>
 		<group id="53" type="multinuc" parent="55" relname="list"/>
@@ -112,22 +112,22 @@
 		<group id="71" type="span" parent="72" relname="conjunction"/>
 		<group id="72" type="multinuc" parent="70" relname="motivation"/>
 		<group id="73" type="span" parent="74" relname="list"/>
-		<group id="74" type="multinuc" parent="90" relname="span"/>
+		<group id="74" type="multinuc" parent="86" relname="span"/>
 		<group id="75" type="span" parent="76" relname="reason-S"/>
 		<group id="76" type="span" parent="78" relname="span"/>
 		<group id="77" type="span" parent="76" relname="span"/>
-		<group id="78" type="span" parent="87" relname="concession"/>
-		<group id="79" type="span" parent="87" relname="span"/>
+		<group id="78" type="span" parent="83" relname="concession"/>
+		<group id="79" type="span" parent="83" relname="span"/>
 		<group id="80" type="span" parent="81" relname="span"/>
-		<group id="81" type="span" parent="93" relname="concession"/>
-		<group id="86" type="span" parent="37" relname="condition"/>
+		<group id="81" type="span" parent="89" relname="concession"/>
+		<group id="82" type="span" parent="37" relname="condition"/>
+		<group id="83" type="span" parent="84" relname="span"/>
+		<group id="84" type="span" parent="85" relname="span"/>
+		<group id="85" type="span" parent="74" relname="list"/>
+		<group id="86" type="span" parent="87" relname="span"/>
 		<group id="87" type="span" parent="88" relname="span"/>
-		<group id="88" type="span" parent="89" relname="span"/>
-		<group id="89" type="span" parent="74" relname="list"/>
-		<group id="90" type="span" parent="91" relname="span"/>
-		<group id="91" type="span" parent="92" relname="span"/>
-		<group id="92" type="span" />
-		<group id="93" type="span" parent="94" relname="span"/>
-		<group id="94" type="span" parent="90" relname="summary"/>
+		<group id="88" type="span" />
+		<group id="89" type="span" parent="90" relname="span"/>
+		<group id="90" type="span" parent="86" relname="summary"/>
 	</body>
 </rst>

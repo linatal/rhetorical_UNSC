@@ -61,7 +61,7 @@
 		<segment id="20" parent="295" relname="span">barricades are being dismantled.</segment>
 		<segment id="21" parent="292" relname="result">The Kiyv city administration building has re-opened, as has the main thoroughfare of the city, Khreschatik.</segment>
 		<segment id="22" parent="297" relname="span">Important proposals regarding the status of the Russian language, amnesty, greater rights for the regions, as well as limitations on the President's power,</segment>
-		<segment id="23" parent="296" relname="span">have been put forward by the transitional Governmet.</segment>
+		<segment id="23" parent="22" relname="attribution">have been put forward by the transitional Governmet.</segment>
 		<segment id="24" parent="164" relname="sameunit">Indeed,</segment>
 		<segment id="25" parent="26" relname="attribution">as Ambassador Churkin referred to earlier today,</segment>
 		<segment id="26" parent="163" relname="span">constitutional reform was being discussed by the Parliament in a public session accessible to all.</segment>
@@ -334,7 +334,6 @@
 		<group id="293" type="span" parent="162" relname="contrast"/>
 		<group id="294" type="span" parent="165" relname="background"/>
 		<group id="295" type="span" parent="160" relname="summary"/>
-		<group id="296" type="span" parent="22" relname="attribution"/>
 		<group id="297" type="span" parent="294" relname="span"/>
 	</body>
 </rst>

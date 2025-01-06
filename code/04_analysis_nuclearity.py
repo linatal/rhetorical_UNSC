@@ -199,8 +199,6 @@ def main():
     table_nm_spch = pd.read_csv("../data/output/nuclearity_mass_speech.csv", index_col=[0])
     #compare_topic(table_nm_para)
     compare_countries(table_nm_para)
-    print()
-
 
 if __name__ =="__main__":
     main()

@@ -39,7 +39,7 @@
 		</relations>
 	</header>
 	<body>
-		<segment id="1" parent="131" relname="preparation">I shall now make a statement in my capacity as the representative of Luxembourg.</segment>
+		<segment id="1" parent="127" relname="preparation">I shall now make a statement in my capacity as the representative of Luxembourg.</segment>
 		<segment id="2" parent="67" relname="evaluation-S">Luxembourg deeply regrets</segment>
 		<segment id="3" parent="63" relname="span">that the draft resolution</segment>
 		<segment id="4" parent="3" relname="evidence">(S/2104/189).</segment>
@@ -123,7 +123,7 @@
 		<group id="82" type="span" parent="84" relname="background"/>
 		<group id="83" type="span" parent="84" relname="span"/>
 		<group id="84" type="span" parent="86" relname="span"/>
-		<group id="85" type="multinuc" parent="126" relname="textual-organization"/>
+		<group id="85" type="multinuc" parent="125" relname="textual-organization"/>
 		<group id="86" type="span" parent="125" relname="span"/>
 		<group id="87" type="span" parent="51" relname="concession"/>
 		<group id="88" type="span" parent="124" relname="span"/>
@@ -158,17 +158,13 @@
 		<group id="117" type="span" parent="118" relname="contrast"/>
 		<group id="118" type="multinuc" parent="119" relname="list"/>
 		<group id="119" type="multinuc" parent="122" relname="span"/>
-		<group id="120" type="span" parent="121" relname="span"/>
-		<group id="121" type="span" parent="123" relname="span"/>
+		<group id="120" type="span" parent="88" relname="evaluation-N"/>
 		<group id="122" type="span" parent="120" relname="span"/>
-		<group id="123" type="span" parent="88" relname="evaluation-N"/>
 		<group id="124" type="span" parent="86" relname="concession"/>
 		<group id="125" type="span" parent="126" relname="span"/>
 		<group id="126" type="span" parent="127" relname="span"/>
-		<group id="127" type="span" parent="131" relname="span"/>
-		<group id="128" type="multinuc" parent="129" relname="span"/>
-		<group id="129" type="span" parent="127" relname="background"/>
+		<group id="127" type="span" />
+		<group id="128" type="multinuc" parent="126" relname="background"/>
 		<group id="130" type="span" parent="74" relname="sameunit"/>
-		<group id="131" type="span" />
 	</body>
 </rst>

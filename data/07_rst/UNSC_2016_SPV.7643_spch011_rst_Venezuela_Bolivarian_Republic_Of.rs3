@@ -119,9 +119,7 @@
 		<group id="78" type="span" parent="62" relname="reason-S"/>
 		<group id="79" type="multinuc" parent="125" relname="span"/>
 		<group id="80" type="span" parent="79" relname="joint"/>
-		<group id="81" type="multinuc" parent="82" relname="span"/>
-		<group id="82" type="span" parent="83" relname="span"/>
-		<group id="83" type="span" parent="23" relname="reason-S"/>
+		<group id="81" type="multinuc" parent="23" relname="reason-S"/>
 		<group id="84" type="span" parent="88" relname="joint"/>
 		<group id="85" type="span" parent="84" relname="span"/>
 		<group id="86" type="span" parent="27" relname="e-elaboration"/>

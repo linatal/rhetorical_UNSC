@@ -39,145 +39,145 @@
 		</relations>
 	</header>
 	<body>
-		<segment id="1" parent="82" relname="preparation">I join others in thanking Assistant Secretary-General for Political Affairs Jeffrey Feltman for his briefing on the developments concerning Ukraine.</segment>
-		<segment id="2" parent="146" relname="span">We share his assessment</segment>
+		<segment id="1" parent="80" relname="preparation">I join others in thanking Assistant Secretary-General for Political Affairs Jeffrey Feltman for his briefing on the developments concerning Ukraine.</segment>
+		<segment id="2" parent="136" relname="span">We share his assessment</segment>
 		<segment id="3" parent="2" relname="e-elaboration">that the situation in eastern Ukraine is deteriorating alarmingly, especially in Kharkiv, Luhansk and in the Donetsk area.</segment>
-		<segment id="4" parent="71" relname="span">We are deeply concerned by the actions of the pro-Russian separatist militias</segment>
+		<segment id="4" parent="70" relname="span">We are deeply concerned by the actions of the pro-Russian separatist militias</segment>
 		<segment id="5" parent="4" relname="e-elaboration">backed by Russia,</segment>
-		<segment id="6" parent="73" relname="conjunction">aimed at destabilizing eastern Ukraine</segment>
-		<segment id="7" parent="145" relname="sameunit">and,</segment>
+		<segment id="6" parent="71" relname="conjunction">aimed at destabilizing eastern Ukraine</segment>
+		<segment id="7" parent="135" relname="sameunit">and,</segment>
 		<segment id="8" parent="9" relname="evaluation-S">it seems,</segment>
-		<segment id="9" parent="144" relname="span">preventing the holding of the presidential elections on 25 May.</segment>
-		<segment id="10" parent="80" relname="span">These destabilizing actions have intensified again in recent days, with the proliferation of the illegal occupation of public buildings, an increasing number of attacks against the Ukrainian security forces and an increase in violence against the local population.</segment>
+		<segment id="9" parent="134" relname="span">preventing the holding of the presidential elections on 25 May.</segment>
+		<segment id="10" parent="78" relname="span">These destabilizing actions have intensified again in recent days, with the proliferation of the illegal occupation of public buildings, an increasing number of attacks against the Ukrainian security forces and an increase in violence against the local population.</segment>
 		<segment id="11" parent="12" relname="attribution">As others have already mentioned,</segment>
-		<segment id="12" parent="76" relname="span">just yesterday peaceful demonstrators in favour of the unity of the Ukraine were violently attacked by armed pro-Russian gangs armed with clubs and baseball bats in the city of Donetsk.</segment>
-		<segment id="13" parent="77" relname="conjunction">Today hundreds of pro-Russian demonstrators seized the building of the regional administration</segment>
-		<segment id="14" parent="77" relname="conjunction">and the prosecutor's office in the city of Luhansk,</segment>
-		<segment id="15" parent="78" relname="conjunction">and stormed the police station.</segment>
-		<segment id="16" parent="84" relname="span">We condemn those actions and the attacks</segment>
+		<segment id="12" parent="74" relname="span">just yesterday peaceful demonstrators in favour of the unity of the Ukraine were violently attacked by armed pro-Russian gangs armed with clubs and baseball bats in the city of Donetsk.</segment>
+		<segment id="13" parent="75" relname="conjunction">Today hundreds of pro-Russian demonstrators seized the building of the regional administration</segment>
+		<segment id="14" parent="75" relname="conjunction">and the prosecutor's office in the city of Luhansk,</segment>
+		<segment id="15" parent="76" relname="conjunction">and stormed the police station.</segment>
+		<segment id="16" parent="82" relname="span">We condemn those actions and the attacks</segment>
 		<segment id="17" parent="16" relname="e-elaboration">targeting political figures</segment>
-		<segment id="18" parent="85" relname="sameunit">in the strongest terms.</segment>
-		<segment id="19" parent="86" relname="span">The torture and murder of the Horlivka city councillor, Volodymyr Rybak,</segment>
+		<segment id="18" parent="83" relname="sameunit">in the strongest terms.</segment>
+		<segment id="19" parent="84" relname="span">The torture and murder of the Horlivka city councillor, Volodymyr Rybak,</segment>
 		<segment id="20" parent="19" relname="e-elaboration">whose remains were found last week near Sloviansk together with those of a young student from Kyiv, Yuriy Popravko,</segment>
-		<segment id="21" parent="87" relname="sameunit">attest to the high level of violence.</segment>
-		<segment id="22" parent="88" relname="span">Yesterday, the mayor of Kharkiv, Henadiy Kernes, was the target of an assassination attempt</segment>
+		<segment id="21" parent="85" relname="sameunit">attest to the high level of violence.</segment>
+		<segment id="22" parent="86" relname="span">Yesterday, the mayor of Kharkiv, Henadiy Kernes, was the target of an assassination attempt</segment>
 		<segment id="23" parent="22" relname="concession">- there are differing interpretations with regard to the party responsible.</segment>
-		<segment id="24" parent="90" relname="conjunction">These crimes must be investigated</segment>
-		<segment id="25" parent="91" relname="span">and everything possible must be done</segment>
+		<segment id="24" parent="88" relname="conjunction">These crimes must be investigated</segment>
+		<segment id="25" parent="89" relname="span">and everything possible must be done</segment>
 		<segment id="26" parent="25" relname="purpose">to prevent similar cases in the future.</segment>
-		<segment id="27" parent="104" relname="interpretation">The violence of recent days shows once again the need to urgently de-escalate the situation.</segment>
-		<segment id="28" parent="97" relname="span">We welcome the positive steps</segment>
+		<segment id="27" parent="102" relname="interpretation">The violence of recent days shows once again the need to urgently de-escalate the situation.</segment>
+		<segment id="28" parent="95" relname="span">We welcome the positive steps</segment>
 		<segment id="29" parent="28" relname="e-elaboration">taken by Ukraine</segment>
-		<segment id="30" parent="99" relname="span">to fulfil the commitments</segment>
-		<segment id="31" parent="100" relname="span">set out in the Geneva statement</segment>
+		<segment id="30" parent="97" relname="span">to fulfil the commitments</segment>
+		<segment id="31" parent="98" relname="span">set out in the Geneva statement</segment>
 		<segment id="32" parent="31" relname="circumstance">adopted on 17 April by Ukraine, Russia, the European Union and the United States.</segment>
-		<segment id="33" parent="101" relname="span">The Ukrainian Government has proposed an amnesty for those who leave the buildings they occupy in eastern Ukraine,</segment>
+		<segment id="33" parent="99" relname="span">The Ukrainian Government has proposed an amnesty for those who leave the buildings they occupy in eastern Ukraine,</segment>
 		<segment id="34" parent="33" relname="condition">as long as they have not committed crimes.</segment>
-		<segment id="35" parent="102" relname="conjunction">It is ready to launch an inclusive national dialogue on constitutional reform and decentralization,</segment>
-		<segment id="36" parent="102" relname="conjunction">and has acted with restraint in response to the actions of armed militias in the east.</segment>
-		<segment id="37" parent="149" relname="span">The international community expects Russia, for its part, to take concrete steps</segment>
-		<segment id="38" parent="109" relname="span">to bring the separatists in eastern Ukraine to de-escalate</segment>
+		<segment id="35" parent="100" relname="conjunction">It is ready to launch an inclusive national dialogue on constitutional reform and decentralization,</segment>
+		<segment id="36" parent="100" relname="conjunction">and has acted with restraint in response to the actions of armed militias in the east.</segment>
+		<segment id="37" parent="139" relname="span">The international community expects Russia, for its part, to take concrete steps</segment>
+		<segment id="38" parent="104" relname="span">to bring the separatists in eastern Ukraine to de-escalate</segment>
 		<segment id="39" parent="38" relname="elaboration">in accordance with the commitments undertaken in the Geneva statement.</segment>
-		<segment id="40" parent="111" relname="span">We expect Russia to use its influence over the separatist movements</segment>
+		<segment id="40" parent="105" relname="span">We expect Russia to use its influence over the separatist movements</segment>
 		<segment id="41" parent="40" relname="purpose">to convince them to seek dialogue with the Ukrainian Government instead of fighting.</segment>
-		<segment id="42" parent="112" relname="span">Russia should publicly condemn the actions of the separatists</segment>
+		<segment id="42" parent="106" relname="span">Russia should publicly condemn the actions of the separatists</segment>
 		<segment id="43" parent="42" relname="e-elaboration">aimed at destabilizing Ukraine</segment>
-		<segment id="44" parent="113" relname="conjunction">and call on armed militants to leave the illegally occupied buildings.</segment>
-		<segment id="45" parent="114" relname="list">Finally, the withdrawal of Russian forces from the Ukrainian border is an essential step for de-escalating tensions, especially in eastern Ukraine.</segment>
-		<segment id="46" parent="118" relname="span">We strongly condemn the kidnapping near the town of Sloviansk on 25 April of a team of military inspectors</segment>
-		<segment id="47" parent="117" relname="span">deployed under the 2011 Vienna document of the Organization for Security and Cooperation in Europe</segment>
+		<segment id="44" parent="107" relname="conjunction">and call on armed militants to leave the illegally occupied buildings.</segment>
+		<segment id="45" parent="108" relname="list">Finally, the withdrawal of Russian forces from the Ukrainian border is an essential step for de-escalating tensions, especially in eastern Ukraine.</segment>
+		<segment id="46" parent="111" relname="span">We strongly condemn the kidnapping near the town of Sloviansk on 25 April of a team of military inspectors</segment>
+		<segment id="47" parent="110" relname="span">deployed under the 2011 Vienna document of the Organization for Security and Cooperation in Europe</segment>
 		<segment id="48" parent="47" relname="restatement">(OSCE).</segment>
-		<segment id="49" parent="119" relname="span">We also condemn the temporary detention,</segment>
+		<segment id="49" parent="112" relname="span">We also condemn the temporary detention,</segment>
 		<segment id="50" parent="49" relname="circumstance">on 27 April,</segment>
-		<segment id="51" parent="120" relname="sameunit">of two members of the OSCE special monitoring mission in Yenakiyeve.</segment>
-		<segment id="52" parent="122" relname="span">The safety of international observers deployed anywhere in Ukraine must be ensured by all parties.</segment>
-		<segment id="53" parent="122" relname="elaboration">The OSCE monitoring mission must be able to fulfil its role in the implementation of the Geneva statement.</segment>
-		<segment id="54" parent="126" relname="span">We call on Russia to continue to use all of its influence on the pro-Russian separatists</segment>
-		<segment id="55" parent="125" relname="span">to encourage them to release unconditionally and promptly the seven inspectors from OSCE participating States</segment>
-		<segment id="56" parent="124" relname="conjunction">that they have been holding hostage in Sloviansk for the past four days,</segment>
-		<segment id="57" parent="124" relname="conjunction">as well as the Ukrainian personnel accompanying them.</segment>
-		<segment id="58" parent="129" relname="span">We also condemn the restrictions on media freedom and on the freedom of expression.</segment>
-		<segment id="59" parent="128" relname="list">The detention and intimidation of journalists have increased over the past two weeks in the east of the country.</segment>
-		<segment id="60" parent="128" relname="list">The day before yesterday, pro-Russian separatists took control of the regional public television station in Donetsk.</segment>
-		<segment id="61" parent="130" relname="background">The OSCE Representative on Freedom of the Media, Ms. Dunja Mijatovie, has repeatedly warned against misinformation and propaganda.</segment>
+		<segment id="51" parent="113" relname="sameunit">of two members of the OSCE special monitoring mission in Yenakiyeve.</segment>
+		<segment id="52" parent="115" relname="span">The safety of international observers deployed anywhere in Ukraine must be ensured by all parties.</segment>
+		<segment id="53" parent="115" relname="elaboration">The OSCE monitoring mission must be able to fulfil its role in the implementation of the Geneva statement.</segment>
+		<segment id="54" parent="119" relname="span">We call on Russia to continue to use all of its influence on the pro-Russian separatists</segment>
+		<segment id="55" parent="118" relname="span">to encourage them to release unconditionally and promptly the seven inspectors from OSCE participating States</segment>
+		<segment id="56" parent="117" relname="conjunction">that they have been holding hostage in Sloviansk for the past four days,</segment>
+		<segment id="57" parent="117" relname="conjunction">as well as the Ukrainian personnel accompanying them.</segment>
+		<segment id="58" parent="122" relname="span">We also condemn the restrictions on media freedom and on the freedom of expression.</segment>
+		<segment id="59" parent="121" relname="list">The detention and intimidation of journalists have increased over the past two weeks in the east of the country.</segment>
+		<segment id="60" parent="121" relname="list">The day before yesterday, pro-Russian separatists took control of the regional public television station in Donetsk.</segment>
+		<segment id="61" parent="123" relname="background">The OSCE Representative on Freedom of the Media, Ms. Dunja Mijatovie, has repeatedly warned against misinformation and propaganda.</segment>
 		<segment id="62" parent="63" relname="attribution">I would like to join her appeal and highlight</segment>
-		<segment id="63" parent="130" relname="span">that any limitations on the freedom of the press is unacceptable.</segment>
-		<segment id="64" parent="132" relname="span">Nothing can take the place of direct, substantive dialogue between Kyiv and Moscow</segment>
+		<segment id="63" parent="123" relname="span">that any limitations on the freedom of the press is unacceptable.</segment>
+		<segment id="64" parent="124" relname="span">Nothing can take the place of direct, substantive dialogue between Kyiv and Moscow</segment>
 		<segment id="65" parent="64" relname="purpose">to find a diplomatic solution to the Ukraine crisis.</segment>
-		<segment id="66" parent="136" relname="circumstance">The crisis continues to worsen.</segment>
+		<segment id="66" parent="126" relname="circumstance">The crisis continues to worsen.</segment>
 		<segment id="67" parent="68" relname="evaluation-N">It will have harmful consequences for the entire region, Europe and beyond.</segment>
-		<segment id="68" parent="137" relname="span">The Geneva declaration of 17 April cannot remain a dead letter.</segment>
-		<segment id="69" parent="136" relname="span">The alternative to dialogue and to de-escalation would have incalculable consequences for international peace and security.</segment>
-		<group id="71" type="span" parent="74" relname="span"/>
-		<group id="73" type="multinuc" parent="71" relname="purpose"/>
-		<group id="74" type="span" parent="75" relname="list"/>
-		<group id="75" type="multinuc" parent="81" relname="span"/>
-		<group id="76" type="span" parent="79" relname="sequence"/>
-		<group id="77" type="multinuc" parent="78" relname="conjunction"/>
-		<group id="78" type="multinuc" parent="79" relname="sequence"/>
-		<group id="79" type="multinuc" parent="10" relname="elaboration"/>
-		<group id="80" type="span" parent="81" relname="elaboration"/>
-		<group id="81" type="span" parent="82" relname="span"/>
-		<group id="82" type="span" parent="83" relname="span"/>
-		<group id="83" type="span" parent="95" relname="evaluation-N"/>
+		<segment id="68" parent="127" relname="span">The Geneva declaration of 17 April cannot remain a dead letter.</segment>
+		<segment id="69" parent="126" relname="span">The alternative to dialogue and to de-escalation would have incalculable consequences for international peace and security.</segment>
+		<group id="70" type="span" parent="72" relname="span"/>
+		<group id="71" type="multinuc" parent="70" relname="purpose"/>
+		<group id="72" type="span" parent="73" relname="list"/>
+		<group id="73" type="multinuc" parent="79" relname="span"/>
+		<group id="74" type="span" parent="77" relname="sequence"/>
+		<group id="75" type="multinuc" parent="76" relname="conjunction"/>
+		<group id="76" type="multinuc" parent="77" relname="sequence"/>
+		<group id="77" type="multinuc" parent="10" relname="elaboration"/>
+		<group id="78" type="span" parent="79" relname="elaboration"/>
+		<group id="79" type="span" parent="80" relname="span"/>
+		<group id="80" type="span" parent="81" relname="span"/>
+		<group id="81" type="span" parent="93" relname="evaluation-N"/>
+		<group id="82" type="span" parent="83" relname="sameunit"/>
+		<group id="83" type="multinuc" parent="92" relname="span"/>
 		<group id="84" type="span" parent="85" relname="sameunit"/>
-		<group id="85" type="multinuc" parent="94" relname="span"/>
-		<group id="86" type="span" parent="87" relname="sameunit"/>
-		<group id="87" type="multinuc" parent="89" relname="list"/>
-		<group id="88" type="span" parent="89" relname="list"/>
-		<group id="89" type="multinuc" parent="92" relname="span"/>
-		<group id="90" type="multinuc" parent="92" relname="evaluation-N"/>
-		<group id="91" type="span" parent="90" relname="conjunction"/>
+		<group id="85" type="multinuc" parent="87" relname="list"/>
+		<group id="86" type="span" parent="87" relname="list"/>
+		<group id="87" type="multinuc" parent="90" relname="span"/>
+		<group id="88" type="multinuc" parent="90" relname="evaluation-N"/>
+		<group id="89" type="span" parent="88" relname="conjunction"/>
+		<group id="90" type="span" parent="91" relname="span"/>
+		<group id="91" type="span" parent="92" relname="elaboration"/>
 		<group id="92" type="span" parent="93" relname="span"/>
-		<group id="93" type="span" parent="94" relname="elaboration"/>
-		<group id="94" type="span" parent="95" relname="span"/>
+		<group id="93" type="span" parent="94" relname="span"/>
+		<group id="94" type="span" parent="132" relname="cause"/>
 		<group id="95" type="span" parent="96" relname="span"/>
-		<group id="96" type="span" parent="142" relname="cause"/>
-		<group id="97" type="span" parent="98" relname="span"/>
-		<group id="98" type="span" parent="104" relname="span"/>
-		<group id="99" type="span" parent="97" relname="purpose"/>
-		<group id="100" type="span" parent="30" relname="e-elaboration"/>
-		<group id="101" type="span" parent="103" relname="span"/>
-		<group id="102" type="multinuc" parent="101" relname="elaboration"/>
-		<group id="103" type="span" parent="98" relname="e-elaboration"/>
-		<group id="104" type="span" parent="105" relname="span"/>
-		<group id="105" type="span" parent="116" relname="joint"/>
-		<group id="109" type="span" parent="37" relname="purpose"/>
-		<group id="111" type="span" parent="114" relname="list"/>
-		<group id="112" type="span" parent="113" relname="conjunction"/>
-		<group id="113" type="multinuc" parent="114" relname="list"/>
-		<group id="114" type="multinuc" parent="149" relname="elaboration"/>
-		<group id="116" type="multinuc" parent="141" relname="span"/>
-		<group id="117" type="span" parent="46" relname="e-elaboration"/>
-		<group id="118" type="span" parent="121" relname="conjunction"/>
-		<group id="119" type="span" parent="120" relname="sameunit"/>
-		<group id="120" type="multinuc" parent="121" relname="conjunction"/>
-		<group id="121" type="multinuc" parent="52" relname="evaluation-N"/>
-		<group id="122" type="span" parent="123" relname="span"/>
-		<group id="123" type="span" parent="126" relname="motivation"/>
-		<group id="124" type="multinuc" parent="55" relname="e-elaboration"/>
-		<group id="125" type="span" parent="54" relname="purpose"/>
-		<group id="126" type="span" parent="127" relname="span"/>
-		<group id="127" type="span" parent="135" relname="list"/>
-		<group id="128" type="multinuc" parent="58" relname="elaboration"/>
-		<group id="129" type="span" parent="148" relname="background"/>
-		<group id="130" type="span" parent="148" relname="span"/>
-		<group id="132" type="span" parent="135" relname="list"/>
-		<group id="135" type="multinuc" parent="139" relname="span"/>
-		<group id="136" type="span" parent="138" relname="span"/>
-		<group id="137" type="span" parent="69" relname="condition"/>
-		<group id="138" type="span" parent="139" relname="result"/>
+		<group id="96" type="span" parent="102" relname="span"/>
+		<group id="97" type="span" parent="95" relname="purpose"/>
+		<group id="98" type="span" parent="30" relname="e-elaboration"/>
+		<group id="99" type="span" parent="101" relname="span"/>
+		<group id="100" type="multinuc" parent="99" relname="elaboration"/>
+		<group id="101" type="span" parent="96" relname="e-elaboration"/>
+		<group id="102" type="span" parent="103" relname="span"/>
+		<group id="103" type="span" parent="109" relname="joint"/>
+		<group id="104" type="span" parent="37" relname="purpose"/>
+		<group id="105" type="span" parent="108" relname="list"/>
+		<group id="106" type="span" parent="107" relname="conjunction"/>
+		<group id="107" type="multinuc" parent="108" relname="list"/>
+		<group id="108" type="multinuc" parent="139" relname="elaboration"/>
+		<group id="109" type="multinuc" parent="131" relname="span"/>
+		<group id="110" type="span" parent="46" relname="e-elaboration"/>
+		<group id="111" type="span" parent="114" relname="conjunction"/>
+		<group id="112" type="span" parent="113" relname="sameunit"/>
+		<group id="113" type="multinuc" parent="114" relname="conjunction"/>
+		<group id="114" type="multinuc" parent="52" relname="evaluation-N"/>
+		<group id="115" type="span" parent="116" relname="span"/>
+		<group id="116" type="span" parent="119" relname="motivation"/>
+		<group id="117" type="multinuc" parent="55" relname="e-elaboration"/>
+		<group id="118" type="span" parent="54" relname="purpose"/>
+		<group id="119" type="span" parent="120" relname="span"/>
+		<group id="120" type="span" parent="125" relname="list"/>
+		<group id="121" type="multinuc" parent="58" relname="elaboration"/>
+		<group id="122" type="span" parent="138" relname="background"/>
+		<group id="123" type="span" parent="138" relname="span"/>
+		<group id="124" type="span" parent="125" relname="list"/>
+		<group id="125" type="multinuc" parent="129" relname="span"/>
+		<group id="126" type="span" parent="128" relname="span"/>
+		<group id="127" type="span" parent="69" relname="condition"/>
+		<group id="128" type="span" parent="129" relname="result"/>
+		<group id="129" type="span" parent="130" relname="span"/>
+		<group id="130" type="span" parent="131" relname="elaboration"/>
+		<group id="131" type="span" parent="132" relname="span"/>
+		<group id="132" type="span" parent="133" relname="span"/>
+		<group id="133" type="span" />
+		<group id="134" type="span" parent="135" relname="sameunit"/>
+		<group id="135" type="multinuc" parent="71" relname="conjunction"/>
+		<group id="136" type="span" parent="73" relname="list"/>
+		<group id="137" type="span" parent="125" relname="list"/>
+		<group id="138" type="span" parent="137" relname="span"/>
 		<group id="139" type="span" parent="140" relname="span"/>
-		<group id="140" type="span" parent="141" relname="elaboration"/>
-		<group id="141" type="span" parent="142" relname="span"/>
-		<group id="142" type="span" parent="143" relname="span"/>
-		<group id="143" type="span" />
-		<group id="144" type="span" parent="145" relname="sameunit"/>
-		<group id="145" type="multinuc" parent="73" relname="conjunction"/>
-		<group id="146" type="span" parent="75" relname="list"/>
-		<group id="147" type="span" parent="135" relname="list"/>
-		<group id="148" type="span" parent="147" relname="span"/>
-		<group id="149" type="span" parent="150" relname="span"/>
-		<group id="150" type="span" parent="116" relname="joint"/>
+		<group id="140" type="span" parent="109" relname="joint"/>
 	</body>
 </rst>

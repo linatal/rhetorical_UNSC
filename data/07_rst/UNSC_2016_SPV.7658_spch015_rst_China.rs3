@@ -1,0 +1,191 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="conjunction" type="multinuc"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="e-elaboration" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation-N" type="rst"/>
+			<rel name="evaluation-S" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="interpretation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="list" type="multinuc"/>
+			<rel name="means" type="rst"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="otherwise" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="reason-N" type="rst"/>
+			<rel name="reason-S" type="rst"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sameunit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+			<rel name="summary" type="rst"/>
+			<rel name="textual-organization" type="multinuc"/>
+			<rel name="textual-organization" type="rst"/>
+			<rel name="topic-comment" type="rst"/>
+			<rel name="unless" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="78" relname="list">China welcomes Angola's initiative to convene this debate.</segment>
+		<segment id="2" parent="76" relname="span">China expresses its appreciation to you,</segment>
+		<segment id="3" parent="2" relname="elaboration">Minister Delgado,</segment>
+		<segment id="4" parent="77" relname="sameunit">for presiding over this meeting.</segment>
+		<segment id="5" parent="78" relname="list">I also wish to thank Ms. Mlambo-Ngcuka, Assistant Secretary-General Zerihoun, Ambassador Kamau and Ambassador Antonio for their briefings.</segment>
+		<segment id="6" parent="78" relname="list">China also listened attentively to the statement made by the representative of the South Sudan Women's Empowerment Network.</segment>
+		<segment id="7" parent="83" relname="span">The current international security situation is complex and challenging.</segment>
+		<segment id="8" parent="81" relname="list">In particular, regions like Africa and the Middle East have long been mired in war and conflict.</segment>
+		<segment id="9" parent="81" relname="list">Many women are victims of violence and the threat of terror.</segment>
+		<segment id="10" parent="82" relname="span">On the other hand, women are increasingly important players in the prevention and resolution of regional conflicts.</segment>
+		<segment id="11" parent="84" relname="conjunction">The international community should step up protection of the rights and interests of women in conflict</segment>
+		<segment id="12" parent="84" relname="conjunction">and give women a greater role in conflict prevention and resolution.</segment>
+		<segment id="13" parent="89" relname="span">First, we should enhance protection for women in conflict,</segment>
+		<segment id="14" parent="88" relname="span">it is incumbent upon the international community to adopt effective measures</segment>
+		<segment id="15" parent="87" relname="span">to maximize security assurances for women</segment>
+		<segment id="16" parent="15" relname="e-elaboration">affected by conflict.</segment>
+		<segment id="17" parent="18" relname="circumstance">In providing humanitarian assistance to conflict areas,</segment>
+		<segment id="18" parent="90" relname="span">we should focus in particular on the needs of women and other vulnerable groups.</segment>
+		<segment id="19" parent="94" relname="joint">The provisions of relevant Council resolutions on the protection of women in conflict must be implemented to the letter.</segment>
+		<segment id="20" parent="92" relname="sameunit">United Nations peacekeeping operations should,</segment>
+		<segment id="21" parent="22" relname="circumstance">within the purview of their respective mandates,</segment>
+		<segment id="22" parent="91" relname="span">assist host countries in safeguarding the security of women in conflict</segment>
+		<segment id="23" parent="93" relname="conjunction">and should effectively implement a zero-tolerance policy toward sexual violence.</segment>
+		<segment id="24" parent="97" relname="conjunction">Secondly, greater efforts should be deployed to find political solutions to critical regional issues,</segment>
+		<segment id="25" parent="97" relname="conjunction">and greater importance attached to the role of women in conflict resolution.</segment>
+		<segment id="26" parent="27" relname="means">The international community should work hard</segment>
+		<segment id="27" parent="100" relname="span">to help design political solutions to conflicts and overcome differences through dialogue.</segment>
+		<segment id="28" parent="98" relname="conjunction">Women should be encouraged to become important players in mediation</segment>
+		<segment id="29" parent="98" relname="conjunction">and to fully leverage their advantages in advocating a culture of peace.</segment>
+		<segment id="30" parent="31" relname="means">United Nations peacekeeping operations may also steadily raise the percentage of female staff</segment>
+		<segment id="31" parent="99" relname="span">so that communication with local women and girls can be improved.</segment>
+		<segment id="32" parent="149" relname="span">Thirdly, women should be given a greater role to play</segment>
+		<segment id="33" parent="32" relname="elaboration">in building a culture of harmony and inclusiveness.</segment>
+		<segment id="34" parent="110" relname="joint">The international community should encourage women to play a greater role in social life,</segment>
+		<segment id="35" parent="106" relname="means">and it should educate young people</segment>
+		<segment id="36" parent="105" relname="conjunction">so that they can resist the ideological influence of violent extremism</segment>
+		<segment id="37" parent="105" relname="conjunction">and the demagogic rhetoric of armed groups and terrorists.</segment>
+		<segment id="38" parent="109" relname="joint">Women should be empowered to fully participate in all phases of post-conflict reconstruction, actively encourage the disarmament, demobilization and reintegration process of combatants, and provide counselling and community support for victims of violence.</segment>
+		<segment id="39" parent="112" relname="span">Fourthly, women must be enabled to promote economic and social development,</segment>
+		<segment id="40" parent="39" relname="circumstance">thereby eliminating the roots causes ofconflict.</segment>
+		<segment id="41" parent="113" relname="conjunction">The international community should step up economic empowerment efforts for African women,</segment>
+		<segment id="42" parent="113" relname="conjunction">help African countries reduce poverty</segment>
+		<segment id="43" parent="113" relname="conjunction">and promote economic development.</segment>
+		<segment id="44" parent="114" relname="conjunction">African women should be provided with better occupational-skills training</segment>
+		<segment id="45" parent="114" relname="conjunction">and with greater funding support for entrepreneurship</segment>
+		<segment id="46" parent="47" relname="cause">in order to comprehensively improve incomes and livelihoods,</segment>
+		<segment id="47" parent="115" relname="span">with a view to promoting the industrialization and agricultural modernization of the continent,</segment>
+		<segment id="48" parent="115" relname="solutionhood">thereby eradicating the root causes of conflict.</segment>
+		<segment id="49" parent="121" relname="joint">Last September, the Global Summit of Women was convened under a joint China-United Nations initiative.</segment>
+		<segment id="50" parent="121" relname="joint">The Summit was attended by Chinese President Xi Jinping and representatives from over 140 countries, including 85 Heads of State and Government.</segment>
+		<segment id="51" parent="121" relname="joint">The event had a significant and far-reaching impact on the development of the global women's cause.</segment>
+		<segment id="52" parent="121" relname="joint">China decided to contribute $10 million to the United Nations Entity for Gender Equality and the Empowerment of Women.</segment>
+		<segment id="53" parent="122" relname="span">Over the next five years, China will adopt a series of initiatives</segment>
+		<segment id="54" parent="124" relname="span">to help developing countries overcome the difficulties facing women and girls with regard to their access to medical care and education, strengthen training for local women and,</segment>
+		<segment id="55" parent="54" relname="result">through a fund created in partnership with the United Nations,</segment>
+		<segment id="56" parent="123" relname="sameunit">roll out projects dedicated to capacity-building for womin developing countries.</segment>
+		<segment id="57" parent="121" relname="joint">China attaches great importance to working with Africa, promoting the cause of women and intensifying support for African women in the political, economic, cultural, educational and health domains.</segment>
+		<segment id="58" parent="127" relname="background">The 2015 Johannesburg Action Plan of the Forum on China-Africa Cooperation called for intensified pragmatic cooperation between China and Africa in the area of women's affairs and for dialogue between female leaders.</segment>
+		<segment id="59" parent="125" relname="span">The assistance</segment>
+		<segment id="60" parent="59" relname="elaboration">provided by China in recent years</segment>
+		<segment id="61" parent="126" relname="sameunit">covers almost all African countries.</segment>
+		<segment id="62" parent="129" relname="span">China also provided women and girls in Ebola-afflicted West African countries,</segment>
+		<segment id="63" parent="62" relname="e-elaboration">such as Sierra Leone and Liberia,</segment>
+		<segment id="64" parent="131" relname="span">with a large amount of assistance</segment>
+		<segment id="65" parent="64" relname="purpose">in kind to support Africa's efforts to upgrade its public-health system and emergency-response capacity on all fronts.</segment>
+		<segment id="66" parent="133" relname="conjunction">Going forward, China will implement 200 Happy Life projects across Africa and 100 village-level agricultural development projects,</segment>
+		<segment id="67" parent="133" relname="conjunction">build industrial parks and vocational training centres on a collaborative basis,</segment>
+		<segment id="68" parent="133" relname="conjunction">and provide training for 200,000 technical specialists.</segment>
+		<segment id="69" parent="134" relname="conjunction">These cooperative projects will benefit the people of Africa,</segment>
+		<segment id="70" parent="134" relname="conjunction">and in particular bring new opportunities and new hope for the development of African women,</segment>
+		<segment id="71" parent="134" relname="conjunction">thereby creating new conditions for conflict resolution.</segment>
+		<segment id="72" parent="138" relname="span">China stands ready to continue working with the international community</segment>
+		<segment id="73" parent="72" relname="purpose">to jointly help women achieve comprehensive development and fully engage in political, economic and social life</segment>
+		<segment id="74" parent="139" relname="conjunction">so that they can contribute more positive energy to the peace, development and prosperity of the African continent</segment>
+		<segment id="75" parent="139" relname="conjunction">and makes their own important contributions.</segment>
+		<group id="76" type="span" parent="77" relname="sameunit"/>
+		<group id="77" type="multinuc" parent="79" relname="span"/>
+		<group id="78" type="multinuc" parent="80" relname="span"/>
+		<group id="79" type="span" parent="78" relname="list"/>
+		<group id="80" type="span" parent="148" relname="preparation"/>
+		<group id="81" type="multinuc" parent="10" relname="concession"/>
+		<group id="82" type="span" parent="7" relname="evidence"/>
+		<group id="83" type="span" parent="85" relname="motivation"/>
+		<group id="84" type="multinuc" parent="85" relname="span"/>
+		<group id="85" type="span" parent="86" relname="span"/>
+		<group id="86" type="span" parent="145" relname="background"/>
+		<group id="87" type="span" parent="14" relname="purpose"/>
+		<group id="88" type="span" parent="13" relname="motivation"/>
+		<group id="89" type="span" parent="96" relname="background"/>
+		<group id="90" type="span" parent="95" relname="solutionhood"/>
+		<group id="91" type="span" parent="92" relname="sameunit"/>
+		<group id="92" type="multinuc" parent="93" relname="conjunction"/>
+		<group id="93" type="multinuc" parent="94" relname="joint"/>
+		<group id="94" type="multinuc" parent="95" relname="span"/>
+		<group id="95" type="span" parent="96" relname="span"/>
+		<group id="96" type="span" parent="142" relname="span"/>
+		<group id="97" type="multinuc" parent="103" relname="background"/>
+		<group id="98" type="multinuc" parent="100" relname="solutionhood"/>
+		<group id="99" type="span" parent="102" relname="joint"/>
+		<group id="100" type="span" parent="101" relname="span"/>
+		<group id="101" type="span" parent="102" relname="joint"/>
+		<group id="102" type="multinuc" parent="103" relname="span"/>
+		<group id="103" type="span" parent="104" relname="span"/>
+		<group id="104" type="span" parent="143" relname="list"/>
+		<group id="105" type="multinuc" parent="106" relname="span"/>
+		<group id="106" type="span" parent="107" relname="span"/>
+		<group id="107" type="span" parent="110" relname="joint"/>
+		<group id="109" type="multinuc" parent="149" relname="elaboration"/>
+		<group id="110" type="multinuc" parent="109" relname="joint"/>
+		<group id="111" type="span" parent="143" relname="list"/>
+		<group id="112" type="span" parent="120" relname="span"/>
+		<group id="113" type="multinuc" parent="119" relname="joint"/>
+		<group id="114" type="multinuc" parent="117" relname="span"/>
+		<group id="115" type="span" parent="116" relname="span"/>
+		<group id="116" type="span" parent="117" relname="solutionhood"/>
+		<group id="117" type="span" parent="118" relname="span"/>
+		<group id="118" type="span" parent="119" relname="joint"/>
+		<group id="119" type="multinuc" parent="112" relname="elaboration"/>
+		<group id="120" type="span" parent="143" relname="list"/>
+		<group id="121" type="multinuc" parent="137" relname="joint"/>
+		<group id="122" type="span" parent="121" relname="joint"/>
+		<group id="123" type="multinuc" parent="53" relname="purpose"/>
+		<group id="124" type="span" parent="123" relname="sameunit"/>
+		<group id="125" type="span" parent="126" relname="sameunit"/>
+		<group id="126" type="multinuc" parent="127" relname="span"/>
+		<group id="127" type="span" parent="128" relname="span"/>
+		<group id="128" type="span" parent="121" relname="joint"/>
+		<group id="129" type="span" parent="130" relname="sameunit"/>
+		<group id="130" type="multinuc" parent="132" relname="span"/>
+		<group id="131" type="span" parent="130" relname="sameunit"/>
+		<group id="132" type="span" parent="121" relname="joint"/>
+		<group id="133" type="multinuc" parent="135" relname="solutionhood"/>
+		<group id="134" type="multinuc" parent="135" relname="span"/>
+		<group id="135" type="span" parent="136" relname="span"/>
+		<group id="136" type="span" parent="137" relname="joint"/>
+		<group id="137" type="multinuc" parent="141" relname="evidence"/>
+		<group id="138" type="span" parent="140" relname="reason-N"/>
+		<group id="139" type="multinuc" parent="140" relname="span"/>
+		<group id="140" type="span" parent="141" relname="span"/>
+		<group id="141" type="span" parent="144" relname="span"/>
+		<group id="142" type="span" parent="143" relname="list"/>
+		<group id="143" type="multinuc" parent="145" relname="span"/>
+		<group id="144" type="span" parent="147" relname="joint"/>
+		<group id="145" type="span" parent="146" relname="span"/>
+		<group id="146" type="span" parent="147" relname="joint"/>
+		<group id="147" type="multinuc" parent="148" relname="span"/>
+		<group id="148" type="span" />
+		<group id="149" type="span" parent="111" relname="span"/>
+	</body>
+</rst>

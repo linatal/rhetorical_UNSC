@@ -43,8 +43,8 @@
 		<segment id="2" parent="20" relname="span">We have just adopted resolution 2272</segment>
 		<segment id="3" parent="2" relname="e-elaboration">(2016),</segment>
 		<segment id="4" parent="20" relname="elaboration">the first to address exclusively conduct deemed completely unacceptable.</segment>
-		<segment id="5" parent="39" relname="span">With this resolution, the Security Council is sending a strong message to all</segment>
-		<segment id="6" parent="38" relname="span">who have the responsibility to eliminate this scourge,</segment>
+		<segment id="5" parent="38" relname="span">With this resolution, the Security Council is sending a strong message to all</segment>
+		<segment id="6" parent="37" relname="span">who have the responsibility to eliminate this scourge,</segment>
 		<segment id="7" parent="6" relname="e-elaboration">and that responsibility is collective.</segment>
 		<segment id="8" parent="24" relname="span">My delegation supported the text put forward in its entirety and without amendment,</segment>
 		<segment id="9" parent="8" relname="reason-S">because quite simply we cannot address the issue of accountability in a partial manner.</segment>
@@ -75,7 +75,7 @@
 		<group id="34" type="span" parent="33" relname="motivation"/>
 		<group id="35" type="span" parent="36" relname="span"/>
 		<group id="36" type="span" parent="21" relname="reason-S"/>
-		<group id="38" type="span" parent="5" relname="e-elaboration"/>
-		<group id="39" type="span" parent="27" relname="background"/>
+		<group id="37" type="span" parent="5" relname="e-elaboration"/>
+		<group id="38" type="span" parent="27" relname="background"/>
 	</body>
 </rst>

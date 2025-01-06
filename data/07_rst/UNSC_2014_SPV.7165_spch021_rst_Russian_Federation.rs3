@@ -56,36 +56,36 @@
 		<segment id="15" parent="16" relname="cause">The document is so simple,</segment>
 		<segment id="16" parent="37" relname="span">there is nothing to interpret.</segment>
 		<segment id="17" parent="18" relname="concession">There is nothing to be done</segment>
-		<segment id="18" parent="41" relname="span">but to implement it.</segment>
-		<segment id="19" parent="42" relname="span">Let us do so.</segment>
-		<segment id="20" parent="43" relname="concession">Russia helped to draw it up.</segment>
-		<segment id="21" parent="43" relname="span">But the actions backing it up need to be taken, first and foremost, by the authorities in Kyiv,</segment>
+		<segment id="18" parent="40" relname="span">but to implement it.</segment>
+		<segment id="19" parent="41" relname="span">Let us do so.</segment>
+		<segment id="20" parent="42" relname="concession">Russia helped to draw it up.</segment>
+		<segment id="21" parent="42" relname="span">But the actions backing it up need to be taken, first and foremost, by the authorities in Kyiv,</segment>
 		<segment id="22" parent="21" relname="condition">if that is what they are.</segment>
-		<segment id="23" parent="44" relname="span">Unfortunately, their lack of action is reflected in the statement</segment>
+		<segment id="23" parent="43" relname="span">Unfortunately, their lack of action is reflected in the statement</segment>
 		<segment id="24" parent="23" relname="attribution">I made here earlier today.</segment>
 		<group id="25" type="span" parent="26" relname="span"/>
 		<group id="26" type="span" parent="27" relname="span"/>
 		<group id="27" type="span" parent="5" relname="concession"/>
-		<group id="28" type="span" parent="48" relname="preparation"/>
+		<group id="28" type="span" parent="47" relname="preparation"/>
 		<group id="29" type="span" parent="6" relname="elaboration"/>
 		<group id="30" type="span" parent="34" relname="background"/>
 		<group id="31" type="span" parent="32" relname="sameunit"/>
 		<group id="32" type="multinuc" parent="33" relname="span"/>
 		<group id="33" type="span" parent="34" relname="span"/>
 		<group id="34" type="span" parent="35" relname="span"/>
-		<group id="35" type="span" parent="47" relname="background"/>
-		<group id="36" type="span" parent="39" relname="antithesis"/>
-		<group id="37" type="span" parent="39" relname="span"/>
-		<group id="39" type="span" parent="40" relname="span"/>
-		<group id="40" type="span" parent="19" relname="motivation"/>
-		<group id="41" type="span" parent="37" relname="elaboration"/>
-		<group id="42" type="span" parent="47" relname="span"/>
-		<group id="43" type="span" parent="45" relname="span"/>
-		<group id="44" type="span" parent="46" relname="contrast"/>
-		<group id="45" type="span" parent="46" relname="contrast"/>
-		<group id="46" type="multinuc" parent="42" relname="elaboration"/>
+		<group id="35" type="span" parent="46" relname="background"/>
+		<group id="36" type="span" parent="38" relname="antithesis"/>
+		<group id="37" type="span" parent="38" relname="span"/>
+		<group id="38" type="span" parent="39" relname="span"/>
+		<group id="39" type="span" parent="19" relname="motivation"/>
+		<group id="40" type="span" parent="37" relname="elaboration"/>
+		<group id="41" type="span" parent="46" relname="span"/>
+		<group id="42" type="span" parent="44" relname="span"/>
+		<group id="43" type="span" parent="45" relname="contrast"/>
+		<group id="44" type="span" parent="45" relname="contrast"/>
+		<group id="45" type="multinuc" parent="41" relname="elaboration"/>
+		<group id="46" type="span" parent="47" relname="span"/>
 		<group id="47" type="span" parent="48" relname="span"/>
-		<group id="48" type="span" parent="49" relname="span"/>
-		<group id="49" type="span" />
+		<group id="48" type="span" />
 	</body>
 </rst>

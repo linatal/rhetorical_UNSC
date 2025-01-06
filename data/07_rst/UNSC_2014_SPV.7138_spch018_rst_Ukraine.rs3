@@ -115,7 +115,7 @@
 		<group id="74" type="multinuc" parent="75" relname="span"/>
 		<group id="75" type="span" parent="76" relname="span"/>
 		<group id="76" type="span" parent="77" relname="list"/>
-		<group id="77" type="multinuc" parent="98" relname="preparation"/>
+		<group id="77" type="multinuc" parent="97" relname="preparation"/>
 		<group id="78" type="span" parent="79" relname="conjunction"/>
 		<group id="79" type="multinuc" parent="8" relname="e-elaboration"/>
 		<group id="80" type="span" parent="83" relname="contrast"/>
@@ -128,25 +128,23 @@
 		<group id="87" type="multinuc" parent="20" relname="elaboration"/>
 		<group id="88" type="span" parent="89" relname="span"/>
 		<group id="89" type="span" parent="15" relname="evidence"/>
-		<group id="90" type="span" parent="95" relname="cause"/>
+		<group id="90" type="span" parent="94" relname="cause"/>
 		<group id="91" type="span" parent="94" relname="span"/>
 		<group id="92" type="span" parent="93" relname="sameunit"/>
-		<group id="93" type="multinuc" parent="91" relname="elaboration"/>
+		<group id="93" type="multinuc" parent="23" relname="elaboration"/>
 		<group id="94" type="span" parent="95" relname="span"/>
 		<group id="95" type="span" parent="96" relname="span"/>
 		<group id="96" type="span" parent="97" relname="span"/>
-		<group id="97" type="span" parent="98" relname="span"/>
-		<group id="98" type="span" parent="99" relname="span"/>
-		<group id="99" type="span" />
+		<group id="97" type="span" />
 		<group id="100" type="span" parent="102" relname="span"/>
 		<group id="101" type="span" parent="100" relname="reason-S"/>
-		<group id="102" type="span" parent="94" relname="reason-S"/>
+		<group id="102" type="span" parent="91" relname="reason-S"/>
 		<group id="103" type="span" parent="106" relname="background"/>
 		<group id="104" type="span" parent="105" relname="span"/>
 		<group id="105" type="span" parent="106" relname="span"/>
 		<group id="106" type="span" parent="107" relname="span"/>
 		<group id="107" type="span" parent="108" relname="span"/>
-		<group id="108" type="span" parent="96" relname="means"/>
+		<group id="108" type="span" parent="95" relname="means"/>
 		<group id="109" type="span" parent="110" relname="sameunit"/>
 		<group id="110" type="multinuc" parent="111" relname="span"/>
 		<group id="111" type="span" parent="112" relname="span"/>
@@ -177,7 +175,7 @@
 		<group id="136" type="span" parent="137" relname="span"/>
 		<group id="137" type="span" parent="138" relname="span"/>
 		<group id="138" type="span" parent="139" relname="span"/>
-		<group id="139" type="span" parent="97" relname="restatement"/>
+		<group id="139" type="span" parent="96" relname="restatement"/>
 		<group id="140" type="span" parent="92" relname="span"/>
 		<group id="141" type="span" parent="36" relname="elaboration"/>
 	</body>

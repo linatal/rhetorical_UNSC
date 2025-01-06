@@ -3,6 +3,7 @@
 .idea
 Desktop.ini
 
+
 # Thumbnail cache files
 ._*
 Thumbs.db
@@ -21,3 +22,7 @@ Thumbs.db
 venv
 node_modules
 .sass-cache
+
+# project files
+/code/04_analysis_nuclearity.ipynb
+/data/main_conflicts_aligned_old.csv

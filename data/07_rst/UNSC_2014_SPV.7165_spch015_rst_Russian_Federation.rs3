@@ -95,129 +95,129 @@
 		<segment id="54" parent="225" relname="conjunction">as are several buildings in Kyiv.</segment>
 		<segment id="55" parent="228" relname="span">No one has liberated anything in Kyiv.</segment>
 		<segment id="56" parent="57" relname="attribution">In Washington, DC, they are saying, uncritically,</segment>
-		<segment id="57" parent="370" relname="span">that the buildings have been legally rented.</segment>
+		<segment id="57" parent="349" relname="span">that the buildings have been legally rented.</segment>
 		<segment id="58" parent="59" relname="topic-comment">But by whom?</segment>
 		<segment id="59" parent="229" relname="span">They have been rented by armed fighters.</segment>
-		<segment id="60" parent="364" relname="span">In Geneva, there was agreement</segment>
+		<segment id="60" parent="343" relname="span">In Geneva, there was agreement</segment>
 		<segment id="61" parent="60" relname="e-elaboration">that there should be amnesty for protestors.</segment>
-		<segment id="62" parent="236" relname="span">However,</segment>
+		<segment id="62" parent="234" relname="span">However,</segment>
 		<segment id="63" parent="62" relname="elaboration">instead of that,</segment>
-		<segment id="64" parent="234" relname="span">the People's Governor of Donetsk, Pavel Gubarev,</segment>
+		<segment id="64" parent="232" relname="span">the People's Governor of Donetsk, Pavel Gubarev,</segment>
 		<segment id="65" parent="64" relname="e-elaboration">who never had weapons in his hand,</segment>
-		<segment id="66" parent="235" relname="sameunit">remains in prison.</segment>
-		<segment id="67" parent="354" relname="list">He is a political prisoner,</segment>
-		<segment id="68" parent="354" relname="list">arrested</segment>
-		<segment id="69" parent="360" relname="reason-S">just because he called for a referendum on the federalization of Ukraine.</segment>
-		<segment id="70" parent="237" relname="span">The monitors of the Organization for Security and Cooperation in Europe</segment>
+		<segment id="66" parent="233" relname="sameunit">remains in prison.</segment>
+		<segment id="67" parent="338" relname="list">He is a political prisoner,</segment>
+		<segment id="68" parent="338" relname="list">arrested</segment>
+		<segment id="69" parent="340" relname="reason-S">just because he called for a referendum on the federalization of Ukraine.</segment>
+		<segment id="70" parent="235" relname="span">The monitors of the Organization for Security and Cooperation in Europe</segment>
 		<segment id="71" parent="70" relname="restatement">(OSCE)</segment>
-		<segment id="72" parent="238" relname="sameunit">confirm</segment>
-		<segment id="73" parent="239" relname="conjunction">that he was tortured</segment>
-		<segment id="74" parent="239" relname="conjunction">and that he is now engaged in an indefinite hunger strike.</segment>
-		<segment id="75" parent="245" relname="evaluation-N">Mr. Gubarev is far from being the only political prisoner of the Kyiv regime.</segment>
-		<segment id="76" parent="242" relname="span">One can speak of widespread witch hunts</segment>
+		<segment id="72" parent="236" relname="sameunit">confirm</segment>
+		<segment id="73" parent="237" relname="conjunction">that he was tortured</segment>
+		<segment id="74" parent="237" relname="conjunction">and that he is now engaged in an indefinite hunger strike.</segment>
+		<segment id="75" parent="243" relname="evaluation-N">Mr. Gubarev is far from being the only political prisoner of the Kyiv regime.</segment>
+		<segment id="76" parent="240" relname="span">One can speak of widespread witch hunts</segment>
 		<segment id="77" parent="76" relname="e-elaboration">for those who have dared to express their disagreement with the Government in the Maidan.</segment>
-		<segment id="78" parent="243" relname="attribution">According to our sources,</segment>
-		<segment id="79" parent="243" relname="span">in the Donetsk region there are already about 10 cases of politically motivated kidnappings of people</segment>
+		<segment id="78" parent="241" relname="attribution">According to our sources,</segment>
+		<segment id="79" parent="241" relname="span">in the Donetsk region there are already about 10 cases of politically motivated kidnappings of people</segment>
 		<segment id="80" parent="79" relname="e-elaboration">who were later transported to Kyiv by the special services.</segment>
-		<segment id="81" parent="261" relname="background">On 28 April, there was an attack on the life of the popular mayor of Kharkiv, Hennadiy Kernes.</segment>
+		<segment id="81" parent="255" relname="background">On 28 April, there was an attack on the life of the popular mayor of Kharkiv, Hennadiy Kernes.</segment>
 		<segment id="82" parent="83" relname="attribution">My colleague from the United Kingdom rushed to say</segment>
-		<segment id="83" parent="253" relname="span">that the protesters in the south-east participated in that crime.</segment>
+		<segment id="83" parent="248" relname="span">that the protesters in the south-east participated in that crime.</segment>
 		<segment id="84" parent="85" relname="reason-S">That demands a careful investigation of the case.</segment>
-		<segment id="85" parent="254" relname="span">Let us not try to prejudge the outcome.</segment>
-		<segment id="86" parent="255" relname="conjunction">It is true that Mr. Kernes had indeed spoken out about the chaos in other regions of Ukraine,</segment>
-		<segment id="87" parent="255" relname="conjunction">and there were serious political battles between him and one of the heads of the defence and law-enforcement agencies.</segment>
-		<segment id="88" parent="256" relname="span">On the same day</segment>
+		<segment id="85" parent="249" relname="span">Let us not try to prejudge the outcome.</segment>
+		<segment id="86" parent="250" relname="conjunction">It is true that Mr. Kernes had indeed spoken out about the chaos in other regions of Ukraine,</segment>
+		<segment id="87" parent="250" relname="conjunction">and there were serious political battles between him and one of the heads of the defence and law-enforcement agencies.</segment>
+		<segment id="88" parent="251" relname="span">On the same day</segment>
 		<segment id="89" parent="88" relname="e-elaboration">- 28 April -</segment>
-		<segment id="90" parent="257" relname="sameunit">at the Kherson airport, the presidential candidate's plane was blocked.</segment>
-		<segment id="91" parent="265" relname="list">He had been travelling as part ofthe presidential campaign.</segment>
-		<segment id="92" parent="265" relname="list">He was attacked.</segment>
-		<segment id="93" parent="258" relname="span">In early April another candidate, Oleh Tsarev, was severely beaten.</segment>
+		<segment id="90" parent="252" relname="sameunit">at the Kherson airport, the presidential candidate's plane was blocked.</segment>
+		<segment id="91" parent="257" relname="list">He had been travelling as part ofthe presidential campaign.</segment>
+		<segment id="92" parent="257" relname="list">He was attacked.</segment>
+		<segment id="93" parent="253" relname="span">In early April another candidate, Oleh Tsarev, was severely beaten.</segment>
 		<segment id="94" parent="93" relname="e-elaboration">He was the only candidate for the presidential election without State protection.</segment>
-		<segment id="95" parent="368" relname="span">Mr. Tsarev was stripped of his right to participate in the televised debates.</segment>
-		<segment id="96" parent="260" relname="conjunction">In that context, can we speak about the peaceful nature of the electoral campaign in Ukraine</segment>
-		<segment id="97" parent="260" relname="conjunction">and of freedom of expression for its civilians?</segment>
-		<segment id="98" parent="268" relname="span">The key point of the Geneva agreement was broad national dialogue,</segment>
+		<segment id="95" parent="347" relname="span">Mr. Tsarev was stripped of his right to participate in the televised debates.</segment>
+		<segment id="96" parent="254" relname="conjunction">In that context, can we speak about the peaceful nature of the electoral campaign in Ukraine</segment>
+		<segment id="97" parent="254" relname="conjunction">and of freedom of expression for its civilians?</segment>
+		<segment id="98" parent="260" relname="span">The key point of the Geneva agreement was broad national dialogue,</segment>
 		<segment id="99" parent="98" relname="e-elaboration">which was to take into account the interests of all regions and political formations.</segment>
 		<segment id="100" parent="101" relname="concession">The Kyiv Government made certain promises with regard to constitutional reforms and upholding the rights of minorities.</segment>
-		<segment id="101" parent="269" relname="span">But what about national dialogue and reform?</segment>
+		<segment id="101" parent="261" relname="span">But what about national dialogue and reform?</segment>
 		<segment id="102" parent="103" relname="attribution">According to meadia reports,</segment>
-		<segment id="103" parent="275" relname="span">today Mr. Yatsenyuk submitted to the Rada some sort of draft constitution.</segment>
-		<segment id="104" parent="280" relname="concession">It is not really clear how it was prepared.</segment>
-		<segment id="105" parent="280" relname="span">What is certain is that it was not an open and inclusive process.</segment>
-		<segment id="106" parent="278" relname="span">In fact, the Party of Regions,</segment>
+		<segment id="103" parent="266" relname="span">today Mr. Yatsenyuk submitted to the Rada some sort of draft constitution.</segment>
+		<segment id="104" parent="271" relname="concession">It is not really clear how it was prepared.</segment>
+		<segment id="105" parent="271" relname="span">What is certain is that it was not an open and inclusive process.</segment>
+		<segment id="106" parent="269" relname="span">In fact, the Party of Regions,</segment>
 		<segment id="107" parent="106" relname="e-elaboration">which represents the rest of the east of the country,</segment>
-		<segment id="108" parent="279" relname="sameunit">was excluded from the process.</segment>
-		<segment id="109" parent="297" relname="span">It is no surprise that the draft was immediately criticized in the Rada by all sides.</segment>
-		<segment id="110" parent="282" relname="span">We did not hear any reasonable answers to key questions,</segment>
-		<segment id="111" parent="299" relname="span">such as how the federalization or decentralization of the country would take place.</segment>
+		<segment id="108" parent="270" relname="sameunit">was excluded from the process.</segment>
+		<segment id="109" parent="283" relname="span">It is no surprise that the draft was immediately criticized in the Rada by all sides.</segment>
+		<segment id="110" parent="272" relname="span">We did not hear any reasonable answers to key questions,</segment>
+		<segment id="111" parent="285" relname="span">such as how the federalization or decentralization of the country would take place.</segment>
 		<segment id="112" parent="111" relname="elaboration">It seems such things are to be substituted by some type of broadening of municipalities.</segment>
-		<segment id="113" parent="298" relname="reason-S">How is the issue of the status of the Russian language to be resolved?</segment>
-		<segment id="114" parent="304" relname="span">Can anyone seriously assert that all those activities by Kyiv are a solution to the political crisis aimed at stabilizing Ukraine?</segment>
-		<segment id="115" parent="283" relname="span">Instead of genuine collective work to bring Ukraine out of the crisis,</segment>
+		<segment id="113" parent="284" relname="reason-S">How is the issue of the status of the Russian language to be resolved?</segment>
+		<segment id="114" parent="289" relname="span">Can anyone seriously assert that all those activities by Kyiv are a solution to the political crisis aimed at stabilizing Ukraine?</segment>
+		<segment id="115" parent="273" relname="span">Instead of genuine collective work to bring Ukraine out of the crisis,</segment>
 		<segment id="116" parent="115" relname="e-elaboration">which was brought about by political misadventurism,</segment>
-		<segment id="117" parent="285" relname="list">our colleagues from the United States and the European Union have preferred to make strong insinuations against Russia</segment>
-		<segment id="118" parent="284" relname="span">and thinking up some sort of sanctions</segment>
+		<segment id="117" parent="275" relname="list">our colleagues from the United States and the European Union have preferred to make strong insinuations against Russia</segment>
+		<segment id="118" parent="274" relname="span">and thinking up some sort of sanctions</segment>
 		<segment id="119" parent="118" relname="evaluation-S">that are pointless and counterproductive.</segment>
 		<segment id="120" parent="121" relname="concession">Perhaps they are satisfactory to some one,</segment>
-		<segment id="121" parent="288" relname="span">but the responsibility for the future of Ukraine, Europe and the world is not being considered - at least not by these people.</segment>
-		<segment id="122" parent="305" relname="span">The result is that the Government in Kyiv has done nothing to implement the Geneva document.</segment>
-		<segment id="123" parent="289" relname="span">Our Western colleagues,</segment>
-		<segment id="124" parent="290" relname="span">first and foremost our American colleagues,</segment>
+		<segment id="121" parent="278" relname="span">but the responsibility for the future of Ukraine, Europe and the world is not being considered - at least not by these people.</segment>
+		<segment id="122" parent="290" relname="span">The result is that the Government in Kyiv has done nothing to implement the Geneva document.</segment>
+		<segment id="123" parent="279" relname="span">Our Western colleagues,</segment>
+		<segment id="124" parent="280" relname="span">first and foremost our American colleagues,</segment>
 		<segment id="125" parent="124" relname="e-elaboration">which have an unprecedented impact on the situation in Kyiv,</segment>
-		<segment id="126" parent="369" relname="span">do not want,</segment>
+		<segment id="126" parent="348" relname="span">do not want,</segment>
 		<segment id="127" parent="126" relname="concession">or have not been able,</segment>
-		<segment id="128" parent="291" relname="sameunit">to convince the Government to uphold its obligations under the document.</segment>
-		<segment id="129" parent="296" relname="span">They must clearly understand the scope of their responsibility</segment>
+		<segment id="128" parent="281" relname="sameunit">to convince the Government to uphold its obligations under the document.</segment>
+		<segment id="129" parent="282" relname="span">They must clearly understand the scope of their responsibility</segment>
 		<segment id="130" parent="129" relname="condition">if the situation in Ukraine continues to deteriorate.</segment>
-		<segment id="131" parent="309" relname="concession">It is very difficult for us in Russia to see the chaos in such a close, fraternal country.</segment>
-		<segment id="132" parent="309" relname="span">But we understand the reason</segment>
+		<segment id="131" parent="293" relname="concession">It is very difficult for us in Russia to see the chaos in such a close, fraternal country.</segment>
+		<segment id="132" parent="293" relname="span">But we understand the reason</segment>
 		<segment id="133" parent="132" relname="e-elaboration">that brought about the protests in the east and south.</segment>
-		<segment id="134" parent="312" relname="list">People do not want a repeat of the Kyiv scenario.</segment>
-		<segment id="135" parent="311" relname="span">They do not recognize the legitimacy of the Kyiv Government,</segment>
+		<segment id="134" parent="296" relname="list">People do not want a repeat of the Kyiv scenario.</segment>
+		<segment id="135" parent="295" relname="span">They do not recognize the legitimacy of the Kyiv Government,</segment>
 		<segment id="136" parent="135" relname="e-elaboration">which is made up of oligarchs.</segment>
-		<segment id="137" parent="312" relname="list">They have decided to create their own governing bodies.</segment>
-		<segment id="138" parent="322" relname="result">In response, they have been accused of terrorism and punished by military operations.</segment>
-		<segment id="139" parent="325" relname="span">We call upon the Kyiv regime and its Western sponsors to think twice.</segment>
-		<segment id="140" parent="313" relname="conjunction">There is a need to lift the order on using arms against civilians,</segment>
-		<segment id="141" parent="313" relname="conjunction">as well as to free the political prisoners and disarm the Right Sector.</segment>
-		<segment id="142" parent="324" relname="list">A full constitutional process must take place, including representatives from all regions.</segment>
-		<segment id="143" parent="318" relname="attribution">We hope</segment>
-		<segment id="144" parent="314" relname="span">that the OSCE mission,</segment>
+		<segment id="137" parent="296" relname="list">They have decided to create their own governing bodies.</segment>
+		<segment id="138" parent="306" relname="result">In response, they have been accused of terrorism and punished by military operations.</segment>
+		<segment id="139" parent="309" relname="span">We call upon the Kyiv regime and its Western sponsors to think twice.</segment>
+		<segment id="140" parent="297" relname="conjunction">There is a need to lift the order on using arms against civilians,</segment>
+		<segment id="141" parent="297" relname="conjunction">as well as to free the political prisoners and disarm the Right Sector.</segment>
+		<segment id="142" parent="308" relname="list">A full constitutional process must take place, including representatives from all regions.</segment>
+		<segment id="143" parent="302" relname="attribution">We hope</segment>
+		<segment id="144" parent="298" relname="span">that the OSCE mission,</segment>
 		<segment id="145" parent="144" relname="e-elaboration">headed by Mr. Apakan,</segment>
-		<segment id="146" parent="314" relname="e-elaboration">which plays a particular role in the implementation of the Geneva agreement,</segment>
-		<segment id="147" parent="317" relname="conjunction">will provide the Kyiv Government with assistance in establishing national dialogue</segment>
-		<segment id="148" parent="317" relname="conjunction">and seeking understanding with the people in the south-east.</segment>
-		<segment id="149" parent="320" relname="span">However, the most important work to de-escalate should be done by the Kyiv Government</segment>
+		<segment id="146" parent="298" relname="e-elaboration">which plays a particular role in the implementation of the Geneva agreement,</segment>
+		<segment id="147" parent="301" relname="conjunction">will provide the Kyiv Government with assistance in establishing national dialogue</segment>
+		<segment id="148" parent="301" relname="conjunction">and seeking understanding with the people in the south-east.</segment>
+		<segment id="149" parent="304" relname="span">However, the most important work to de-escalate should be done by the Kyiv Government</segment>
 		<segment id="150" parent="149" relname="evaluation-S">- as they call themselves.</segment>
-		<segment id="151" parent="352" relname="preparation">I should now like to say a few words with regard to the issues touched on by colleagues.</segment>
-		<segment id="152" parent="329" relname="conjunction">On the OSCE monitors in Sloviansk, they were requested by the Kyiv Government,</segment>
-		<segment id="153" parent="329" relname="conjunction">and as such were responsible for their security.</segment>
-		<segment id="154" parent="330" relname="span">How can people be sent on a bus to an area</segment>
+		<segment id="151" parent="336" relname="preparation">I should now like to say a few words with regard to the issues touched on by colleagues.</segment>
+		<segment id="152" parent="313" relname="conjunction">On the OSCE monitors in Sloviansk, they were requested by the Kyiv Government,</segment>
+		<segment id="153" parent="313" relname="conjunction">and as such were responsible for their security.</segment>
+		<segment id="154" parent="314" relname="span">How can people be sent on a bus to an area</segment>
 		<segment id="155" parent="154" relname="e-elaboration">controlled by self-defence forces,</segment>
-		<segment id="156" parent="331" relname="span">without even providing documents</segment>
+		<segment id="156" parent="315" relname="span">without even providing documents</segment>
 		<segment id="157" parent="156" relname="e-elaboration">that would confirm their status?</segment>
-		<segment id="158" parent="333" relname="conjunction">That was either a provocation by the Kyiv Government</segment>
-		<segment id="159" parent="333" relname="conjunction">or just simple stupidity.</segment>
-		<segment id="160" parent="334" relname="conjunction">We are doing everything we can for the freeing of those prisoners,</segment>
-		<segment id="161" parent="334" relname="conjunction">and one has already been released due to health reasons.</segment>
-		<segment id="162" parent="338" relname="span">With regard to armed forces, our armed forces are on Russian territory.</segment>
-		<segment id="163" parent="337" relname="span">American forces are hardly at home.</segment>
-		<segment id="164" parent="336" relname="span">They are in Australia, Lithuania, Poland and on the Black Sea,</segment>
-		<segment id="165" parent="335" relname="span">where an American vessel has remained longer</segment>
+		<segment id="158" parent="317" relname="conjunction">That was either a provocation by the Kyiv Government</segment>
+		<segment id="159" parent="317" relname="conjunction">or just simple stupidity.</segment>
+		<segment id="160" parent="318" relname="conjunction">We are doing everything we can for the freeing of those prisoners,</segment>
+		<segment id="161" parent="318" relname="conjunction">and one has already been released due to health reasons.</segment>
+		<segment id="162" parent="322" relname="span">With regard to armed forces, our armed forces are on Russian territory.</segment>
+		<segment id="163" parent="321" relname="span">American forces are hardly at home.</segment>
+		<segment id="164" parent="320" relname="span">They are in Australia, Lithuania, Poland and on the Black Sea,</segment>
+		<segment id="165" parent="319" relname="span">where an American vessel has remained longer</segment>
 		<segment id="166" parent="165" relname="e-elaboration">than it was invited to do.</segment>
-		<segment id="167" parent="339" relname="concession">Yes, our troops do conduct training exercises.</segment>
-		<segment id="168" parent="339" relname="span">But they do so in atransparent manner</segment>
+		<segment id="167" parent="323" relname="concession">Yes, our troops do conduct training exercises.</segment>
+		<segment id="168" parent="323" relname="span">But they do so in atransparent manner</segment>
 		<segment id="169" parent="168" relname="elaboration">and while upholding all existing international agreements.</segment>
-		<segment id="170" parent="343" relname="span">We do not have any aggressive intentions towards Ukraine.</segment>
-		<segment id="171" parent="342" relname="conjunction">They Kyiv Government should keep a cool head</segment>
-		<segment id="172" parent="341" relname="span">and not engage in reckless activities with respect to the people in the south-east of the country,</segment>
+		<segment id="170" parent="327" relname="span">We do not have any aggressive intentions towards Ukraine.</segment>
+		<segment id="171" parent="326" relname="conjunction">They Kyiv Government should keep a cool head</segment>
+		<segment id="172" parent="325" relname="span">and not engage in reckless activities with respect to the people in the south-east of the country,</segment>
 		<segment id="173" parent="172" relname="e-elaboration">where there are many Russian citizens as well.</segment>
 		<group id="174" type="span" parent="175" relname="sameunit"/>
 		<group id="175" type="multinuc" parent="1" relname="background"/>
 		<group id="176" type="span" parent="179" relname="joint"/>
 		<group id="177" type="span" parent="178" relname="span"/>
 		<group id="178" type="span" parent="179" relname="joint"/>
-		<group id="179" type="multinuc" parent="380" relname="background"/>
+		<group id="179" type="multinuc" parent="359" relname="background"/>
 		<group id="180" type="span" parent="184" relname="antithesis"/>
 		<group id="181" type="span" parent="182" relname="sameunit"/>
 		<group id="182" type="multinuc" parent="183" relname="span"/>
@@ -247,7 +247,7 @@
 		<group id="206" type="span" parent="207" relname="span"/>
 		<group id="207" type="span" parent="203" relname="e-elaboration"/>
 		<group id="208" type="span" parent="198" relname="elaboration"/>
-		<group id="209" type="span" parent="373" relname="span"/>
+		<group id="209" type="span" parent="352" relname="span"/>
 		<group id="210" type="span" parent="211" relname="sameunit"/>
 		<group id="211" type="multinuc" parent="212" relname="span"/>
 		<group id="212" type="span" parent="213" relname="span"/>
@@ -260,144 +260,143 @@
 		<group id="219" type="span" parent="217" relname="evidence"/>
 		<group id="220" type="span" parent="221" relname="elaboration"/>
 		<group id="221" type="span" parent="222" relname="span"/>
-		<group id="222" type="span" parent="231" relname="background"/>
+		<group id="222" type="span" parent="230" relname="background"/>
 		<group id="223" type="span" parent="226" relname="antithesis"/>
 		<group id="224" type="span" parent="225" relname="conjunction"/>
 		<group id="225" type="multinuc" parent="226" relname="span"/>
 		<group id="226" type="span" parent="227" relname="span"/>
 		<group id="227" type="span" parent="55" relname="result"/>
-		<group id="228" type="span" parent="231" relname="span"/>
-		<group id="229" type="span" parent="370" relname="elaboration"/>
-		<group id="231" type="span" parent="232" relname="span"/>
-		<group id="232" type="span" parent="209" relname="elaboration"/>
-		<group id="234" type="span" parent="235" relname="sameunit"/>
-		<group id="235" type="multinuc" parent="247" relname="span"/>
-		<group id="236" type="span" parent="235" relname="sameunit"/>
-		<group id="237" type="span" parent="238" relname="sameunit"/>
-		<group id="238" type="multinuc" parent="240" relname="attribution"/>
-		<group id="239" type="multinuc" parent="240" relname="span"/>
-		<group id="240" type="span" parent="241" relname="span"/>
-		<group id="241" type="span" parent="355" relname="elaboration"/>
-		<group id="242" type="span" parent="245" relname="span"/>
+		<group id="228" type="span" parent="230" relname="span"/>
+		<group id="229" type="span" parent="349" relname="elaboration"/>
+		<group id="230" type="span" parent="231" relname="span"/>
+		<group id="231" type="span" parent="209" relname="elaboration"/>
+		<group id="232" type="span" parent="233" relname="sameunit"/>
+		<group id="233" type="multinuc" parent="245" relname="span"/>
+		<group id="234" type="span" parent="233" relname="sameunit"/>
+		<group id="235" type="span" parent="236" relname="sameunit"/>
+		<group id="236" type="multinuc" parent="238" relname="attribution"/>
+		<group id="237" type="multinuc" parent="238" relname="span"/>
+		<group id="238" type="span" parent="239" relname="span"/>
+		<group id="239" type="span" parent="339" relname="elaboration"/>
+		<group id="240" type="span" parent="243" relname="span"/>
+		<group id="241" type="span" parent="242" relname="span"/>
+		<group id="242" type="span" parent="240" relname="evidence"/>
 		<group id="243" type="span" parent="244" relname="span"/>
-		<group id="244" type="span" parent="242" relname="evidence"/>
+		<group id="244" type="span" parent="342" relname="span"/>
 		<group id="245" type="span" parent="246" relname="span"/>
-		<group id="246" type="span" parent="363" relname="span"/>
-		<group id="247" type="span" parent="248" relname="span"/>
-		<group id="248" type="span" parent="249" relname="span"/>
-		<group id="249" type="span" parent="246" relname="background"/>
-		<group id="253" type="span" parent="254" relname="concession"/>
-		<group id="254" type="span" parent="261" relname="span"/>
-		<group id="255" type="multinuc" parent="367" relname="elaboration"/>
-		<group id="256" type="span" parent="257" relname="sameunit"/>
-		<group id="257" type="multinuc" parent="264" relname="span"/>
-		<group id="258" type="span" parent="95" relname="cause"/>
-		<group id="260" type="multinuc" parent="272" relname="span"/>
-		<group id="261" type="span" parent="367" relname="span"/>
-		<group id="264" type="span" parent="266" relname="span"/>
-		<group id="265" type="multinuc" parent="264" relname="elaboration"/>
-		<group id="266" type="span" parent="267" relname="list"/>
-		<group id="267" type="multinuc" parent="272" relname="background"/>
-		<group id="268" type="span" parent="269" relname="background"/>
-		<group id="269" type="span" parent="271" relname="span"/>
-		<group id="271" type="span" parent="274" relname="joint"/>
-		<group id="272" type="span" parent="273" relname="span"/>
-		<group id="273" type="span" parent="274" relname="joint"/>
-		<group id="274" type="multinuc" parent="372" relname="list"/>
-		<group id="275" type="span" parent="276" relname="span"/>
-		<group id="276" type="span" parent="300" relname="background"/>
-		<group id="277" type="span" parent="109" relname="cause"/>
-		<group id="278" type="span" parent="279" relname="sameunit"/>
-		<group id="279" type="multinuc" parent="105" relname="evidence"/>
-		<group id="280" type="span" parent="277" relname="span"/>
-		<group id="282" type="span" parent="297" relname="reason-S"/>
-		<group id="283" type="span" parent="286" relname="antithesis"/>
-		<group id="284" type="span" parent="285" relname="list"/>
-		<group id="285" type="multinuc" parent="286" relname="span"/>
+		<group id="246" type="span" parent="247" relname="span"/>
+		<group id="247" type="span" parent="244" relname="background"/>
+		<group id="248" type="span" parent="249" relname="concession"/>
+		<group id="249" type="span" parent="255" relname="span"/>
+		<group id="250" type="multinuc" parent="346" relname="elaboration"/>
+		<group id="251" type="span" parent="252" relname="sameunit"/>
+		<group id="252" type="multinuc" parent="256" relname="span"/>
+		<group id="253" type="span" parent="95" relname="cause"/>
+		<group id="254" type="multinuc" parent="263" relname="span"/>
+		<group id="255" type="span" parent="346" relname="span"/>
+		<group id="256" type="span" parent="258" relname="span"/>
+		<group id="257" type="multinuc" parent="256" relname="elaboration"/>
+		<group id="258" type="span" parent="259" relname="list"/>
+		<group id="259" type="multinuc" parent="263" relname="background"/>
+		<group id="260" type="span" parent="261" relname="background"/>
+		<group id="261" type="span" parent="262" relname="span"/>
+		<group id="262" type="span" parent="265" relname="joint"/>
+		<group id="263" type="span" parent="264" relname="span"/>
+		<group id="264" type="span" parent="265" relname="joint"/>
+		<group id="265" type="multinuc" parent="351" relname="list"/>
+		<group id="266" type="span" parent="286" relname="background"/>
+		<group id="268" type="span" parent="109" relname="cause"/>
+		<group id="269" type="span" parent="270" relname="sameunit"/>
+		<group id="270" type="multinuc" parent="105" relname="evidence"/>
+		<group id="271" type="span" parent="268" relname="span"/>
+		<group id="272" type="span" parent="283" relname="reason-S"/>
+		<group id="273" type="span" parent="276" relname="antithesis"/>
+		<group id="274" type="span" parent="275" relname="list"/>
+		<group id="275" type="multinuc" parent="276" relname="span"/>
+		<group id="276" type="span" parent="277" relname="span"/>
+		<group id="277" type="span" parent="278" relname="background"/>
+		<group id="278" type="span" parent="344" relname="span"/>
+		<group id="279" type="span" parent="281" relname="sameunit"/>
+		<group id="280" type="span" parent="123" relname="e-elaboration"/>
+		<group id="281" type="multinuc" parent="282" relname="reason-S"/>
+		<group id="282" type="span" parent="288" relname="span"/>
+		<group id="283" type="span" parent="284" relname="span"/>
+		<group id="284" type="span" parent="286" relname="span"/>
+		<group id="285" type="span" parent="110" relname="e-elaboration"/>
 		<group id="286" type="span" parent="287" relname="span"/>
-		<group id="287" type="span" parent="288" relname="background"/>
-		<group id="288" type="span" parent="365" relname="span"/>
-		<group id="289" type="span" parent="291" relname="sameunit"/>
-		<group id="290" type="span" parent="123" relname="e-elaboration"/>
-		<group id="291" type="multinuc" parent="296" relname="reason-S"/>
-		<group id="296" type="span" parent="302" relname="span"/>
-		<group id="297" type="span" parent="298" relname="span"/>
-		<group id="298" type="span" parent="300" relname="span"/>
-		<group id="299" type="span" parent="110" relname="e-elaboration"/>
-		<group id="300" type="span" parent="301" relname="span"/>
-		<group id="301" type="span" parent="114" relname="evidence"/>
-		<group id="302" type="span" parent="305" relname="elaboration"/>
-		<group id="304" type="span" parent="307" relname="span"/>
-		<group id="305" type="span" parent="306" relname="span"/>
-		<group id="306" type="span" parent="304" relname="elaboration"/>
-		<group id="307" type="span" parent="372" relname="list"/>
-		<group id="309" type="span" parent="310" relname="span"/>
-		<group id="310" type="span" parent="321" relname="span"/>
-		<group id="311" type="span" parent="312" relname="list"/>
-		<group id="312" type="multinuc" parent="322" relname="span"/>
-		<group id="313" type="multinuc" parent="324" relname="list"/>
-		<group id="314" type="span" parent="315" relname="span"/>
-		<group id="315" type="span" parent="316" relname="sameunit"/>
-		<group id="316" type="multinuc" parent="318" relname="span"/>
-		<group id="317" type="multinuc" parent="316" relname="sameunit"/>
-		<group id="318" type="span" parent="319" relname="span"/>
-		<group id="319" type="span" parent="320" relname="concession"/>
-		<group id="320" type="span" parent="326" relname="span"/>
-		<group id="321" type="span" parent="325" relname="cause"/>
-		<group id="322" type="span" parent="323" relname="span"/>
-		<group id="323" type="span" parent="310" relname="e-elaboration"/>
-		<group id="324" type="multinuc" parent="139" relname="reason-S"/>
-		<group id="325" type="span" parent="327" relname="span"/>
-		<group id="326" type="span" parent="328" relname="joint"/>
-		<group id="327" type="span" parent="328" relname="joint"/>
-		<group id="328" type="multinuc" parent="377" relname="span"/>
-		<group id="329" type="multinuc" parent="346" relname="span"/>
-		<group id="330" type="span" parent="332" relname="span"/>
-		<group id="331" type="span" parent="330" relname="e-elaboration"/>
-		<group id="332" type="span" parent="346" relname="elaboration"/>
-		<group id="333" type="multinuc" parent="347" relname="evaluation-S"/>
-		<group id="334" type="multinuc" parent="348" relname="elaboration"/>
-		<group id="335" type="span" parent="164" relname="e-elaboration"/>
-		<group id="336" type="span" parent="163" relname="elaboration"/>
-		<group id="337" type="span" parent="162" relname="interpretation"/>
-		<group id="338" type="span" parent="340" relname="background"/>
-		<group id="339" type="span" parent="340" relname="span"/>
-		<group id="340" type="span" parent="350" relname="span"/>
-		<group id="341" type="span" parent="342" relname="conjunction"/>
-		<group id="342" type="multinuc" parent="344" relname="span"/>
-		<group id="343" type="span" parent="344" relname="reason-S"/>
-		<group id="344" type="span" parent="345" relname="span"/>
-		<group id="345" type="span" parent="351" relname="list"/>
-		<group id="346" type="span" parent="347" relname="span"/>
-		<group id="347" type="span" parent="348" relname="span"/>
-		<group id="348" type="span" parent="349" relname="span"/>
-		<group id="349" type="span" parent="351" relname="list"/>
-		<group id="350" type="span" parent="170" relname="background"/>
-		<group id="351" type="multinuc" parent="352" relname="span"/>
+		<group id="287" type="span" parent="114" relname="evidence"/>
+		<group id="288" type="span" parent="290" relname="elaboration"/>
+		<group id="289" type="span" parent="292" relname="span"/>
+		<group id="290" type="span" parent="291" relname="span"/>
+		<group id="291" type="span" parent="289" relname="elaboration"/>
+		<group id="292" type="span" parent="351" relname="list"/>
+		<group id="293" type="span" parent="294" relname="span"/>
+		<group id="294" type="span" parent="305" relname="span"/>
+		<group id="295" type="span" parent="296" relname="list"/>
+		<group id="296" type="multinuc" parent="306" relname="span"/>
+		<group id="297" type="multinuc" parent="308" relname="list"/>
+		<group id="298" type="span" parent="299" relname="span"/>
+		<group id="299" type="span" parent="300" relname="sameunit"/>
+		<group id="300" type="multinuc" parent="302" relname="span"/>
+		<group id="301" type="multinuc" parent="300" relname="sameunit"/>
+		<group id="302" type="span" parent="303" relname="span"/>
+		<group id="303" type="span" parent="304" relname="concession"/>
+		<group id="304" type="span" parent="310" relname="span"/>
+		<group id="305" type="span" parent="309" relname="cause"/>
+		<group id="306" type="span" parent="307" relname="span"/>
+		<group id="307" type="span" parent="294" relname="e-elaboration"/>
+		<group id="308" type="multinuc" parent="139" relname="reason-S"/>
+		<group id="309" type="span" parent="311" relname="span"/>
+		<group id="310" type="span" parent="312" relname="joint"/>
+		<group id="311" type="span" parent="312" relname="joint"/>
+		<group id="312" type="multinuc" parent="356" relname="span"/>
+		<group id="313" type="multinuc" parent="330" relname="span"/>
+		<group id="314" type="span" parent="316" relname="span"/>
+		<group id="315" type="span" parent="314" relname="e-elaboration"/>
+		<group id="316" type="span" parent="330" relname="elaboration"/>
+		<group id="317" type="multinuc" parent="331" relname="evaluation-S"/>
+		<group id="318" type="multinuc" parent="332" relname="elaboration"/>
+		<group id="319" type="span" parent="164" relname="e-elaboration"/>
+		<group id="320" type="span" parent="163" relname="elaboration"/>
+		<group id="321" type="span" parent="162" relname="interpretation"/>
+		<group id="322" type="span" parent="324" relname="background"/>
+		<group id="323" type="span" parent="324" relname="span"/>
+		<group id="324" type="span" parent="334" relname="span"/>
+		<group id="325" type="span" parent="326" relname="conjunction"/>
+		<group id="326" type="multinuc" parent="328" relname="span"/>
+		<group id="327" type="span" parent="328" relname="reason-S"/>
+		<group id="328" type="span" parent="329" relname="span"/>
+		<group id="329" type="span" parent="335" relname="list"/>
+		<group id="330" type="span" parent="331" relname="span"/>
+		<group id="331" type="span" parent="332" relname="span"/>
+		<group id="332" type="span" parent="333" relname="span"/>
+		<group id="333" type="span" parent="335" relname="list"/>
+		<group id="334" type="span" parent="170" relname="background"/>
+		<group id="335" type="multinuc" parent="336" relname="span"/>
+		<group id="336" type="span" parent="337" relname="span"/>
+		<group id="337" type="span" parent="358" relname="joint"/>
+		<group id="338" type="multinuc" parent="340" relname="span"/>
+		<group id="339" type="span" parent="341" relname="span"/>
+		<group id="340" type="span" parent="339" relname="span"/>
+		<group id="341" type="span" parent="245" relname="evaluation-S"/>
+		<group id="342" type="span" parent="352" relname="elaboration"/>
+		<group id="343" type="span" parent="246" relname="antithesis"/>
+		<group id="344" type="span" parent="122" relname="cause"/>
+		<group id="345" type="span" parent="259" relname="list"/>
+		<group id="346" type="span" parent="345" relname="span"/>
+		<group id="347" type="span" parent="259" relname="list"/>
+		<group id="348" type="span" parent="281" relname="sameunit"/>
+		<group id="349" type="span" parent="350" relname="span"/>
+		<group id="350" type="span" parent="228" relname="elaboration"/>
+		<group id="351" type="multinuc" parent="354" relname="span"/>
 		<group id="352" type="span" parent="353" relname="span"/>
-		<group id="353" type="span" parent="379" relname="joint"/>
-		<group id="354" type="multinuc" parent="360" relname="span"/>
-		<group id="355" type="span" parent="361" relname="span"/>
-		<group id="360" type="span" parent="355" relname="span"/>
-		<group id="361" type="span" parent="247" relname="evaluation-S"/>
-		<group id="363" type="span" parent="373" relname="elaboration"/>
-		<group id="364" type="span" parent="248" relname="antithesis"/>
-		<group id="365" type="span" parent="122" relname="cause"/>
-		<group id="366" type="span" parent="267" relname="list"/>
-		<group id="367" type="span" parent="366" relname="span"/>
-		<group id="368" type="span" parent="267" relname="list"/>
-		<group id="369" type="span" parent="291" relname="sameunit"/>
-		<group id="370" type="span" parent="371" relname="span"/>
-		<group id="371" type="span" parent="228" relname="elaboration"/>
-		<group id="372" type="multinuc" parent="375" relname="span"/>
-		<group id="373" type="span" parent="374" relname="span"/>
-		<group id="374" type="span" parent="375" relname="antithesis"/>
-		<group id="375" type="span" parent="376" relname="span"/>
-		<group id="376" type="span" parent="377" relname="cause"/>
-		<group id="377" type="span" parent="378" relname="span"/>
-		<group id="378" type="span" parent="379" relname="joint"/>
-		<group id="379" type="multinuc" parent="380" relname="span"/>
-		<group id="380" type="span" parent="381" relname="span"/>
-		<group id="381" type="span" />
+		<group id="353" type="span" parent="354" relname="antithesis"/>
+		<group id="354" type="span" parent="355" relname="span"/>
+		<group id="355" type="span" parent="356" relname="cause"/>
+		<group id="356" type="span" parent="357" relname="span"/>
+		<group id="357" type="span" parent="358" relname="joint"/>
+		<group id="358" type="multinuc" parent="359" relname="span"/>
+		<group id="359" type="span" parent="360" relname="span"/>
+		<group id="360" type="span" />
 	</body>
 </rst>

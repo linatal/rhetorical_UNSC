@@ -56,20 +56,20 @@
 		<segment id="15" parent="40" relname="span">Secondly,</segment>
 		<segment id="16" parent="15" relname="elaboration">with regard to the statement made by my American colleague Ms. Power,</segment>
 		<segment id="17" parent="41" relname="sameunit">she did not mention her view on the decree to use armed force in eastern Ukraine.</segment>
-		<segment id="18" parent="50" relname="attribution">I hope</segment>
+		<segment id="18" parent="48" relname="attribution">I hope</segment>
 		<segment id="19" parent="42" relname="span">that,</segment>
-		<segment id="20" parent="59" relname="span">as the Ukrainian representative has called for,</segment>
+		<segment id="20" parent="57" relname="span">as the Ukrainian representative has called for,</segment>
 		<segment id="21" parent="20" relname="circumstance">following today's discussion</segment>
 		<segment id="22" parent="43" relname="sameunit">some Western colleagues and partners will pick up the telephone</segment>
-		<segment id="23" parent="60" relname="conjunction">and call their leaders</segment>
-		<segment id="24" parent="45" relname="span">and those in Kyiv with whom they enjoy influence,</segment>
-		<segment id="25" parent="46" relname="span">who may not act</segment>
+		<segment id="23" parent="58" relname="conjunction">and call their leaders</segment>
+		<segment id="24" parent="44" relname="span">and those in Kyiv with whom they enjoy influence,</segment>
+		<segment id="25" parent="45" relname="span">who may not act</segment>
 		<segment id="26" parent="25" relname="unless">unless they get the green light from Western capitals.</segment>
-		<segment id="27" parent="47" relname="conjunction">I would ask my colleagues to give them the red light</segment>
-		<segment id="28" parent="48" relname="span">and tell them</segment>
-		<segment id="29" parent="52" relname="span">that problems can be resolved through dialogue</segment>
+		<segment id="27" parent="46" relname="conjunction">I would ask my colleagues to give them the red light</segment>
+		<segment id="28" parent="47" relname="span">and tell them</segment>
+		<segment id="29" parent="50" relname="span">that problems can be resolved through dialogue</segment>
 		<segment id="30" parent="29" relname="antithesis">and not military confrontation.</segment>
-		<group id="31" type="span" parent="57" relname="preparation"/>
+		<group id="31" type="span" parent="55" relname="preparation"/>
 		<group id="32" type="span" parent="33" relname="contrast"/>
 		<group id="33" type="multinuc" parent="38" relname="reason-S"/>
 		<group id="34" type="multinuc" parent="35" relname="list"/>
@@ -77,25 +77,25 @@
 		<group id="36" type="span" parent="35" relname="list"/>
 		<group id="37" type="span" parent="35" relname="list"/>
 		<group id="38" type="span" parent="39" relname="span"/>
-		<group id="39" type="span" parent="56" relname="list"/>
+		<group id="39" type="span" parent="54" relname="list"/>
 		<group id="40" type="span" parent="41" relname="sameunit"/>
-		<group id="41" type="multinuc" parent="54" relname="preparation"/>
+		<group id="41" type="multinuc" parent="52" relname="preparation"/>
 		<group id="42" type="span" parent="43" relname="sameunit"/>
-		<group id="43" type="multinuc" parent="60" relname="conjunction"/>
-		<group id="45" type="span" parent="60" relname="conjunction"/>
-		<group id="46" type="span" parent="24" relname="e-elaboration"/>
-		<group id="47" type="multinuc" parent="53" relname="list"/>
-		<group id="48" type="span" parent="47" relname="conjunction"/>
-		<group id="50" type="span" parent="51" relname="span"/>
-		<group id="51" type="span" parent="53" relname="list"/>
-		<group id="52" type="span" parent="28" relname="elaboration"/>
-		<group id="53" type="multinuc" parent="54" relname="span"/>
-		<group id="54" type="span" parent="55" relname="span"/>
-		<group id="55" type="span" parent="56" relname="list"/>
-		<group id="56" type="multinuc" parent="57" relname="span"/>
-		<group id="57" type="span" parent="58" relname="span"/>
-		<group id="58" type="span" />
-		<group id="59" type="span" parent="19" relname="elaboration"/>
-		<group id="60" type="multinuc" parent="50" relname="span"/>
+		<group id="43" type="multinuc" parent="58" relname="conjunction"/>
+		<group id="44" type="span" parent="58" relname="conjunction"/>
+		<group id="45" type="span" parent="24" relname="e-elaboration"/>
+		<group id="46" type="multinuc" parent="51" relname="list"/>
+		<group id="47" type="span" parent="46" relname="conjunction"/>
+		<group id="48" type="span" parent="49" relname="span"/>
+		<group id="49" type="span" parent="51" relname="list"/>
+		<group id="50" type="span" parent="28" relname="elaboration"/>
+		<group id="51" type="multinuc" parent="52" relname="span"/>
+		<group id="52" type="span" parent="53" relname="span"/>
+		<group id="53" type="span" parent="54" relname="list"/>
+		<group id="54" type="multinuc" parent="55" relname="span"/>
+		<group id="55" type="span" parent="56" relname="span"/>
+		<group id="56" type="span" />
+		<group id="57" type="span" parent="19" relname="elaboration"/>
+		<group id="58" type="multinuc" parent="48" relname="span"/>
 	</body>
 </rst>

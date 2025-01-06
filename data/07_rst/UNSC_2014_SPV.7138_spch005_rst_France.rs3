@@ -54,7 +54,7 @@
 		<segment id="13" parent="122" relname="span">The violation of international law is so obvious at this point</segment>
 		<segment id="14" parent="120" relname="span">that one almost feels pity at seeing Russian diplomacy</segment>
 		<segment id="15" parent="14" relname="reason-S">- so formalistic, so finicky in its respect for proprieties and its invocation of texts -</segment>
-		<segment id="16" parent="212" relname="span">struggling to find a legal basis for the coup.</segment>
+		<segment id="16" parent="211" relname="span">struggling to find a legal basis for the coup.</segment>
 		<segment id="17" parent="123" relname="span">One day, they brandish an alleged letter from the Head of State</segment>
 		<segment id="18" parent="17" relname="e-elaboration">who is on the run,</segment>
 		<segment id="19" parent="124" relname="sequence">and only an unsigned version of that letter is released,</segment>
@@ -70,9 +70,9 @@
 		<segment id="29" parent="132" relname="span">that shaky comparison</segment>
 		<segment id="30" parent="29" relname="elaboration">- even if one accepts it -</segment>
 		<segment id="31" parent="133" relname="sameunit">proves that Russia was wrong in 1976 or is wrong now, in 2014.</segment>
-		<segment id="32" parent="213" relname="span">It must choose.</segment>
-		<segment id="33" parent="211" relname="attribution">I think,</segment>
-		<segment id="34" parent="211" relname="span">however, that my Russian colleague and I will find common ground in a key sentence from the speech of the Soviet Permanent Representative in 1976 on the question of Mayotte,</segment>
+		<segment id="32" parent="212" relname="span">It must choose.</segment>
+		<segment id="33" parent="210" relname="attribution">I think,</segment>
+		<segment id="34" parent="210" relname="span">however, that my Russian colleague and I will find common ground in a key sentence from the speech of the Soviet Permanent Representative in 1976 on the question of Mayotte,</segment>
 		<segment id="35" parent="36" relname="attribution">who said:</segment>
 		<segment id="36" parent="140" relname="span">"Any attempt aimed at the partial or total disruption of the national unity and the integrity territory of a country is incompatible with the purposes and principles of the Charter of the United Nations."</segment>
 		<segment id="37" parent="140" relname="evidence">(S/PVI888, p. 8).</segment>
@@ -105,7 +105,7 @@
 		<segment id="64" parent="167" relname="span">We therefore look to history.</segment>
 		<segment id="65" parent="172" relname="span">Crimea was Russian from 1783 to 1954.</segment>
 		<segment id="66" parent="170" relname="topic-comment">What does that mean?</segment>
-		<segment id="67" parent="221" relname="span">Will we take out our history books</segment>
+		<segment id="67" parent="220" relname="span">Will we take out our history books</segment>
 		<segment id="68" parent="67" relname="purpose">to review our borders or challenge or defend them?</segment>
 		<segment id="69" parent="169" relname="sequence">What date will we go back to?</segment>
 		<segment id="70" parent="71" relname="concession">After all, Crimea was Russian for 170 years</segment>
@@ -131,24 +131,24 @@
 		<segment id="90" parent="89" relname="circumstance">as of this very moment,</segment>
 		<segment id="91" parent="190" relname="conjunction">thousands of innocent lives in Syria and elsewhere.</segment>
 		<segment id="92" parent="93" relname="condition">To accept the annexation of Crimea</segment>
-		<segment id="93" parent="222" relname="span">would be to give up everything that we are trying to build in this Organization.</segment>
+		<segment id="93" parent="221" relname="span">would be to give up everything that we are trying to build in this Organization.</segment>
 		<segment id="94" parent="194" relname="list">It would make a mockery of the Charter of the United Nations.</segment>
 		<segment id="95" parent="194" relname="list">It would once again make the sword the supreme arbiter of disputes.</segment>
-		<segment id="96" parent="197" relname="span">The vast majority of Member States will prove,</segment>
+		<segment id="96" parent="196" relname="span">The vast majority of Member States will prove,</segment>
 		<segment id="97" parent="96" relname="enablement">by their refusal to recognize the annexation of the Crimea,</segment>
 		<segment id="98" parent="99" relname="attribution">that they know</segment>
-		<segment id="99" parent="198" relname="span">that the territorial integrity of one of them is the guarantor of the territorial integrity of all.</segment>
-		<segment id="100" parent="200" relname="circumstance">There are minorities all over the world.</segment>
-		<segment id="101" parent="200" relname="span">What would become of us</segment>
+		<segment id="99" parent="197" relname="span">that the territorial integrity of one of them is the guarantor of the territorial integrity of all.</segment>
+		<segment id="100" parent="199" relname="circumstance">There are minorities all over the world.</segment>
+		<segment id="101" parent="199" relname="span">What would become of us</segment>
 		<segment id="102" parent="101" relname="condition">if they became the pretext for any kind of adventure to be undertaken by an ambitious and enterprising neighbour?</segment>
-		<segment id="103" parent="202" relname="list">What will be the next Crimea?</segment>
-		<segment id="104" parent="202" relname="list">The annexation goes beyond Ukraine.</segment>
-		<segment id="105" parent="202" relname="list">It affects us all.</segment>
-		<segment id="106" parent="210" relname="span">The veto should be a defeat for Russia alone.</segment>
-		<segment id="107" parent="209" relname="span">It should not take us with it.</segment>
-		<segment id="108" parent="208" relname="span">We must remain steadfast in our commitment to the principles it embodies,</segment>
-		<segment id="109" parent="207" relname="list">which are at the heart of the Charter of the United Nations,</segment>
-		<segment id="110" parent="206" relname="span">are our best defence against the return of a past</segment>
+		<segment id="103" parent="201" relname="list">What will be the next Crimea?</segment>
+		<segment id="104" parent="201" relname="list">The annexation goes beyond Ukraine.</segment>
+		<segment id="105" parent="201" relname="list">It affects us all.</segment>
+		<segment id="106" parent="209" relname="span">The veto should be a defeat for Russia alone.</segment>
+		<segment id="107" parent="208" relname="span">It should not take us with it.</segment>
+		<segment id="108" parent="207" relname="span">We must remain steadfast in our commitment to the principles it embodies,</segment>
+		<segment id="109" parent="206" relname="list">which are at the heart of the Charter of the United Nations,</segment>
+		<segment id="110" parent="205" relname="span">are our best defence against the return of a past</segment>
 		<segment id="111" parent="110" relname="e-elaboration">in which Russian aggression against Ukraine emerges.</segment>
 		<group id="112" type="span" parent="119" relname="span"/>
 		<group id="113" type="span" parent="114" relname="list"/>
@@ -157,7 +157,7 @@
 		<group id="116" type="span" parent="117" relname="span"/>
 		<group id="117" type="span" parent="9" relname="e-elaboration"/>
 		<group id="118" type="span" parent="112" relname="reason-S"/>
-		<group id="119" type="span" parent="219" relname="circumstance"/>
+		<group id="119" type="span" parent="218" relname="circumstance"/>
 		<group id="120" type="span" parent="121" relname="sameunit"/>
 		<group id="121" type="multinuc" parent="13" relname="result"/>
 		<group id="122" type="span" parent="32" relname="reason-S"/>
@@ -176,7 +176,7 @@
 		<group id="135" type="span" parent="136" relname="sameunit"/>
 		<group id="136" type="multinuc" parent="26" relname="result"/>
 		<group id="137" type="span" parent="130" relname="elaboration"/>
-		<group id="138" type="span" parent="213" relname="enablement"/>
+		<group id="138" type="span" parent="212" relname="enablement"/>
 		<group id="139" type="span" parent="34" relname="e-elaboration"/>
 		<group id="140" type="span" parent="139" relname="span"/>
 		<group id="141" type="span" parent="147" relname="span"/>
@@ -193,7 +193,7 @@
 		<group id="152" type="span" parent="153" relname="span"/>
 		<group id="153" type="span" parent="165" relname="span"/>
 		<group id="154" type="span" parent="147" relname="result"/>
-		<group id="155" type="span" parent="217" relname="span"/>
+		<group id="155" type="span" parent="216" relname="span"/>
 		<group id="156" type="span" parent="160" relname="conjunction"/>
 		<group id="157" type="multinuc" parent="53" relname="attribution"/>
 		<group id="158" type="span" parent="159" relname="sameunit"/>
@@ -224,41 +224,41 @@
 		<group id="183" type="span" parent="184" relname="span"/>
 		<group id="184" type="span" parent="182" relname="summary"/>
 		<group id="185" type="span" parent="186" relname="span"/>
-		<group id="186" type="span" parent="216" relname="joint"/>
+		<group id="186" type="span" parent="215" relname="joint"/>
 		<group id="187" type="span" parent="188" relname="span"/>
 		<group id="188" type="span" parent="193" relname="span"/>
 		<group id="189" type="span" parent="190" relname="conjunction"/>
 		<group id="190" type="multinuc" parent="191" relname="conjunction"/>
 		<group id="191" type="multinuc" parent="87" relname="e-elaboration"/>
 		<group id="192" type="span" parent="188" relname="reason-S"/>
-		<group id="193" type="span" parent="196" relname="span"/>
+		<group id="193" type="span" parent="195" relname="span"/>
 		<group id="194" type="multinuc" parent="193" relname="otherwise"/>
-		<group id="196" type="span" parent="205" relname="span"/>
-		<group id="197" type="span" parent="199" relname="sameunit"/>
-		<group id="198" type="span" parent="199" relname="sameunit"/>
-		<group id="199" type="multinuc" parent="203" relname="span"/>
-		<group id="200" type="span" parent="201" relname="span"/>
-		<group id="201" type="span" parent="202" relname="list"/>
-		<group id="202" type="multinuc" parent="203" relname="reason-S"/>
-		<group id="203" type="span" parent="204" relname="span"/>
-		<group id="204" type="span" parent="196" relname="motivation"/>
-		<group id="205" type="span" parent="216" relname="joint"/>
-		<group id="206" type="span" parent="207" relname="list"/>
-		<group id="207" type="multinuc" parent="108" relname="e-elaboration"/>
-		<group id="208" type="span" parent="107" relname="motivation"/>
-		<group id="209" type="span" parent="106" relname="reason-S"/>
-		<group id="210" type="span" parent="218" relname="joint"/>
-		<group id="211" type="span" parent="138" relname="span"/>
-		<group id="212" type="span" parent="121" relname="sameunit"/>
+		<group id="195" type="span" parent="204" relname="span"/>
+		<group id="196" type="span" parent="198" relname="sameunit"/>
+		<group id="197" type="span" parent="198" relname="sameunit"/>
+		<group id="198" type="multinuc" parent="202" relname="span"/>
+		<group id="199" type="span" parent="200" relname="span"/>
+		<group id="200" type="span" parent="201" relname="list"/>
+		<group id="201" type="multinuc" parent="202" relname="reason-S"/>
+		<group id="202" type="span" parent="203" relname="span"/>
+		<group id="203" type="span" parent="195" relname="motivation"/>
+		<group id="204" type="span" parent="215" relname="joint"/>
+		<group id="205" type="span" parent="206" relname="list"/>
+		<group id="206" type="multinuc" parent="108" relname="e-elaboration"/>
+		<group id="207" type="span" parent="107" relname="motivation"/>
+		<group id="208" type="span" parent="106" relname="reason-S"/>
+		<group id="209" type="span" parent="217" relname="joint"/>
+		<group id="210" type="span" parent="138" relname="span"/>
+		<group id="211" type="span" parent="121" relname="sameunit"/>
+		<group id="212" type="span" parent="213" relname="span"/>
 		<group id="213" type="span" parent="214" relname="span"/>
-		<group id="214" type="span" parent="215" relname="span"/>
-		<group id="215" type="span" parent="218" relname="joint"/>
-		<group id="216" type="multinuc" parent="155" relname="reason-S"/>
-		<group id="217" type="span" parent="214" relname="reason-S"/>
-		<group id="218" type="multinuc" parent="219" relname="span"/>
-		<group id="219" type="span" parent="220" relname="span"/>
-		<group id="220" type="span" />
-		<group id="221" type="span" parent="169" relname="sequence"/>
-		<group id="222" type="span" parent="194" relname="list"/>
+		<group id="214" type="span" parent="217" relname="joint"/>
+		<group id="215" type="multinuc" parent="155" relname="reason-S"/>
+		<group id="216" type="span" parent="213" relname="reason-S"/>
+		<group id="217" type="multinuc" parent="218" relname="span"/>
+		<group id="218" type="span" parent="219" relname="span"/>
+		<group id="219" type="span" />
+		<group id="220" type="span" parent="169" relname="sequence"/>
+		<group id="221" type="span" parent="194" relname="list"/>
 	</body>
 </rst>

@@ -48,54 +48,54 @@
 		<segment id="7" parent="36" relname="conjunction">the illegality of the acquisition of territory through the threat or use of force</segment>
 		<segment id="8" parent="36" relname="conjunction">and the obligation to settle disputes by peaceful means.</segment>
 		<segment id="9" parent="10" relname="background">As the body mandated under the United Nations Charter with the primary responsibility for the maintenance of international peace and security,</segment>
-		<segment id="10" parent="49" relname="span">the Security Council has a primordial responsibility to uphold those obligations.</segment>
-		<segment id="11" parent="49" relname="elaboration">As Council members, we do so on behalf of all Member States.</segment>
-		<segment id="12" parent="51" relname="span">The draft resolution directly and carefully reflects those fundamental norms.</segment>
-		<segment id="13" parent="52" relname="span">There is nothing in it that any State Member of the United Nations could reasonably oppose.</segment>
-		<segment id="14" parent="53" relname="span">Russia's decision to veto the resolution is therefore profoundly unsettling.</segment>
-		<segment id="15" parent="39" relname="span">The referendum to be held tomorrow in Crimea is dangerous and destabilizing.</segment>
+		<segment id="10" parent="48" relname="span">the Security Council has a primordial responsibility to uphold those obligations.</segment>
+		<segment id="11" parent="48" relname="elaboration">As Council members, we do so on behalf of all Member States.</segment>
+		<segment id="12" parent="50" relname="span">The draft resolution directly and carefully reflects those fundamental norms.</segment>
+		<segment id="13" parent="51" relname="span">There is nothing in it that any State Member of the United Nations could reasonably oppose.</segment>
+		<segment id="14" parent="52" relname="span">Russia's decision to veto the resolution is therefore profoundly unsettling.</segment>
+		<segment id="15" parent="38" relname="span">The referendum to be held tomorrow in Crimea is dangerous and destabilizing.</segment>
 		<segment id="16" parent="15" relname="evaluation-S">It is unauthorized and invalid.</segment>
-		<segment id="17" parent="40" relname="conjunction">The international community will not recognize the result</segment>
-		<segment id="18" parent="40" relname="conjunction">nor any action taking on the basis of it.</segment>
+		<segment id="17" parent="39" relname="conjunction">The international community will not recognize the result</segment>
+		<segment id="18" parent="39" relname="conjunction">nor any action taking on the basis of it.</segment>
 		<segment id="19" parent="20" relname="background">With or without a resolution, the message from Council members and the wider international community has been overwhelming.</segment>
-		<segment id="20" parent="42" relname="span">The de-escalation of the current crisis is imperative.</segment>
-		<segment id="21" parent="43" relname="conjunction">Russia must pull back its forces to their bases and decrease their numbers to agreed levels.</segment>
-		<segment id="22" parent="43" relname="conjunction">It must allow international observers access to Crimea.</segment>
-		<segment id="23" parent="44" relname="span">It must demonstrate its respect for the sovereignty and territorial integrity of Ukraine,</segment>
+		<segment id="20" parent="41" relname="span">The de-escalation of the current crisis is imperative.</segment>
+		<segment id="21" parent="42" relname="conjunction">Russia must pull back its forces to their bases and decrease their numbers to agreed levels.</segment>
+		<segment id="22" parent="42" relname="conjunction">It must allow international observers access to Crimea.</segment>
+		<segment id="23" parent="43" relname="span">It must demonstrate its respect for the sovereignty and territorial integrity of Ukraine,</segment>
 		<segment id="24" parent="23" relname="elaboration">including by desisting from any recognition of or action on the basis of the results of the Crimean referendum.</segment>
-		<segment id="25" parent="45" relname="span">It must engage in direct dialogue with Ukraine,</segment>
+		<segment id="25" parent="44" relname="span">It must engage in direct dialogue with Ukraine,</segment>
 		<segment id="26" parent="25" relname="circumstance">as Ukraine has repeatedly requested,</segment>
-		<segment id="27" parent="45" relname="elaboration">either bilaterally or through a diplomatic mechanism such as a contact group.</segment>
-		<segment id="28" parent="54" relname="span">Russia can be under no misapprehension about the action the international community is demanding it take.</segment>
+		<segment id="27" parent="44" relname="elaboration">either bilaterally or through a diplomatic mechanism such as a contact group.</segment>
+		<segment id="28" parent="53" relname="span">Russia can be under no misapprehension about the action the international community is demanding it take.</segment>
 		<segment id="29" parent="30" relname="condition">Should it fail to respond,</segment>
 		<segment id="30" parent="32" relname="span">there will be consequences.</segment>
 		<segment id="31" parent="32" relname="elaboration">The international community will demand it.</segment>
 		<group id="32" type="span" parent="33" relname="span"/>
 		<group id="33" type="span" parent="28" relname="reason-S"/>
-		<group id="34" type="span" parent="59" relname="span"/>
+		<group id="34" type="span" parent="57" relname="span"/>
 		<group id="35" type="span" parent="37" relname="span"/>
 		<group id="36" type="multinuc" parent="35" relname="elaboration"/>
 		<group id="37" type="span" parent="34" relname="evaluation-N"/>
-		<group id="39" type="span" parent="41" relname="span"/>
-		<group id="40" type="multinuc" parent="39" relname="result"/>
-		<group id="41" type="span" parent="53" relname="elaboration"/>
-		<group id="42" type="span" parent="47" relname="solutionhood"/>
-		<group id="43" type="multinuc" parent="47" relname="span"/>
-		<group id="44" type="span" parent="43" relname="conjunction"/>
-		<group id="45" type="span" parent="46" relname="span"/>
-		<group id="46" type="span" parent="43" relname="conjunction"/>
-		<group id="47" type="span" parent="48" relname="span"/>
-		<group id="48" type="span" parent="55" relname="span"/>
-		<group id="49" type="span" parent="50" relname="span"/>
-		<group id="50" type="span" parent="12" relname="background"/>
-		<group id="51" type="span" parent="13" relname="cause"/>
-		<group id="52" type="span" parent="14" relname="reason-S"/>
-		<group id="53" type="span" parent="56" relname="span"/>
-		<group id="54" type="span" parent="48" relname="otherwise"/>
-		<group id="55" type="span" parent="60" relname="joint"/>
-		<group id="56" type="span" parent="57" relname="span"/>
-		<group id="57" type="span" parent="60" relname="joint"/>
-		<group id="59" type="span" parent="56" relname="reason-S"/>
-		<group id="60" type="multinuc" />
+		<group id="38" type="span" parent="40" relname="span"/>
+		<group id="39" type="multinuc" parent="38" relname="result"/>
+		<group id="40" type="span" parent="52" relname="elaboration"/>
+		<group id="41" type="span" parent="46" relname="solutionhood"/>
+		<group id="42" type="multinuc" parent="46" relname="span"/>
+		<group id="43" type="span" parent="42" relname="conjunction"/>
+		<group id="44" type="span" parent="45" relname="span"/>
+		<group id="45" type="span" parent="42" relname="conjunction"/>
+		<group id="46" type="span" parent="47" relname="span"/>
+		<group id="47" type="span" parent="54" relname="span"/>
+		<group id="48" type="span" parent="49" relname="span"/>
+		<group id="49" type="span" parent="12" relname="background"/>
+		<group id="50" type="span" parent="13" relname="cause"/>
+		<group id="51" type="span" parent="14" relname="reason-S"/>
+		<group id="52" type="span" parent="55" relname="span"/>
+		<group id="53" type="span" parent="47" relname="otherwise"/>
+		<group id="54" type="span" parent="58" relname="joint"/>
+		<group id="55" type="span" parent="56" relname="span"/>
+		<group id="56" type="span" parent="58" relname="joint"/>
+		<group id="57" type="span" parent="55" relname="reason-S"/>
+		<group id="58" type="multinuc" />
 	</body>
 </rst>

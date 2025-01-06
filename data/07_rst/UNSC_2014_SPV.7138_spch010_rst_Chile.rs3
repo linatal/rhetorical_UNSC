@@ -51,10 +51,10 @@
 		<segment id="10" parent="29" relname="conjunction">and refrain from the threat or use of force against the territorial integrity or political independence of Ukraine.</segment>
 		<segment id="11" parent="32" relname="span">The holding of a referendum on the status of Crimea is inconsistent with the Constitution of Ukraine,</segment>
 		<segment id="12" parent="11" relname="e-elaboration">a unified State of which Crimea is an integral part.</segment>
-		<segment id="13" parent="41" relname="span">It is therefore fundamental that the rule of law be observed in Ukraine nationally and internationally.</segment>
+		<segment id="13" parent="40" relname="span">It is therefore fundamental that the rule of law be observed in Ukraine nationally and internationally.</segment>
 		<segment id="14" parent="33" relname="span">It is for the people of Ukraine alone to determine their future in a democratic and inclusive process</segment>
 		<segment id="15" parent="14" relname="e-elaboration">that guarantees the rule of law, human rights, fundamental freedoms and respect for the rights of minorities.</segment>
-		<segment id="16" parent="45" relname="span">The crisis must be resolved peacefully and through dialogue, in accordance with the norms of international law.</segment>
+		<segment id="16" parent="44" relname="span">The crisis must be resolved peacefully and through dialogue, in accordance with the norms of international law.</segment>
 		<segment id="17" parent="38" relname="attribution">Chile regrets</segment>
 		<segment id="18" parent="36" relname="span">that the United Nations organ</segment>
 		<segment id="19" parent="18" relname="e-elaboration">that has the primary responsibility for the maintainance of international peace and security</segment>
@@ -64,28 +64,28 @@
 		<segment id="23" parent="34" relname="span">the Council has not fulfilled its obligation.</segment>
 		<group id="24" type="span" parent="26" relname="span"/>
 		<group id="25" type="span" parent="24" relname="reason-S"/>
-		<group id="26" type="span" parent="45" relname="background"/>
+		<group id="26" type="span" parent="44" relname="background"/>
 		<group id="27" type="multinuc" parent="5" relname="e-elaboration"/>
-		<group id="28" type="span" parent="43" relname="reason-S"/>
+		<group id="28" type="span" parent="42" relname="reason-S"/>
 		<group id="29" type="multinuc" parent="30" relname="span"/>
 		<group id="30" type="span" parent="31" relname="span"/>
 		<group id="31" type="span" parent="32" relname="reason-S"/>
-		<group id="32" type="span" parent="43" relname="span"/>
+		<group id="32" type="span" parent="42" relname="span"/>
 		<group id="33" type="span" parent="13" relname="reason-S"/>
 		<group id="34" type="span" parent="35" relname="sameunit"/>
-		<group id="35" type="multinuc" parent="48" relname="span"/>
+		<group id="35" type="multinuc" parent="47" relname="span"/>
 		<group id="36" type="span" parent="37" relname="sameunit"/>
 		<group id="37" type="multinuc" parent="38" relname="span"/>
 		<group id="38" type="span" parent="39" relname="span"/>
-		<group id="39" type="span" parent="48" relname="cause"/>
-		<group id="41" type="span" parent="42" relname="span"/>
-		<group id="42" type="span" parent="16" relname="motivation"/>
-		<group id="43" type="span" parent="44" relname="span"/>
-		<group id="44" type="span" parent="41" relname="reason-S"/>
+		<group id="39" type="span" parent="47" relname="cause"/>
+		<group id="40" type="span" parent="41" relname="span"/>
+		<group id="41" type="span" parent="16" relname="motivation"/>
+		<group id="42" type="span" parent="43" relname="span"/>
+		<group id="43" type="span" parent="40" relname="reason-S"/>
+		<group id="44" type="span" parent="45" relname="span"/>
 		<group id="45" type="span" parent="46" relname="span"/>
-		<group id="46" type="span" parent="47" relname="span"/>
-		<group id="47" type="span" />
-		<group id="48" type="span" parent="49" relname="span"/>
-		<group id="49" type="span" parent="46" relname="interpretation"/>
+		<group id="46" type="span" />
+		<group id="47" type="span" parent="48" relname="span"/>
+		<group id="48" type="span" parent="45" relname="interpretation"/>
 	</body>
 </rst>

@@ -119,18 +119,18 @@
 		<segment id="78" parent="173" relname="span">but will also help to create a better world</segment>
 		<segment id="79" parent="78" relname="e-elaboration">that is more equitable.</segment>
 		<segment id="80" parent="176" relname="conjunction">However, its effective implementation will depend on its simplicity</segment>
-		<segment id="81" parent="192" relname="span">and its transformational power to sanction, within its life span,</segment>
+		<segment id="81" parent="190" relname="span">and its transformational power to sanction, within its life span,</segment>
 		<segment id="82" parent="81" relname="elaboration">an immense global response to the most pressing issues of women empowerment</segment>
 		<segment id="83" parent="177" relname="span">and,</segment>
 		<segment id="84" parent="83" relname="evaluation-S">more importantly,</segment>
 		<segment id="85" parent="178" relname="sameunit">the full participation of women in peace and security.</segment>
-		<segment id="86" parent="183" relname="span">Resolution 1325</segment>
+		<segment id="86" parent="181" relname="span">Resolution 1325</segment>
 		<segment id="87" parent="86" relname="e-elaboration">(2000)</segment>
-		<segment id="88" parent="184" relname="sameunit">is for the benefit of the whole human race,</segment>
-		<segment id="89" parent="185" relname="conjunction">and has been intended to be so since its adoption in October 2000.</segment>
-		<segment id="90" parent="186" relname="span">It should be regarded as a global objective</segment>
+		<segment id="88" parent="182" relname="sameunit">is for the benefit of the whole human race,</segment>
+		<segment id="89" parent="183" relname="conjunction">and has been intended to be so since its adoption in October 2000.</segment>
+		<segment id="90" parent="184" relname="span">It should be regarded as a global objective</segment>
 		<segment id="91" parent="90" relname="e-elaboration">that reflects peace, equality and development.</segment>
-		<segment id="92" parent="187" relname="joint">Its effective implementation in good faith should not be half-hearted.</segment>
+		<segment id="92" parent="185" relname="joint">Its effective implementation in good faith should not be half-hearted.</segment>
 		<group id="93" type="span" parent="95" relname="list"/>
 		<group id="94" type="span" parent="95" relname="list"/>
 		<group id="95" type="multinuc" parent="96" relname="joint"/>
@@ -193,7 +193,7 @@
 		<group id="152" type="multinuc" parent="153" relname="list"/>
 		<group id="153" type="multinuc" parent="151" relname="reason-S"/>
 		<group id="154" type="span" parent="153" relname="list"/>
-		<group id="155" type="span" parent="191" relname="span"/>
+		<group id="155" type="span" parent="189" relname="span"/>
 		<group id="156" type="span" parent="157" relname="sameunit"/>
 		<group id="157" type="multinuc" parent="160" relname="span"/>
 		<group id="158" type="span" parent="159" relname="sameunit"/>
@@ -213,21 +213,21 @@
 		<group id="172" type="span" parent="174" relname="conjunction"/>
 		<group id="173" type="span" parent="174" relname="conjunction"/>
 		<group id="174" type="multinuc" parent="171" relname="elaboration"/>
-		<group id="175" type="span" parent="180" relname="concession"/>
-		<group id="176" type="multinuc" parent="180" relname="span"/>
+		<group id="175" type="span" parent="179" relname="concession"/>
+		<group id="176" type="multinuc" parent="179" relname="span"/>
 		<group id="177" type="span" parent="178" relname="sameunit"/>
 		<group id="178" type="multinuc" parent="176" relname="conjunction"/>
-		<group id="180" type="span" parent="182" relname="span"/>
-		<group id="182" type="span" parent="190" relname="span"/>
-		<group id="183" type="span" parent="184" relname="sameunit"/>
-		<group id="184" type="multinuc" parent="185" relname="conjunction"/>
-		<group id="185" type="multinuc" parent="188" relname="span"/>
-		<group id="186" type="span" parent="187" relname="joint"/>
-		<group id="187" type="multinuc" parent="188" relname="elaboration"/>
-		<group id="188" type="span" parent="189" relname="span"/>
-		<group id="189" type="span" parent="182" relname="elaboration"/>
-		<group id="190" type="span" parent="170" relname="joint"/>
-		<group id="191" type="span" parent="144" relname="elaboration"/>
-		<group id="192" type="span" parent="176" relname="conjunction"/>
+		<group id="179" type="span" parent="180" relname="span"/>
+		<group id="180" type="span" parent="188" relname="span"/>
+		<group id="181" type="span" parent="182" relname="sameunit"/>
+		<group id="182" type="multinuc" parent="183" relname="conjunction"/>
+		<group id="183" type="multinuc" parent="186" relname="span"/>
+		<group id="184" type="span" parent="185" relname="joint"/>
+		<group id="185" type="multinuc" parent="186" relname="elaboration"/>
+		<group id="186" type="span" parent="187" relname="span"/>
+		<group id="187" type="span" parent="180" relname="elaboration"/>
+		<group id="188" type="span" parent="170" relname="joint"/>
+		<group id="189" type="span" parent="144" relname="elaboration"/>
+		<group id="190" type="span" parent="176" relname="conjunction"/>
 	</body>
 </rst>

@@ -1,4 +1,4 @@
-''' Creates table with RST annotations and flat RST labels "main_conflicts_sm_aligned.csv".
+''' Creates table with RST annotations and flat RST labels "main_conflicts_aligned.csv".
 Input: folder with rst files /data/07_rst, conflicts table ../data/main_conflicts.csv
 Output: aligned conflicts-rst table'''
 import lxml.etree
@@ -45,43 +45,50 @@ def align(csvf, rst_dir):
         # get rows in df for file
         df_file = df_f[df_f.fileid == name]
 
-        rstree = lxml.etree.parse(str(rstf), parser=xmlp)
-        debug_list = []
-        debug_list1 = []
-        debug_list2 = []
-        debug_list3 = []
-        count_rst_segements = len(rstree.getroot().findall('.//segment'))
+        if len(df_file):
+            rstree = lxml.etree.parse(str(rstf), parser=xmlp)
+            debug_list = []
+            debug_list1 = []
+            debug_list2 = []
+            debug_list3 = []
+            count_rst_segements = len(rstree.getroot().findall('.//segment'))
 
-        #debug
-        if df_file.shape[0] != count_rst_segements:
-            print(name, "conflict edus:", df_file[0], "rst edus:", count_rst_segements )
-        assert df_file.shape[0] == count_rst_segements
-        #print(df_file.shape[0])
-        #print(count_rst_segements)
 
-        for segment in rstree.getroot().findall('.//segment'):
+            #assert df_file.shape[0] == count_rst_segements, name
+            if df_file.shape[0] != count_rst_segements:
+                print("For file", name, "there is an inconsistency of EDUs.\n Conflicts num EDUs: ", df_file.shape[0], "\n RST num EDUs: ", count_rst_segements)
+                break
 
-            rootpath = get_root_path(segment, rstree, [segment])
+            for segment in rstree.getroot().findall('.//segment'):
 
-            id_chain = [x.get('id') for x in rootpath]
-            id_rel = id_chain[0]
-            relation_chain = [x.get('relname') for x in rootpath]
-            relation = relation_chain[0]
-            assert len(id_chain) == len(relation_chain)
+                rootpath = get_root_path(segment, rstree, [segment])
 
-            big_list_id_chain.append(id_chain)
-            big_list_id.append(id_rel)
-            big_list_relation_chain.append(relation_chain)
-            big_list_relation.append(relation)
+                id_chain = [x.get('id') for x in rootpath]
+                id_rel = id_chain[0]
+                relation_chain = [x.get('relname') for x in rootpath]
+                relation = relation_chain[0]
+                assert len(id_chain) == len(relation_chain), 'Problem l. 72'
 
-            debug_list.append(id_chain)
-            debug_list1.append(id_rel)
-            debug_list2.append(relation_chain)
-            debug_list3.append(relation)
-        #if len(debug_list3) != df_file.shape[0]:
-        #    print("Error: ", len(debug_list3), df_file.shape[0], name)
+                big_list_id_chain.append(id_chain)
+                big_list_id.append(id_rel)
+                big_list_relation_chain.append(relation_chain)
+                big_list_relation.append(relation)
 
-    assert len(big_list_id) == len(big_list_id_chain) == len(big_list_relation_chain)
+                debug_list.append(id_chain)
+                debug_list1.append(id_rel)
+                debug_list2.append(relation_chain)
+                debug_list3.append(relation)
+                #if len(debug_list3) != df_file.shape[0]:
+                #    print("Error: ", len(debug_list3), df_file.shape[0], name)
+                #debug
+        elif df_file.shape[0] != count_rst_segements and len(df_file):
+            print(name, "num conflict edus:", df_file[0], "num rst edus:", count_rst_segements)
+
+        else:
+            print("File: ", name, "file is missing in Conflicts csv.")
+
+
+    assert len(big_list_id) == len(big_list_id_chain) == len(big_list_relation_chain), 'Problem l. 86'
 
     df_f['rstree_nodeid'] = big_list_id
     df_f['rstree_nodeid_chain'] = big_list_id_chain

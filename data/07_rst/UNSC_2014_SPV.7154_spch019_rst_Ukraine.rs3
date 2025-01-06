@@ -48,35 +48,35 @@
 		<segment id="7" parent="164" relname="span">On the eve of the holiday, terrorists</segment>
 		<segment id="8" parent="7" relname="e-elaboration">coordinated by agents of the Russian Federation</segment>
 		<segment id="9" parent="165" relname="sameunit">seized control of State buildings in several cities of the Donetsk region.</segment>
-		<segment id="10" parent="307" relname="preparation">Let me quote a statement made today by Ukraine's acting President Oleksandr Turchynov:</segment>
-		<segment id="11" parent="280" relname="span">"A particularly dangerous situation has arisen in the city of Slavyansk,</segment>
-		<segment id="12" parent="287" relname="span">where professionally trained armed troops</segment>
+		<segment id="10" parent="305" relname="preparation">Let me quote a statement made today by Ukraine's acting President Oleksandr Turchynov:</segment>
+		<segment id="11" parent="278" relname="span">"A particularly dangerous situation has arisen in the city of Slavyansk,</segment>
+		<segment id="12" parent="285" relname="span">where professionally trained armed troops</segment>
 		<segment id="13" parent="12" relname="e-elaboration">wearing Russian armed forces camouflage without insignia</segment>
-		<segment id="14" parent="288" relname="sameunit">shattered the peace.</segment>
-		<segment id="15" parent="289" relname="span">This morning, a convoy of law enforcement officers</segment>
+		<segment id="14" parent="286" relname="sameunit">shattered the peace.</segment>
+		<segment id="15" parent="287" relname="span">This morning, a convoy of law enforcement officers</segment>
 		<segment id="16" parent="15" relname="e-elaboration">who sought to protect the citizens of Slavyansk</segment>
-		<segment id="17" parent="290" relname="sameunit">were attacked with assault rifles.</segment>
-		<segment id="18" parent="291" relname="span">The criminals opened intense fire</segment>
+		<segment id="17" parent="288" relname="sameunit">were attacked with assault rifles.</segment>
+		<segment id="18" parent="289" relname="span">The criminals opened intense fire</segment>
 		<segment id="19" parent="18" relname="elaboration">using local people as human shields.</segment>
-		<segment id="20" parent="301" relname="span">The blood of Ukrainians has been shed for one undivided sovereign Ukraine.</segment>
-		<segment id="21" parent="292" relname="span">That blood has been shed in a war</segment>
-		<segment id="22" parent="305" relname="span">that Russia is waging against Ukraine.</segment>
+		<segment id="20" parent="299" relname="span">The blood of Ukrainians has been shed for one undivided sovereign Ukraine.</segment>
+		<segment id="21" parent="290" relname="span">That blood has been shed in a war</segment>
+		<segment id="22" parent="303" relname="span">that Russia is waging against Ukraine.</segment>
 		<segment id="23" parent="24" relname="antithesis">The aggressor has not stopped,</segment>
-		<segment id="24" parent="293" relname="span">and continues to organize unrest in the eastern regions of our country.</segment>
-		<segment id="25" parent="294" relname="antithesis">It is not a war between Ukrainians.</segment>
-		<segment id="26" parent="294" relname="span">The situation of confrontation was artificially created</segment>
+		<segment id="24" parent="291" relname="span">and continues to organize unrest in the eastern regions of our country.</segment>
+		<segment id="25" parent="292" relname="antithesis">It is not a war between Ukrainians.</segment>
+		<segment id="26" parent="292" relname="span">The situation of confrontation was artificially created</segment>
 		<segment id="27" parent="26" relname="purpose">with the aim of weakening and destroying Ukraine itself."</segment>
-		<segment id="28" parent="295" relname="span">Within a short period of time,</segment>
+		<segment id="28" parent="293" relname="span">Within a short period of time,</segment>
 		<segment id="29" parent="28" relname="e-elaboration">approximately one and half months,</segment>
-		<segment id="30" parent="296" relname="span">the Ukrainian Government has done everything possible</segment>
+		<segment id="30" parent="294" relname="span">the Ukrainian Government has done everything possible</segment>
 		<segment id="31" parent="30" relname="purpose">to avoid confrontation through an inclusive approach to each and every region.</segment>
-		<segment id="32" parent="281" relname="span">Recently, Mr. Yatsenyuk,</segment>
+		<segment id="32" parent="279" relname="span">Recently, Mr. Yatsenyuk,</segment>
 		<segment id="33" parent="32" relname="e-elaboration">the Prime Minister of Ukraine,</segment>
-		<segment id="34" parent="283" relname="span">visited the southern and eastern regions</segment>
+		<segment id="34" parent="281" relname="span">visited the southern and eastern regions</segment>
 		<segment id="35" parent="34" relname="elaboration">- Donetsk, Lugansk, Kharkiv, Dnepropetrovsk, Odessa *</segment>
-		<segment id="36" parent="284" relname="elaboration">addressing such issues of concern as the language policy and prospects for decentralization of power and constitutional reforms.</segment>
+		<segment id="36" parent="282" relname="elaboration">addressing such issues of concern as the language policy and prospects for decentralization of power and constitutional reforms.</segment>
 		<segment id="37" parent="38" relname="concession">The Government is ready to consider the significant empowerment of local authorities in Ukraine.</segment>
-		<segment id="38" parent="286" relname="span">Unfortunately, the efforts of the Government of Ukraine have been severely challenged by recent developments in the eastern regions.</segment>
+		<segment id="38" parent="284" relname="span">Unfortunately, the efforts of the Government of Ukraine have been severely challenged by recent developments in the eastern regions.</segment>
 		<segment id="39" parent="168" relname="attribution">According to Ukrainian intelligence data,</segment>
 		<segment id="40" parent="169" relname="circumstance">during the past month and a half in the eastern regions of Ukraine,</segment>
 		<segment id="41" parent="169" relname="span">agents of the Russian special services embarked on large-scale operations</segment>
@@ -124,9 +124,9 @@
 		<segment id="83" parent="209" relname="span">It has also been observed that such terrorist groups are heavily armed with weapons</segment>
 		<segment id="84" parent="83" relname="e-elaboration">used exclusively by Russian armed forces, namely, the Kalashnikov assault rifle AK-lOO series.</segment>
 		<segment id="85" parent="209" relname="elaboration">Those weapons have also been seen in the hands of Russian troops in Crimea.</segment>
-		<segment id="86" parent="324" relname="span">It is clear that the tactics</segment>
+		<segment id="86" parent="322" relname="span">It is clear that the tactics</segment>
 		<segment id="87" parent="86" relname="e-elaboration">used by terrorists</segment>
-		<segment id="88" parent="324" relname="purpose">to capture admininstrative buildings in the regions of Donetsk, Lugansk and Kharkiv</segment>
+		<segment id="88" parent="322" relname="purpose">to capture admininstrative buildings in the regions of Donetsk, Lugansk and Kharkiv</segment>
 		<segment id="89" parent="212" relname="sameunit">are identical to those used to seize the buildings of the Crimean Parliament and other Governmental building in Crimea,</segment>
 		<segment id="90" parent="213" relname="evidence">which video evidence confirms.</segment>
 		<segment id="91" parent="217" relname="span">Terrorist groups are acting in a very organized and pre-planned manner.</segment>
@@ -168,36 +168,36 @@
 		<segment id="127" parent="253" relname="span">to seize administrative and law-enforcement buildings</segment>
 		<segment id="128" parent="127" relname="purpose">with the aim of destabilizing the situation in the eastern regions of Ukraine,</segment>
 		<segment id="129" parent="251" relname="conjunction">and encouraging marginal groups to pursue their separatist ambitions,</segment>
-		<segment id="130" parent="319" relname="result">threatening my country's unity and territorial integrity.</segment>
-		<segment id="131" parent="255" relname="span">Apparently,</segment>
+		<segment id="130" parent="317" relname="result">threatening my country's unity and territorial integrity.</segment>
+		<segment id="131" parent="254" relname="span">Apparently,</segment>
 		<segment id="132" parent="131" relname="means">through these attempts,</segment>
-		<segment id="133" parent="256" relname="sameunit">they hope to disrupt the presidential elections in Ukraine scheduled for 25 May.</segment>
-		<segment id="134" parent="258" relname="antithesis">Russia often positions itself as a prominent fighter against international terrorism,</segment>
-		<segment id="135" parent="257" relname="span">but by sending its special agents to Ukraine</segment>
+		<segment id="133" parent="255" relname="sameunit">they hope to disrupt the presidential elections in Ukraine scheduled for 25 May.</segment>
+		<segment id="134" parent="257" relname="antithesis">Russia often positions itself as a prominent fighter against international terrorism,</segment>
+		<segment id="135" parent="256" relname="span">but by sending its special agents to Ukraine</segment>
 		<segment id="136" parent="135" relname="purpose">to effect diversions and sabotage,</segment>
-		<segment id="137" parent="258" relname="span">it is actually sponsoring terrorism.</segment>
-		<segment id="138" parent="260" relname="span">Russia's statements and position are in fact supporting the terrorists in Ukraine</segment>
-		<segment id="139" parent="261" relname="conjunction">who have seized administrative buildings,</segment>
-		<segment id="140" parent="261" relname="conjunction">taken over the military arsenals of the Ukrainian secret services and police in several cities</segment>
-		<segment id="141" parent="261" relname="conjunction">and opened fire on Ukrainian police.</segment>
-		<segment id="142" parent="263" relname="span">Today, official Russian TV channels have widely broadcast interviews with the three individuals</segment>
+		<segment id="137" parent="257" relname="span">it is actually sponsoring terrorism.</segment>
+		<segment id="138" parent="259" relname="span">Russia's statements and position are in fact supporting the terrorists in Ukraine</segment>
+		<segment id="139" parent="260" relname="conjunction">who have seized administrative buildings,</segment>
+		<segment id="140" parent="260" relname="conjunction">taken over the military arsenals of the Ukrainian secret services and police in several cities</segment>
+		<segment id="141" parent="260" relname="conjunction">and opened fire on Ukrainian police.</segment>
+		<segment id="142" parent="262" relname="span">Today, official Russian TV channels have widely broadcast interviews with the three individuals</segment>
 		<segment id="143" parent="142" relname="e-elaboration">- former President Yanukovych, former Prosecutor General Pshonka and former Minister of the Interior Zakharchenko -</segment>
-		<segment id="144" parent="322" relname="sameunit">who are suspected mass murderers in Ukraine.</segment>
-		<segment id="145" parent="321" relname="e-elaboration">They are wanted internationally.</segment>
+		<segment id="144" parent="320" relname="sameunit">who are suspected mass murderers in Ukraine.</segment>
+		<segment id="145" parent="319" relname="e-elaboration">They are wanted internationally.</segment>
 		<segment id="146" parent="147" relname="concession">Ukraine has repeatedly asked its Russian partners to extradite those suspects and provide the necessary assistance for their investigation.</segment>
-		<segment id="147" parent="266" relname="span">Unfortunately, the Russian Federation has refused to do that.</segment>
-		<segment id="148" parent="269" relname="span">Ukraine is being subjected to a large-scale terrorist operation</segment>
+		<segment id="147" parent="264" relname="span">Unfortunately, the Russian Federation has refused to do that.</segment>
+		<segment id="148" parent="267" relname="span">Ukraine is being subjected to a large-scale terrorist operation</segment>
 		<segment id="149" parent="148" relname="e-elaboration">orchestrated by the Russian Federation in subregions of the eastern part of the country.</segment>
 		<segment id="150" parent="151" relname="concession">That constitutes a serious threat not only to the security of the people of Ukraine</segment>
-		<segment id="151" parent="270" relname="span">but to international peace and stability as a whole.</segment>
-		<segment id="152" parent="272" relname="span">We consider it to be the Security Council's duty to find a proper and peaceful solution to this crisis.</segment>
-		<segment id="153" parent="273" relname="span">We once again call on our Russian partners to put an immediate halt to the actions</segment>
+		<segment id="151" parent="268" relname="span">but to international peace and stability as a whole.</segment>
+		<segment id="152" parent="270" relname="span">We consider it to be the Security Council's duty to find a proper and peaceful solution to this crisis.</segment>
+		<segment id="153" parent="271" relname="span">We once again call on our Russian partners to put an immediate halt to the actions</segment>
 		<segment id="154" parent="153" relname="purpose">aimed at undermining the sovereignty and territorial integrity of Ukraine.</segment>
 		<segment id="155" parent="156" relname="attribution">We demand</segment>
-		<segment id="156" parent="277" relname="span">that they leave us in peace.</segment>
-		<segment id="157" parent="275" relname="textual-organization">(spoke in French)</segment>
+		<segment id="156" parent="275" relname="span">that they leave us in peace.</segment>
+		<segment id="157" parent="273" relname="textual-organization">(spoke in French)</segment>
 		<segment id="158" parent="159" relname="attribution">As Ambassador Araud said,</segment>
-		<segment id="159" parent="275" relname="span">this is truly a final cry of warning.</segment>
+		<segment id="159" parent="273" relname="span">this is truly a final cry of warning.</segment>
 		<group id="160" type="multinuc" parent="166" relname="preparation"/>
 		<group id="161" type="span" parent="162" relname="span"/>
 		<group id="162" type="span" parent="6" relname="concession"/>
@@ -205,7 +205,7 @@
 		<group id="164" type="span" parent="165" relname="sameunit"/>
 		<group id="165" type="multinuc" parent="163" relname="elaboration"/>
 		<group id="166" type="span" parent="167" relname="span"/>
-		<group id="167" type="span" parent="317" relname="preparation"/>
+		<group id="167" type="span" parent="315" relname="preparation"/>
 		<group id="168" type="span" parent="183" relname="span"/>
 		<group id="169" type="span" parent="168" relname="span"/>
 		<group id="170" type="span" parent="42" relname="means"/>
@@ -222,7 +222,7 @@
 		<group id="181" type="span" parent="182" relname="span"/>
 		<group id="182" type="span" parent="184" relname="span"/>
 		<group id="183" type="span" parent="182" relname="evidence"/>
-		<group id="184" type="span" parent="310" relname="span"/>
+		<group id="184" type="span" parent="308" relname="span"/>
 		<group id="185" type="span" parent="186" relname="sameunit"/>
 		<group id="186" type="multinuc" parent="187" relname="background"/>
 		<group id="187" type="span" parent="188" relname="span"/>
@@ -280,86 +280,85 @@
 		<group id="239" type="span" parent="240" relname="span"/>
 		<group id="240" type="span" parent="241" relname="span"/>
 		<group id="241" type="span" parent="242" relname="span"/>
-		<group id="242" type="span" parent="313" relname="span"/>
+		<group id="242" type="span" parent="311" relname="span"/>
 		<group id="243" type="span" parent="244" relname="span"/>
 		<group id="244" type="span" parent="249" relname="joint"/>
 		<group id="245" type="span" parent="247" relname="circumstance"/>
 		<group id="246" type="span" parent="247" relname="span"/>
 		<group id="247" type="span" parent="248" relname="span"/>
 		<group id="248" type="span" parent="249" relname="joint"/>
-		<group id="249" type="multinuc" parent="315" relname="joint"/>
+		<group id="249" type="multinuc" parent="313" relname="joint"/>
 		<group id="250" type="span" parent="251" relname="conjunction"/>
-		<group id="251" type="multinuc" parent="319" relname="span"/>
+		<group id="251" type="multinuc" parent="317" relname="span"/>
 		<group id="252" type="span" parent="251" relname="conjunction"/>
 		<group id="253" type="span" parent="126" relname="purpose"/>
-		<group id="255" type="span" parent="256" relname="sameunit"/>
-		<group id="256" type="multinuc" parent="246" relname="purpose"/>
-		<group id="257" type="span" parent="137" relname="elaboration"/>
-		<group id="258" type="span" parent="259" relname="span"/>
-		<group id="259" type="span" parent="260" relname="background"/>
-		<group id="260" type="span" parent="262" relname="span"/>
-		<group id="261" type="multinuc" parent="138" relname="e-elaboration"/>
-		<group id="262" type="span" parent="268" relname="span"/>
-		<group id="263" type="span" parent="322" relname="sameunit"/>
-		<group id="265" type="span" parent="267" relname="span"/>
-		<group id="266" type="span" parent="265" relname="interpretation"/>
-		<group id="267" type="span" parent="262" relname="evidence"/>
-		<group id="268" type="span" parent="309" relname="cause"/>
-		<group id="269" type="span" parent="270" relname="elaboration"/>
-		<group id="270" type="span" parent="271" relname="span"/>
-		<group id="271" type="span" parent="152" relname="cause"/>
-		<group id="272" type="span" parent="273" relname="motivation"/>
+		<group id="254" type="span" parent="255" relname="sameunit"/>
+		<group id="255" type="multinuc" parent="246" relname="purpose"/>
+		<group id="256" type="span" parent="137" relname="elaboration"/>
+		<group id="257" type="span" parent="258" relname="span"/>
+		<group id="258" type="span" parent="259" relname="background"/>
+		<group id="259" type="span" parent="261" relname="span"/>
+		<group id="260" type="multinuc" parent="138" relname="e-elaboration"/>
+		<group id="261" type="span" parent="266" relname="span"/>
+		<group id="262" type="span" parent="320" relname="sameunit"/>
+		<group id="263" type="span" parent="265" relname="span"/>
+		<group id="264" type="span" parent="263" relname="interpretation"/>
+		<group id="265" type="span" parent="261" relname="evidence"/>
+		<group id="266" type="span" parent="307" relname="cause"/>
+		<group id="267" type="span" parent="268" relname="elaboration"/>
+		<group id="268" type="span" parent="269" relname="span"/>
+		<group id="269" type="span" parent="152" relname="cause"/>
+		<group id="270" type="span" parent="271" relname="motivation"/>
+		<group id="271" type="span" parent="272" relname="span"/>
+		<group id="272" type="span" parent="307" relname="span"/>
 		<group id="273" type="span" parent="274" relname="span"/>
-		<group id="274" type="span" parent="309" relname="span"/>
+		<group id="274" type="span" parent="276" relname="evaluation-S"/>
 		<group id="275" type="span" parent="276" relname="span"/>
-		<group id="276" type="span" parent="278" relname="evaluation-S"/>
-		<group id="277" type="span" parent="278" relname="span"/>
-		<group id="278" type="span" parent="279" relname="span"/>
-		<group id="279" type="span" parent="274" relname="restatement"/>
-		<group id="280" type="span" parent="298" relname="span"/>
-		<group id="281" type="span" parent="282" relname="sameunit"/>
-		<group id="282" type="multinuc" parent="284" relname="span"/>
-		<group id="283" type="span" parent="282" relname="sameunit"/>
-		<group id="284" type="span" parent="285" relname="span"/>
-		<group id="285" type="span" parent="297" relname="evidence"/>
-		<group id="286" type="span" parent="304" relname="span"/>
+		<group id="276" type="span" parent="277" relname="span"/>
+		<group id="277" type="span" parent="272" relname="restatement"/>
+		<group id="278" type="span" parent="296" relname="span"/>
+		<group id="279" type="span" parent="280" relname="sameunit"/>
+		<group id="280" type="multinuc" parent="282" relname="span"/>
+		<group id="281" type="span" parent="280" relname="sameunit"/>
+		<group id="282" type="span" parent="283" relname="span"/>
+		<group id="283" type="span" parent="295" relname="evidence"/>
+		<group id="284" type="span" parent="302" relname="span"/>
+		<group id="285" type="span" parent="286" relname="sameunit"/>
+		<group id="286" type="multinuc" parent="11" relname="e-elaboration"/>
 		<group id="287" type="span" parent="288" relname="sameunit"/>
-		<group id="288" type="multinuc" parent="11" relname="e-elaboration"/>
-		<group id="289" type="span" parent="290" relname="sameunit"/>
-		<group id="290" type="multinuc" parent="280" relname="elaboration"/>
-		<group id="291" type="span" parent="298" relname="elaboration"/>
-		<group id="292" type="span" parent="20" relname="e-elaboration"/>
-		<group id="293" type="span" parent="22" relname="e-elaboration"/>
-		<group id="294" type="span" parent="302" relname="span"/>
-		<group id="295" type="span" parent="296" relname="circumstance"/>
+		<group id="288" type="multinuc" parent="278" relname="elaboration"/>
+		<group id="289" type="span" parent="296" relname="elaboration"/>
+		<group id="290" type="span" parent="20" relname="e-elaboration"/>
+		<group id="291" type="span" parent="22" relname="e-elaboration"/>
+		<group id="292" type="span" parent="300" relname="span"/>
+		<group id="293" type="span" parent="294" relname="circumstance"/>
+		<group id="294" type="span" parent="295" relname="span"/>
+		<group id="295" type="span" parent="301" relname="span"/>
 		<group id="296" type="span" parent="297" relname="span"/>
-		<group id="297" type="span" parent="303" relname="span"/>
-		<group id="298" type="span" parent="299" relname="span"/>
-		<group id="299" type="span" parent="300" relname="span"/>
-		<group id="300" type="span" parent="306" relname="background"/>
-		<group id="301" type="span" parent="302" relname="concession"/>
-		<group id="302" type="span" parent="306" relname="span"/>
-		<group id="303" type="span" parent="286" relname="concession"/>
-		<group id="304" type="span" parent="311" relname="span"/>
-		<group id="305" type="span" parent="21" relname="e-elaboration"/>
-		<group id="306" type="span" parent="307" relname="span"/>
-		<group id="307" type="span" parent="308" relname="span"/>
-		<group id="308" type="span" parent="304" relname="background"/>
-		<group id="309" type="span" parent="314" relname="span"/>
-		<group id="310" type="span" parent="311" relname="elaboration"/>
-		<group id="311" type="span" parent="312" relname="span"/>
-		<group id="312" type="span" parent="242" relname="cause"/>
-		<group id="313" type="span" parent="315" relname="joint"/>
-		<group id="314" type="span" parent="316" relname="joint"/>
-		<group id="315" type="multinuc" parent="316" relname="joint"/>
-		<group id="316" type="multinuc" parent="317" relname="span"/>
+		<group id="297" type="span" parent="304" relname="background"/>
+		<group id="299" type="span" parent="300" relname="concession"/>
+		<group id="300" type="span" parent="304" relname="span"/>
+		<group id="301" type="span" parent="284" relname="concession"/>
+		<group id="302" type="span" parent="309" relname="span"/>
+		<group id="303" type="span" parent="21" relname="e-elaboration"/>
+		<group id="304" type="span" parent="305" relname="span"/>
+		<group id="305" type="span" parent="306" relname="span"/>
+		<group id="306" type="span" parent="302" relname="background"/>
+		<group id="307" type="span" parent="312" relname="span"/>
+		<group id="308" type="span" parent="309" relname="elaboration"/>
+		<group id="309" type="span" parent="310" relname="span"/>
+		<group id="310" type="span" parent="242" relname="cause"/>
+		<group id="311" type="span" parent="313" relname="joint"/>
+		<group id="312" type="span" parent="314" relname="joint"/>
+		<group id="313" type="multinuc" parent="314" relname="joint"/>
+		<group id="314" type="multinuc" parent="315" relname="span"/>
+		<group id="315" type="span" parent="316" relname="span"/>
+		<group id="316" type="span" />
 		<group id="317" type="span" parent="318" relname="span"/>
-		<group id="318" type="span" />
-		<group id="319" type="span" parent="320" relname="span"/>
-		<group id="320" type="span" parent="122" relname="e-elaboration"/>
-		<group id="321" type="span" parent="265" relname="span"/>
-		<group id="322" type="multinuc" parent="321" relname="span"/>
-		<group id="323" type="span" parent="212" relname="sameunit"/>
-		<group id="324" type="span" parent="323" relname="span"/>
+		<group id="318" type="span" parent="122" relname="e-elaboration"/>
+		<group id="319" type="span" parent="263" relname="span"/>
+		<group id="320" type="multinuc" parent="319" relname="span"/>
+		<group id="321" type="span" parent="212" relname="sameunit"/>
+		<group id="322" type="span" parent="321" relname="span"/>
 	</body>
 </rst>

@@ -1,0 +1,143 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="conjunction" type="multinuc"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="e-elaboration" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation-N" type="rst"/>
+			<rel name="evaluation-S" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="interpretation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="list" type="multinuc"/>
+			<rel name="means" type="rst"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="otherwise" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="reason-N" type="rst"/>
+			<rel name="reason-S" type="rst"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sameunit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+			<rel name="summary" type="rst"/>
+			<rel name="textual-organization" type="multinuc"/>
+			<rel name="textual-organization" type="rst"/>
+			<rel name="topic-comment" type="rst"/>
+			<rel name="unless" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="51" relname="span">Once again, since the last briefing to the Council,</segment>
+		<segment id="2" parent="1" relname="e-elaboration">presented by the Secretary-General on 28 March,</segment>
+		<segment id="3" parent="52" relname="sameunit">the situation regarding Ukraine has seriously deteriorated.</segment>
+		<segment id="4" parent="53" relname="circumstance">This is now the tenth time that the Council has addressed the issue.</segment>
+		<segment id="5" parent="56" relname="span">The General Assembly also took up the matter on 27 March</segment>
+		<segment id="6" parent="5" relname="evidence">(see A/68/PV.80).</segment>
+		<segment id="7" parent="58" relname="circumstance">Following close to two weeks of relative calm,</segment>
+		<segment id="8" parent="57" relname="conjunction">starting on 6 April armed individuals and separatist groups began to seize Government buildings</segment>
+		<segment id="9" parent="57" relname="conjunction">and confiscate lethal weapons in Donetsk oblast of Ukraine, including in the cities of Donetsk, Lugansk and Kharkiv.</segment>
+		<segment id="10" parent="60" relname="conjunction">The individuals involved called for secession from Ukraine</segment>
+		<segment id="11" parent="60" relname="conjunction">and for joining the Russian Federation.</segment>
+		<segment id="12" parent="61" relname="e-elaboration">In Donetsk, some of these individuals declared a People's Republic of Donetsk.</segment>
+		<segment id="13" parent="64" relname="span">It has now been reported that there have been at least five new cities in eastern Ukraine</segment>
+		<segment id="14" parent="13" relname="e-elaboration">targeted by uprisings and seizures of Government buildings in the past 24 hours, including the towns of Sloviansk, Kramatorsk and Druzhkivka.</segment>
+		<segment id="15" parent="65" relname="list">United Nations monitors have reported a consistent reinforcement of barricades and armed civilians on both sides.</segment>
+		<segment id="16" parent="65" relname="list">They also sighted armed militiamen with AK-47s, machine guns and sniper rifles.</segment>
+		<segment id="17" parent="66" relname="span">United Nations monitors have also reported duelling rallies in Kharkiv today,</segment>
+		<segment id="18" parent="17" relname="result">resulting in injuries to some 50 persons.</segment>
+		<segment id="19" parent="68" relname="span">On the eve of 13 April, authorities in Kyiv launched an "anti-terror" operation to reclaim Sloviansk,</segment>
+		<segment id="20" parent="19" relname="background">a day after it was overrun by pro-separatist activists,</segment>
+		<segment id="21" parent="68" relname="e-elaboration">whom the United Nations human rights monitors on the ground have described as well-armed and well-organized militiamen.</segment>
+		<segment id="22" parent="23" relname="concession">As of 13 April, at least one Ukrainian officer has been killed in a gun battle;</segment>
+		<segment id="23" parent="70" relname="span">however, the exact number of casualties in the skirmishes remains unknown.</segment>
+		<segment id="24" parent="70" relname="elaboration">Numerous others have been reported wounded.</segment>
+		<segment id="25" parent="73" relname="background">Also today, Ukraine's acting President, Oleksandr Turchynov, signed a presidential decree,</segment>
+		<segment id="26" parent="72" relname="sameunit">giving the self-declared separatists until 6 am.</segment>
+		<segment id="27" parent="77" relname="span">Kyiv time to give up their weapons</segment>
+		<segment id="28" parent="27" relname="purpose">in order to avoid prosecution.</segment>
+		<segment id="29" parent="30" relname="attribution">The President further declared in a televised address to the nation</segment>
+		<segment id="30" parent="78" relname="span">that if illegal activities were not halted,</segment>
+		<segment id="31" parent="79" relname="span">a full-scale operation involving the Ukrainian army would be launched.</segment>
+		<segment id="32" parent="81" relname="attribution">The Russian Federation has publicly stated on several occasions</segment>
+		<segment id="33" parent="81" relname="span">that it would be "forced to act"</segment>
+		<segment id="34" parent="33" relname="condition">if Kyiv were to employ force against demonstrators in the East.</segment>
+		<segment id="35" parent="83" relname="span">The situation is therefore now more combustible than ever.</segment>
+		<segment id="36" parent="84" relname="span">The Secretary-General and the United Nations remain committed to the pursuit of a peaceful solution to this ever-deepening crisis.</segment>
+		<segment id="37" parent="85" relname="list">The Secretary-General has continued to speak out for the exercise of maximum restraint by all concerned and strict adherence to international law.</segment>
+		<segment id="38" parent="85" relname="list">He also continues to urge all others with influence on the situation to immediately and publicly call for restraint and a return to calm.</segment>
+		<segment id="39" parent="86" relname="span">The Secretary-General further appeals for direct and constructive dialogue between the parties, and between Kyiv and Moscow,</segment>
+		<segment id="40" parent="39" relname="purpose">to de-escalate the situation and address all differences.</segment>
+		<segment id="41" parent="90" relname="span">It has become painfully evident that the Ukraine crisis will continue to deepen</segment>
+		<segment id="42" parent="89" relname="span">if intensive efforts are not urgently made by all concerned</segment>
+		<segment id="43" parent="42" relname="purpose">to de-escalate the situation.</segment>
+		<segment id="44" parent="90" relname="evaluation-S">At this moment, Ukraine teeters on the very brink.</segment>
+		<segment id="45" parent="92" relname="span">However, it is not just Ukraine that will suffer from a scenario</segment>
+		<segment id="46" parent="45" relname="elaboration">where the likelihood of further bloodshed and violent clashes grows by the hour.</segment>
+		<segment id="47" parent="95" relname="span">Russia,</segment>
+		<segment id="48" parent="47" relname="e-elaboration">which shares a long border area with Ukraine as well as the broader European region,</segment>
+		<segment id="49" parent="96" relname="sameunit">faces a spillover effect of potentially severe consequences.</segment>
+		<segment id="50" parent="97" relname="e-elaboration">Such scenarios will also have repercussions for the entire international community.</segment>
+		<group id="51" type="span" parent="52" relname="sameunit"/>
+		<group id="52" type="multinuc" parent="53" relname="span"/>
+		<group id="53" type="span" parent="54" relname="span"/>
+		<group id="54" type="span" parent="55" relname="span"/>
+		<group id="55" type="span" parent="75" relname="interpretation"/>
+		<group id="56" type="span" parent="54" relname="circumstance"/>
+		<group id="57" type="multinuc" parent="58" relname="span"/>
+		<group id="58" type="span" parent="59" relname="span"/>
+		<group id="59" type="span" parent="63" relname="span"/>
+		<group id="60" type="multinuc" parent="61" relname="span"/>
+		<group id="61" type="span" parent="62" relname="span"/>
+		<group id="62" type="span" parent="59" relname="elaboration"/>
+		<group id="63" type="span" parent="67" relname="sequence"/>
+		<group id="64" type="span" parent="65" relname="list"/>
+		<group id="65" type="multinuc" parent="67" relname="sequence"/>
+		<group id="66" type="span" parent="65" relname="list"/>
+		<group id="67" type="multinuc" parent="75" relname="span"/>
+		<group id="68" type="span" parent="69" relname="span"/>
+		<group id="69" type="span" parent="67" relname="sequence"/>
+		<group id="70" type="span" parent="71" relname="span"/>
+		<group id="71" type="span" parent="67" relname="sequence"/>
+		<group id="72" type="multinuc" parent="73" relname="span"/>
+		<group id="73" type="span" parent="74" relname="span"/>
+		<group id="74" type="span" parent="67" relname="sequence"/>
+		<group id="75" type="span" parent="76" relname="span"/>
+		<group id="76" type="span" parent="79" relname="cause"/>
+		<group id="77" type="span" parent="72" relname="sameunit"/>
+		<group id="78" type="span" parent="31" relname="condition"/>
+		<group id="79" type="span" parent="80" relname="span"/>
+		<group id="80" type="span" parent="99" relname="cause"/>
+		<group id="81" type="span" parent="82" relname="span"/>
+		<group id="82" type="span" parent="35" relname="evaluation-N"/>
+		<group id="83" type="span" parent="36" relname="background"/>
+		<group id="84" type="span" parent="87" relname="background"/>
+		<group id="85" type="multinuc" parent="87" relname="span"/>
+		<group id="86" type="span" parent="85" relname="list"/>
+		<group id="87" type="span" parent="88" relname="span"/>
+		<group id="88" type="span" parent="94" relname="span"/>
+		<group id="89" type="span" parent="41" relname="condition"/>
+		<group id="90" type="span" parent="91" relname="span"/>
+		<group id="91" type="span" parent="92" relname="evaluation-N"/>
+		<group id="92" type="span" parent="93" relname="span"/>
+		<group id="93" type="span" parent="88" relname="motivation"/>
+		<group id="94" type="span" parent="99" relname="span"/>
+		<group id="95" type="span" parent="96" relname="sameunit"/>
+		<group id="96" type="multinuc" parent="97" relname="span"/>
+		<group id="97" type="span" parent="98" relname="span"/>
+		<group id="98" type="span" parent="94" relname="motivation"/>
+		<group id="99" type="span" parent="100" relname="span"/>
+		<group id="100" type="span" />
+	</body>
+</rst>
