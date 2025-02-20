@@ -1,5 +1,5 @@
 ''' Creates table with RST annotations and flat RST labels "main_conflicts_aligned.csv".
-Input: folder with rst files /data/07_rst, conflicts table ../data/main_conflicts.csv
+Input: folder with rst files /data/07_rst, conflicts table ../data/main_conflicts_old_missing_paraidentry.csv
 Output: aligned conflicts-rst table'''
 import lxml.etree
 from configparser import ConfigParser
@@ -92,7 +92,7 @@ def align(csvf, rst_dir):
 
     df_f['rstree_nodeid'] = big_list_id
     df_f['rstree_nodeid_chain'] = big_list_id_chain
-    df_f['rstree_relation_leave'] = big_list_relation
+    df_f['rstree_relation_leaf'] = big_list_relation
     df_f['rstree_relation_chain'] = big_list_relation_chain
     df_f = df_f.reset_index(drop=True)
 
@@ -118,9 +118,9 @@ def get_tokens(df_aligned):
 def main():
     config = ConfigParser()
     config.read("config.ini") 
-    rst_dir = config['CORPORA']['UNSCRST']
-    csvf = config['CORPORA']['TABLE_CONFLICTS']
-    output_file = config['CORPORA']['ALIGNED_CONFL_RST']
+    rst_dir = Path("../data/07_rst")
+    csvf = Path("../data/main_conflicts.csv")
+    output_file = Path("../data/main_conflicts_aligned.csv")
     df_aligned = align(csvf, rst_dir)
     df = get_tokens(df_aligned)
     df.to_csv(output_file)

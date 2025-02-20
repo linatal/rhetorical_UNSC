@@ -3,58 +3,63 @@ from collections import Counter
 import ast
 import numpy as np
 from configparser import ConfigParser
+from pathlib import Path
 
 
+"""
+def create_paragraph_ids(df):
+    # create both consecutive paragraph ids for dataset and per file
 
-def prepare_dataframe(table_conflict_rst_aligned):
-    # input: dataframe output from 01_align_rst_conflict.py
-    # create a conflict column, correct values in paragraph and sentence id, keep only columns needed, sort dataframe,
-    # return prepared dataframe
-    df = pd.read_csv(table_conflict_rst_aligned, index_col=0)
-    df['A0_Negative_Evaluation'] = df['A0_Negative_Evaluation'].replace("_", "")
-    df['B1_ChallengeType'] = df['B1_ChallengeType'].replace("_", "")
-    df["Conflict_Type"] = df['A0_Negative_Evaluation'] + df['B1_ChallengeType']
-    df["Conflict_Type"] = df["Conflict_Type"].replace("Direct_NegEvalChallenge", "Challenge")
-    df["Conflict_Type"] = df["Conflict_Type"].replace("Indirect_NegEvalChallenge", "Challenge")
-    df["Conflict_Type"] = df["Conflict_Type"].replace("", "_")
-    df['paragraph_id'] = df['paragraph_id'].astype("Int64")
     df['speech_sentence_id'] = df['speech_sentence_id'].astype("Int64")
-    # slice dataframe, keep only columns needed
-    df_sent_sm = df[['filename', 'fileid', 'text_edu', 'Conflict_Type', 'tokenized_edus', 'len_tokens_edus', 'speech_edu_id', 'speech_sentence_id', 'paragraph_id',
-     'rstree_nodeid_chain', 'rstree_relation_leave', 'rstree_relation_chain']]
-    df_sent_sm = df_sent_sm.sort_values(['filename', 'speech_sentence_id'], ascending=[True, True])
 
-    return df_sent_sm
-
-
-def to_consecutive(df_notcon):
-    paragraph_id_list = df_notcon['paragraph_id'].tolist()
+    # add columns consecutive paragraph ids for dataset with mo skip
+    paragraph_id_list = df['paragraph_id'].tolist()
     id_counter = -1
     new_paragraph_id_list = []
     for index, element in enumerate(paragraph_id_list):
 
         if not isinstance(paragraph_id_list[index], (int, np.integer)):
-            new_paragraph_id_list.append(id_counter+1)
-        elif not isinstance(paragraph_id_list[index-1], (int, np.integer)):
-            new_paragraph_id_list.append(id_counter+1)
-        elif paragraph_id_list[index-1] == paragraph_id_list[index]:
+            new_paragraph_id_list.append(id_counter + 1)
+        elif not isinstance(paragraph_id_list[index - 1], (int, np.integer)):
+            new_paragraph_id_list.append(id_counter + 1)
+        elif paragraph_id_list[index - 1] == paragraph_id_list[index]:
             new_paragraph_id_list.append(id_counter)
-        elif paragraph_id_list[index-1] != paragraph_id_list[index]:
+        elif paragraph_id_list[index - 1] != paragraph_id_list[index]:
             id_counter += 1
             new_paragraph_id_list.append(id_counter)
+    df['paragraph_id_consecutive'] = new_paragraph_id_list
 
-    return new_paragraph_id_list
+    # add columns consecutive paragraph ids per file
+    df['paragraph_id_consecutive_per_file'] = 0
+    for filename in df['filename'].unique():
+        mask = df[
+                   'filename'] == filename  # creates a Boolean mask that allows for direct modification of df using .loc[]
+        # df.loc[mask... extracts only the rows corresponding to the current filename in the loop
+        df.loc[mask, 'paragraph_id_consecutive_per_file'] = (
+                df.loc[mask, 'paragraph_id_consecutive'].rank(method='dense').astype(int) - 1)
+        # .rank() function assigns ranks to unique values in the selected column; method='dense' ensures that if there
+        # are repeating values, they get the same rank, and the next unique value gets the next consecutive rank
+        # astype converts the ranks to integer type; - 1 ensures that the numbering starts from 0
 
+    df = df.sort_values(['filename', 'speech_sentence_id'], ascending=[True, True])
+
+    return df
+
+"""
 
 def find_common_path(listi):
+    # Function finds the longest common suffix shared by all lists in listi.
+
+    # if listi has only one list, return it as the common path (since there’s nothing to compare)
     if len(listi) == 1:
         return listi[0]
-    global_common = [0] * max([len(x) for x in listi])
+    global_common = [0] * max([len(x) for x in listi])     # initialize global_common
+
     for li in listi:
         reverse_li = li[::-1]
         for lj in listi:
             reverse_lj = lj[::-1]
-            assert reverse_li[0] == reverse_lj[0]
+            assert reverse_li[0] == reverse_lj[0], listi
             local_common = []
             shortest_list = min(len(reverse_li), len(reverse_lj))
             for i in range(shortest_list):
@@ -64,7 +69,7 @@ def find_common_path(listi):
                     break
             if len(local_common) < len(global_common):
                 global_common = local_common
-    #if [0] * len(global_common) == global_common:
+    # if [0] * len(global_common) == global_common:
     #    print("Only one edu in paragraph, no subtree.")
     return global_common[::-1]
 
@@ -77,100 +82,83 @@ def get_truncated_paths(listi, p):
         truncated_paths.append(truncated_path)
     return truncated_paths
 
-
+"""
 def flatten_comprehension(matrix):
     return [item for row in matrix for item in row]
+"""
 
-
-def get_subtrees_per_paragraph(df):
-    # input: prepared dataframe
-    # update paragraph_ids, take nodeid_chain and relation_chain and shorten them to subtrees (per paragraph)
+def get_subtrees_and_satval_per_paragraph(df):
+    # input: df with prepared columns
+    # take nodeid_chain and relation_chain and shorten them to subtrees (per paragraph)
     # get sat value for speech and paragraph trees, will be used for NM
     # output: dataframe with subtrees and sat values
-    paragraph_consec_list = []
+
     list_nodeid_subtree = []
-    list_rstree_rel = []
-    list_rstree_li = []
+    list_rstree_rel_big = []
+    list_rstree_li_big = []
     list_paragraph_index_chain_big = []
 
     list_sat_value = []
+    list_sat_value_big = []
     list_sat_value_subtree = []
 
-    nucl_labels = ['span', None, 'sameunit', 'list', 'joint', 'coordination', 'contrast', 'sequence', 'textual-organization'] # 'None' is the root node
-
-    # include columns for paragraph id
-    new_paragraph_id_list = to_consecutive(df)
-    df['paragraph_id_consecutive'] = new_paragraph_id_list
-    filenames = df['filename'].drop_duplicates().tolist()
-    new_paragraph_id_list_per_file = []
-    for filename in filenames:
-        df_fn = df[df['filename'] == filename]
-        list_consecutive_fn = to_consecutive(df_fn)
-        new_paragraph_id_list_per_file.append(list_consecutive_fn)
-    new_paragraph_id_list_per_file = flatten_comprehension(new_paragraph_id_list_per_file)
-    assert len(new_paragraph_id_list_per_file) == len(new_paragraph_id_list)
-    df['paragraph_id_consecutive_per_file'] = new_paragraph_id_list_per_file
-
+    nucl_labels = ['span', None, 'sameunit', 'list', 'joint', 'coordination', 'contrast', 'sequence',
+                   'textual-organization']  # 'None' is the root node
 
     # iterate over apragraphs and compute over list of relations
-    paragraph_idxs = df['paragraph_id_consecutive'].drop_duplicates().tolist()
+    paragraph_idxs = df['paragraph_id_consecutive'].unique()
     for paragraph_index in paragraph_idxs:
         df_p = df[df['paragraph_id_consecutive'] == paragraph_index]
-        list_paragraph_index_chain = []
 
-        for index, row in df_p.iterrows():
-            # get df['rstree_nodeid_chain'] row from str to lists
-            y_str = row['rstree_nodeid_chain']
-            y = ast.literal_eval(y_str)
-            list_paragraph_index_chain.append(y)
+        list_paragraph_index_chain = [ast.literal_eval(x) for x in df_p['rstree_nodeid_chain'].tolist()]
+        list_rstree_rel = [ast.literal_eval(x) for x in df_p['rstree_relation_chain'].tolist()]
+        list_rstree_li = [len(ast.literal_eval(x)) for x in df_p['rstree_relation_chain'].tolist()]
 
-            # get df['rstree_relation_chain'] row from str to lists
-            z_str = row['rstree_relation_chain']
-            z = ast.literal_eval(z_str)
-            list_rstree_rel.append(z)
-            sum_edges = len(z)
-            list_rstree_li.append(sum_edges)  # get sum of edges from leave to root
-            # get sat value which are all satelite relation from leave to root
-            assert len(y) == sum_edges
+        list_sat_value = []
 
-            counter = Counter(z)
-            sum_rstree_nucl_value = counter[None] + counter['span'] + counter['sameunit'] + counter['list'] + counter[
-                'joint'] + counter['contrast'] + counter['sequence'] + counter['textual-organization']
-            assert sum_edges == sum(counter.values())
-
-            sat_value = sum_edges - sum_rstree_nucl_value
+        for relchain in list_rstree_rel:
+            counter = Counter(relchain)
+            assert len(relchain) == sum(counter.values())
+            # count nuclei
+            sum_rstree_nucl_value = sum(counter[key] for key in nucl_labels)
+            sat_value = len(relchain) - sum_rstree_nucl_value
             list_sat_value.append(sat_value)
 
-        list_paragraph_index_chain_big.append(list_paragraph_index_chain)
+        list_paragraph_index_chain_big.extend(list_paragraph_index_chain)
+        list_rstree_li_big.extend(list_rstree_li)
+        list_rstree_rel_big.extend(list_rstree_rel)
+        list_sat_value_big.extend(list_sat_value)
+
 
         assert len(list_rstree_li) == len(list_sat_value)
 
         common_path = find_common_path(list_paragraph_index_chain)
+
         para_lst = get_truncated_paths(list_paragraph_index_chain, common_path)
         assert df_p.shape[0] == len(para_lst)
-        list_nodeid_subtree.append(para_lst)
+        list_nodeid_subtree.extend(para_lst)
 
-    list_paragraph_index_chain_big = flatten_comprehension(list_paragraph_index_chain_big)
-    list_nodeid_subtree = flatten_comprehension(list_nodeid_subtree)
-    assert len(list_nodeid_subtree) == len(list_rstree_rel) == len(list_rstree_li) == len(list_paragraph_index_chain_big)
+    #list_paragraph_index_chain_big = flatten_comprehension(list_paragraph_index_chain_big)
+    #list_nodeid_subtree = flatten_comprehension(list_nodeid_subtree)
+    assert len(list_nodeid_subtree) == len(list_rstree_rel_big) == len(list_rstree_li_big) == len(
+        list_paragraph_index_chain_big)
 
-    # get len list for each list in list_nodeid_subtree,
+    # get len list for each list in list_nodeid_subtree
     list_subtree_li = [len(x) for x in list_nodeid_subtree]
     # slice df['rstree_relation_chain'] lists to len(para_lst)
     lst_para_rel_subtree = []
     for i, r in enumerate(list_subtree_li):
-        sublist = list_rstree_rel[i][:r]
+        sublist = list_rstree_rel_big[i][:r]
         counter2 = Counter(sublist)
         lst_para_rel_subtree.append(sublist)
-        sum_subtree_nucl_value = counter2[None] + counter2['span'] + counter2['sameunit'] + counter2['list'] + counter2[
-            'joint'] + counter2['contrast'] + counter2['sequence'] + counter2['textual-organization']
+        sum_subtree_nucl_value = sum(counter2[key] for key in nucl_labels)
         sat_value_subtree = len(sublist) - sum_subtree_nucl_value
         list_sat_value_subtree.append(sat_value_subtree)
 
     assert len(lst_para_rel_subtree) == len(list_nodeid_subtree) == len(list_sat_value_subtree)
 
-    df['rstree_edges'] = list_rstree_li
-    df['sat_value_rstree'] = list_sat_value
+    df['rstree_edges'] = list_rstree_li_big
+    df['sat_value_rstree'] = list_sat_value_big
 
     df['rstree_nodeid_chain_subtree'] = list_nodeid_subtree
     df['rstree_relation_chain_subtree'] = lst_para_rel_subtree
@@ -179,6 +167,7 @@ def get_subtrees_per_paragraph(df):
     df['sat_value_subtree'] = list_sat_value_subtree
 
     return df
+
 
 
 def get_nuclearity_mass(df):
@@ -342,19 +331,24 @@ def get_nuclearity_mass(df):
 
     return df_filewise, df_parawise
 
+
+
 def main():
     config = ConfigParser()
-    config.read("config.ini") 
-    csvf_aligned = config['CORPORA']['ALIGNED_CONFL_RST']
-    df = prepare_dataframe(csvf_aligned)
+    config.read("config.ini")
+    csvf_aligned = Path("../data/main_conflicts_aligned.csv")
+    df = pd.read_csv(csvf_aligned, index_col=0)
+    #df_colm = create_paragraph_ids(df)
+    #df_colm.to_csv(Path("../data/output/main_conflicts_prepared.csv"))
 
-    df_sub = get_subtrees_per_paragraph(df)
-    csvf_aligned_subtrees = config['OUTPUT']['ALIGNED_CONFL_RST_PARASUBTREES']
+    df_sub = get_subtrees_and_satval_per_paragraph(df)
+    csvf_aligned_subtrees = (Path("../data/output/main_conflicts_aligned_paragraphid.csv"))
     df_sub.to_csv(csvf_aligned_subtrees)
+
     evaluation_table_speech, evaluation_table_para = get_nuclearity_mass(df_sub)
 
-    nm_speech = config['OUTPUT']['NM_SPEECH']
-    nm_para = config['OUTPUT']['NM_PARA']
+    nm_speech = Path("../data/output/nuclearity_mass_speech.csv")
+    nm_para = Path("../data/output/nuclearity_mass_para.csv")
     evaluation_table_speech.to_csv(nm_speech)
     evaluation_table_para.to_csv(nm_para)
 

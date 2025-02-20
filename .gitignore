@@ -2,6 +2,8 @@
 .DS_Store
 .idea
 Desktop.ini
+.ipynb_checkpoints
+/code/.ipynb_checkpoints/
 
 
 # Thumbnail cache files
@@ -25,4 +27,6 @@ node_modules
 
 # project files
 /code/04_analysis_nuclearity.ipynb
-/data/main_conflicts_aligned_old.csv
+/data/old/main_conflicts_aligned_old.csv
+/data/old/
+/code/old/
