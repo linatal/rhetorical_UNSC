@@ -1,4 +1,4 @@
-rstree_relation_leave,Challenge,Correction,Direct_NegEval,Indirect_NegEval,No_Conflict
+rstree_relation_leaf,Challenge,Correction,Direct_NegEval,Indirect_NegEval,No_Conflict
 attribution,18.29,6.29,2.82,3.81,4.91
 background,1.22,0.0,0.38,0.0,1.36
 enablement,0.0,0.0,0.26,0.0,0.13
@@ -21,6 +21,8 @@ result,0.0,0.0,1.02,2.02,0.6
 preparation,2.44,0.7,0.13,0.22,1.31
 restatement,0.0,0.7,0.38,0.0,1.01
 summary,0.0,0.0,0.0,0.0,0.08
+textual-organization,0.0,0.0,0.0,0.0,0.3
+topic-comment,0.0,0.0,0.0,0.0,0.18
 list,1.22,2.8,3.59,2.91,3.96
 conjunction,1.22,10.49,14.47,16.37,13.98
 joint,1.22,0.7,0.26,0.67,0.63

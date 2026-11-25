@@ -1,0 +1,9 @@
+,n,n,proportion,proportion,percent,percent
+Conflict_Binary,Conflict,No_Conflict,Conflict,No_Conflict,Conflict,No_Conflict
+relation,,,,,,
+pragmatic,52,223,0.0358,0.0562,3.58,5.62
+semantic,355,913,0.2445,0.23,24.45,23.0
+contrastive,58,100,0.0399,0.0252,3.99,2.52
+textual,9,114,0.0062,0.0287,0.62,2.87
+multinuclear,348,966,0.2397,0.2434,23.97,24.34
+other,63,195,0.0434,0.0491,4.34,4.91

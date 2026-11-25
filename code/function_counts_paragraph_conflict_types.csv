@@ -1,0 +1,9 @@
+,n,n,n,n,n,proportion,proportion,proportion,proportion,proportion,percent,percent,percent,percent,percent
+paragraph_type,Challenge,Correction,Direct_NegEval,Indirect_NegEval,No_Conflict,Challenge,Correction,Direct_NegEval,Indirect_NegEval,No_Conflict,Challenge,Correction,Direct_NegEval,Indirect_NegEval,No_Conflict
+relation,,,,,,,,,,,,,,,
+pragmatic,101,2,1449,317,1519,0.0958,0.0408,0.1109,0.0941,0.1042,9.58,4.08,11.09,9.41,10.42
+semantic,97,4,1497,443,1773,0.092,0.0816,0.1146,0.1315,0.1216,9.2,8.16,11.46,13.15,12.16
+contrastive,51,6,465,61,335,0.0484,0.1224,0.0356,0.0181,0.023,4.84,12.24,3.56,1.81,2.3
+textual,12,1,117,24,213,0.0114,0.0204,0.009,0.0071,0.0146,1.14,2.04,0.9,0.71,1.46
+multinuclear,160,4,2044,591,2294,0.1518,0.0816,0.1565,0.1754,0.1574,15.18,8.16,15.65,17.54,15.74
+other,21,1,121,38,138,0.0199,0.0204,0.0093,0.0113,0.0095,1.99,2.04,0.93,1.13,0.95
